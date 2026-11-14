@@ -1,0 +1,50 @@
+[
+  {
+    "query_id": "q16",
+    "answer_grade": 2,
+    "citation_support": [true],
+    "context_grade": 2,
+    "notes": "Context chứa chunk p38_idx0 với đúng đoạn 'fine threads interlace when they touch each other'; câu trả lời và citation chính xác."
+  },
+  {
+    "query_id": "q17",
+    "answer_grade": 0,
+    "citation_support": [false],
+    "context_grade": 0,
+    "notes": "Chunk p38_idx0 chỉ mô tả central capsule chia protoplasm thành 2 phần, không hề nhắc đến nucleus (nằm ở trang 39). Model suy đoán và gắn citation p38_idx0 không hỗ trợ."
+  },
+  {
+    "query_id": "q18",
+    "answer_grade": 0,
+    "citation_support": [],
+    "context_grade": 0,
+    "notes": "Từ chối nhầm (false abstention) do budget=800 ký tự làm rớt chunk p40_idx0 khỏi context."
+  },
+  {
+    "query_id": "q19",
+    "answer_grade": 0,
+    "citation_support": [],
+    "context_grade": 0,
+    "notes": "Từ chối nhầm do không truy xuất được trang 45 trong 1 lượt và budget=800."
+  },
+  {
+    "query_id": "q20",
+    "answer_grade": 0,
+    "citation_support": [],
+    "context_grade": 0,
+    "notes": "Từ chối nhầm do budget=800 làm rớt chunk p48_idx0 khỏi context."
+  },
+  {
+    "query_id": "u_test_1",
+    "citation_support": [],
+    "abstention_correct": true,
+    "notes": "Tìm kiếm 1 lượt và từ chối đúng, không bịa thông tin."
+  },
+  {
+    "query_id": "u_test_2",
+    "citation_support": [],
+    "abstention_correct": true,
+    "notes": "Tìm kiếm 1 lượt và từ chối đúng, không bịa thông tin."
+  }
+]
+

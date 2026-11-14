@@ -1,0 +1,1069 @@
+[
+  {
+    "query_id": "q01",
+    "split": "dev",
+    "question": "What are the simplest animals called in zoology?",
+    "strategy": "hybrid_rrf",
+    "top_k": 3,
+    "budget_chars": 2400,
+    "gold": [
+      {
+        "source_id": "animal_life_zoology",
+        "page": 22,
+        "evidence": "The simplest animals, or Protozoa"
+      }
+    ],
+    "results": [
+      {
+        "id": "animal_life_zoology_strategy_b_p22_idx0_94ba25a7",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 22,
+        "text": "ANIMAL LIFE\nCHAPTER I\nTHE LIFE OP THE SIMPLEST ANIMAIiS\n1. The simplest animals, or Protozoa.\n—\nThe simplest ani-\nmals are those whose bodies are simplest in structure and\nwhich do the things done by all living animals, such as\neating, breathing, moving, feeling, and reproducing in the\nmost primitive way. The body of a horse, made up of\nvarious organs and tissues, is complexly formed, and the\nvarious organs of the body perform the various kinds of\nwork for which they are fitted in a complex way. The\nsimplest animals are all very small, and almost all live in\nthe water ; some kinds in fresh water and many kinds in\nthe ocean. Some live in damp sand or moss, and still others\nare parasites in the bodies of other animals. They are not\nfamiliarly known to us; we can not see them with the\nunaided eye, and yet there are thousands of different kinds\nof them, and they may be found wherever there is water.\nIn a glass of water taken from a stagnant pool there\nis a host of animals. There may be a few water beetles\nor water bugs swimming violently about, animals half an\ninch long, with head and eyes and oar-like legs ; or there\nmay be a little fish, or some tadpoles and wrigglers. These\nare evidently not the simplest animals. There will be\nmany very small active animals barely visible to the un-\naided eyes. These, too, are animals of considerable com-\nplexity. But if a single drop of the water be placed\n3 1",
+        "metadata": {
+          "chapter": "CHAPTER I",
+          "char_count": 1416,
+          "page_number": 22
+        },
+        "score": 0.03278688524590164,
+        "strategy": "hybrid_rrf",
+        "hit": true
+      },
+      {
+        "id": "animal_life_zoology_strategy_b_p23_idx0_66d9c439",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 23,
+        "text": "2 ANIMAL LIFE\non a glass slip or in a watch glass and examined with a\ncompound microscope, there will be seen a number of ex-\ntremely small creatureswhich swim about in the water-drop\nby means of fine hairs, or crawl slowly on the surface of the\nglass. These are among our simplest animals. There are,\nas already said, many kinds of these \" simplest animals,\"\nalthough, perhaps strictly speaking, only one kind can be\ncalled simplest. Some of these kinds are spherical in\nshape, some elliptical or football-shaped, some conical,some\nflattened. Some have many fine, minute hairs projecting\nfrom the surface ; some have a few longer, stronger hairs\nthat lash back and forth in the water, and some have no\nhairs at all. There are many kinds and they differ in size,\nshape, body covering, manner of movement, and habit of\nfood-getting. And some are truly simpler than others.\nBut all agree in one thing—which is a very important\nthing—and that is in being composed in the simplest way\npossible among animals.\n2. The animal cell.—The whole body of any one of the\nsimplest animals or Protozoa is composed for the animal's\nwhole lifetime of but a single cell. The bodies of all other\nanimals are composed of many cells. The cell may be\ncalled the unit of animal (or plant) structure. The body\nof a horse is complexly composed of organs and tissues.\nEach of these organs and tissues is in turn composed of a\nlarge number of these structural units called cells. These\ncells are of great variety in shape and size and general\ncharacter. The cells which compose muscular tissue are\nvery different from the cells which compose the brain.\nAnd both of these kinds of cells are very different from\nthe simple primitive, undifferentiated kind of cell seen in\nthe body of a protozoan, or in the earliest embryonic\nstages of a many-celled animal.\nThe animal cell is rarely typically cellular in character\n—that is, it is rarely in the condition of a tiny sac or box\nof symmetrical shape. Plant cells are often of this char-",
+        "metadata": {
+          "chapter": "CHAPTER I",
+          "char_count": 2005,
+          "page_number": 23
+        },
+        "score": 0.0315136476426799,
+        "strategy": "hybrid_rrf",
+        "hit": false
+      },
+      {
+        "id": "animal_life_zoology_strategy_b_p37_idx0_a9e9aa48",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 37,
+        "text": "16 ANIMAL LIFE\nof abundance of individuals vastly outnumber all other\nanimals, and which in point of importance in helping main-\ntain the complex and varied life of the ocean distinctly out-\nclass all other marine forms. These animals are the marine\nProtozoa, those of the \" simplest animals \" which live in the\nocean.\nAlthough the water at the surface of the ocean appears\nclear, and on superj&cial examination devoid of life, yet a\ndrop of this water taken from certain ocean regions exam-\nined under the microscope reveals the fact that this water\nis inhabited by Protozoa. Xot only is the water at the\nvery surface of the ocean the home of the simplest animals,\nbut they can be found in all the water from the surface to\na great depth beneath it. In a pint of this ocean water\nfrom the surface or near it there may be millions of these\nanimals. In the oceans of the world the number of them\nis inconceivable. Dr. W. K. Brooks says that the \" basis\nof all the life in the modern ocean is found in the micro-\norganisms of the surface.\" By micro-organisms he means\nthe one-celled animals and the one-celled plants. For\nthe simplest plants are, like the simplest animals, one-\ncelled. \" Modern microscopical research,\" he says, \" has\nshown that these simple plants, and the Globigerinae and\nKadiolaria [kinds of Protozoa] which feed upon them, are\nso abundant and prolific that they meet all demands and\nsupply the food for all the animals of the ocean.\"\n9. The Globigerinae and Radiolaria.—The Globigerina?\n(Fig. 10) and Radiolaria (Fig. 11) are among the most in-\nteresting of all the simplest animals. Their simple one-\ncelled body is surrounded by a microscopic shell, which\namong the Globigerinae is usually made of lime (calcium\ncarbonate), in the case of Radiolaria of silica. These minute\nshells present a great variety of shape and pattern, many\nbeing of the most exquisite symmetry and beauty. The\nshells are usually perforated by many small holes, through\nwhich project long, delicate, protoplasmic threads. These",
+        "metadata": {
+          "chapter": "CHAPTER I",
+          "char_count": 2024,
+          "page_number": 37
+        },
+        "score": 0.03149801587301587,
+        "strategy": "hybrid_rrf",
+        "hit": false
+      }
+    ],
+    "context": "[animal_life_zoology_strategy_b_p22_idx0_94ba25a7 | animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf | page 22]\nANIMAL LIFE\nCHAPTER I\nTHE LIFE OP THE SIMPLEST ANIMAIiS\n1. The simplest animals, or Protozoa.\n—\nThe simplest ani-\nmals are those whose bodies are simplest in structure and\nwhich do the things done by all living animals, such as\neating, breathing, moving, feeling, and reproducing in the\nmost primitive way. The body of a horse, made up of\nvarious organs and tissues, is complexly formed, and the\nvarious organs of the body perform the various kinds of\nwork for which they are fitted in a complex way. The\nsimplest animals are all very small, and almost all live in\nthe water ; some kinds in fresh water and many kinds in\nthe ocean. Some live in damp sand or moss, and still others\nare parasites in the bodies of other animals. They are not\nfamiliarly known to us; we can not see them with the\nunaided eye, and yet there are thousands of different kinds\nof them, and they may be found wherever there is water.\nIn a glass of water taken from a stagnant pool there\nis a host of animals. There may be a few water beetles\nor water bugs swimming violently about, animals half an\ninch long, with head and eyes and oar-like legs ; or there\nmay be a little fish, or some tadpoles and wrigglers. These\nare evidently not the simplest animals. There will be\nmany very small active animals barely visible to the un-\naided eyes. These, too, are animals of considerable com-\nplexity. But if a single drop of the water be placed\n3 1",
+    "context_ids": [
+      "animal_life_zoology_strategy_b_p22_idx0_94ba25a7"
+    ],
+    "context_chars": 1565,
+    "elapsed_ms": 1907.20891719684,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q02",
+    "split": "dev",
+    "question": "What is required to see the microscopic animals in stagnant water?",
+    "strategy": "hybrid_rrf",
+    "top_k": 3,
+    "budget_chars": 2400,
+    "gold": [
+      {
+        "source_id": "animal_life_zoology",
+        "page": 23,
+        "evidence": "compound microscope"
+      }
+    ],
+    "results": [
+      {
+        "id": "animal_life_zoology_strategy_b_p37_idx0_a9e9aa48",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 37,
+        "text": "16 ANIMAL LIFE\nof abundance of individuals vastly outnumber all other\nanimals, and which in point of importance in helping main-\ntain the complex and varied life of the ocean distinctly out-\nclass all other marine forms. These animals are the marine\nProtozoa, those of the \" simplest animals \" which live in the\nocean.\nAlthough the water at the surface of the ocean appears\nclear, and on superj&cial examination devoid of life, yet a\ndrop of this water taken from certain ocean regions exam-\nined under the microscope reveals the fact that this water\nis inhabited by Protozoa. Xot only is the water at the\nvery surface of the ocean the home of the simplest animals,\nbut they can be found in all the water from the surface to\na great depth beneath it. In a pint of this ocean water\nfrom the surface or near it there may be millions of these\nanimals. In the oceans of the world the number of them\nis inconceivable. Dr. W. K. Brooks says that the \" basis\nof all the life in the modern ocean is found in the micro-\norganisms of the surface.\" By micro-organisms he means\nthe one-celled animals and the one-celled plants. For\nthe simplest plants are, like the simplest animals, one-\ncelled. \" Modern microscopical research,\" he says, \" has\nshown that these simple plants, and the Globigerinae and\nKadiolaria [kinds of Protozoa] which feed upon them, are\nso abundant and prolific that they meet all demands and\nsupply the food for all the animals of the ocean.\"\n9. The Globigerinae and Radiolaria.—The Globigerina?\n(Fig. 10) and Radiolaria (Fig. 11) are among the most in-\nteresting of all the simplest animals. Their simple one-\ncelled body is surrounded by a microscopic shell, which\namong the Globigerinae is usually made of lime (calcium\ncarbonate), in the case of Radiolaria of silica. These minute\nshells present a great variety of shape and pattern, many\nbeing of the most exquisite symmetry and beauty. The\nshells are usually perforated by many small holes, through\nwhich project long, delicate, protoplasmic threads. These",
+        "metadata": {
+          "chapter": "CHAPTER I",
+          "char_count": 2024,
+          "page_number": 37
+        },
+        "score": 0.03252247488101534,
+        "strategy": "hybrid_rrf",
+        "hit": false
+      },
+      {
+        "id": "animal_life_zoology_strategy_b_p22_idx0_94ba25a7",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 22,
+        "text": "ANIMAL LIFE\nCHAPTER I\nTHE LIFE OP THE SIMPLEST ANIMAIiS\n1. The simplest animals, or Protozoa.\n—\nThe simplest ani-\nmals are those whose bodies are simplest in structure and\nwhich do the things done by all living animals, such as\neating, breathing, moving, feeling, and reproducing in the\nmost primitive way. The body of a horse, made up of\nvarious organs and tissues, is complexly formed, and the\nvarious organs of the body perform the various kinds of\nwork for which they are fitted in a complex way. The\nsimplest animals are all very small, and almost all live in\nthe water ; some kinds in fresh water and many kinds in\nthe ocean. Some live in damp sand or moss, and still others\nare parasites in the bodies of other animals. They are not\nfamiliarly known to us; we can not see them with the\nunaided eye, and yet there are thousands of different kinds\nof them, and they may be found wherever there is water.\nIn a glass of water taken from a stagnant pool there\nis a host of animals. There may be a few water beetles\nor water bugs swimming violently about, animals half an\ninch long, with head and eyes and oar-like legs ; or there\nmay be a little fish, or some tadpoles and wrigglers. These\nare evidently not the simplest animals. There will be\nmany very small active animals barely visible to the un-\naided eyes. These, too, are animals of considerable com-\nplexity. But if a single drop of the water be placed\n3 1",
+        "metadata": {
+          "chapter": "CHAPTER I",
+          "char_count": 1416,
+          "page_number": 22
+        },
+        "score": 0.032266458495966696,
+        "strategy": "hybrid_rrf",
+        "hit": false
+      },
+      {
+        "id": "animal_life_zoology_strategy_b_p26_idx0_725fd1bc",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 26,
+        "text": "THE LIFE OF THE SIMPLEST ANIMALS 5\n3. What the primitive cell can do.—The body of one of\nthe minute animals in the water-drop is a single cell. The\nbody is not composed of organs of different parts, as in the\nbody of the horse. There is no heart, no stomach ; there\nare no muscles, no nerves. And yet the protozoan is a liv-\ning animal as truly as is the horse, and it breathes and eats\nand moves and feels and produces young as truly as does\nthe horse. It performs all the processes necessary for the\nlife of an animal. The single cell, the single minute speck\nof protoplasm, has the power of doing, in a very simple and\nprimitive way, all those things which are necessary for\nlife, and which are done in the case of other animals by\nthe various organs of the body.\n4. Amoeba.—The simple and primitive life of these\nProtozoa can be best understood by the observation of\nliving individuals. In the slime and sediment at the\nbottom of stagnant pools lives a certain specially interest-\ning kind of protozoan, the Ammba (Fig. 2). Of all the\nsimplest animals this is as simple or primitive as any. The\nminute viscous particle of protoplasm which forms its\nbody is irregular in outline, and its outline or shape slowly\nbut constantly changes. It may contract into a tiny ball\n;\nit may become almost star-shaped ; it may become elongate\nor flattened ; short, blunt, finger-like projections called\npseudopods extend from the central body mass, and these\nprojections are constantly changing, slowly pushing out or\nothers believe that protoplasm exists as a foam work ; that it is a vis-\ncous liquid containing many fine globules (thegranule-appearing spots)\nof a liquid of different density and numerous larger globules ofa liquid\nof still other density. It is a foam in which the bubbles are not filled\nwith air, but with liquids of different density. This last theory of the\nstructure of protoplasm is the one accepted by a majority of modern\nnaturalists, although the other theories have numerous believers. But\njust as with what little we know of the chemical constitution of proto-\nplasm, the little we know of its physical structure throws almost no\nlight on the remarkable properties of this fundamental life substance.",
+        "metadata": {
+          "chapter": "CHAPTER I",
+          "char_count": 2219,
+          "page_number": 26
+        },
+        "score": 0.031024531024531024,
+        "strategy": "hybrid_rrf",
+        "hit": false
+      }
+    ],
+    "context": "[animal_life_zoology_strategy_b_p37_idx0_a9e9aa48 | animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf | page 37]\n16 ANIMAL LIFE\nof abundance of individuals vastly outnumber all other\nanimals, and which in point of importance in helping main-\ntain the complex and varied life of the ocean distinctly out-\nclass all other marine forms. These animals are the marine\nProtozoa, those of the \" simplest animals \" which live in the\nocean.\nAlthough the water at the surface of the ocean appears\nclear, and on superj&cial examination devoid of life, yet a\ndrop of this water taken from certain ocean regions exam-\nined under the microscope reveals the fact that this water\nis inhabited by Protozoa. Xot only is the water at the\nvery surface of the ocean the home of the simplest animals,\nbut they can be found in all the water from the surface to\na great depth beneath it. In a pint of this ocean water\nfrom the surface or near it there may be millions of these\nanimals. In the oceans of the world the number of them\nis inconceivable. Dr. W. K. Brooks says that the \" basis\nof all the life in the modern ocean is found in the micro-\norganisms of the surface.\" By micro-organisms he means\nthe one-celled animals and the one-celled plants. For\nthe simplest plants are, like the simplest animals, one-\ncelled. \" Modern microscopical research,\" he says, \" has\nshown that these simple plants, and the Globigerinae and\nKadiolaria [kinds of Protozoa] which feed upon them, are\nso abundant and prolific that they meet all demands and\nsupply the food for all the animals of the ocean.\"\n9. The Globigerinae and Radiolaria.—The Globigerina?\n(Fig. 10) and Radiolaria (Fig. 11) are among the most in-\nteresting of all the simplest animals. Their simple one-\ncelled body is surrounded by a microscopic shell, which\namong the Globigerinae is usually made of lime (calcium\ncarbonate), in the case of Radiolaria of silica. These minute\nshells present a great variety of shape and pattern, many\nbeing of the most exquisite symmetry and beauty. The\nshells are usually perforated by many small holes, through\nwhich project long, delicate, protoplasmic threads. These",
+    "context_ids": [
+      "animal_life_zoology_strategy_b_p37_idx0_a9e9aa48"
+    ],
+    "context_chars": 2173,
+    "elapsed_ms": 256.2738750129938,
+    "hit1": false,
+    "hit3": false,
+    "context_hit": false
+  },
+  {
+    "query_id": "q03",
+    "split": "dev",
+    "question": "What does a primitive animal cell consist of?",
+    "strategy": "hybrid_rrf",
+    "top_k": 3,
+    "budget_chars": 2400,
+    "gold": [
+      {
+        "source_id": "animal_life_zoology",
+        "page": 24,
+        "evidence": "The primitive animal cell (Fig. 1) consists of a"
+      }
+    ],
+    "results": [
+      {
+        "id": "animal_life_zoology_strategy_b_p24_idx0_d8ce5433",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 24,
+        "text": "THE LIFE OF THE SIMPLEST ANIMALS 3\nacter. The primitive animal cell (Fig. 1) consists of a\nsmall mass of a viscid, nearly colorless, substance called\nprotoplasm. This protoplasm is differentiated to form two\nparts or regions of the cell, an inner denser mass called the\nnucleus, and an outer, clearer, inclosing mass called the\ncytoplasm. There may be more than\none nucleus in a cell. Sometimes\nthe cell is inclosed by a cell wall\nwhich may be simply a tougher outer\nlayer of the cytoplasm, or may be a\nthin membrane secreted by the pro-\ntoplasm. In addition to the proto-\nplasm, which is the fundamental and\nessential cell substance, the cell may fig. i.-Biood ceii of a crab\ncontain certain so-called cell prod- (a^ter haeckkl). show-\n, 1, , TiiiTP ingcytoplasmand nucleus\nUCts, substances produced by the life (t^e large, inner, nearly\nprocesses of the protoplasm. The circular spot) and gran-\nn ,1 1 • 1 •^ ules of various substancescell may thus contam water, oils, lyingm the cytoplasm,\nresin, starch grains, pigment gran-\nules, or other substances. These substances are held in\nthe protoplasm as liquid drops or solid particles.\nThe protoplasm itself of the cell shows an obvious\ndivision into parts, so that certain parts of it, especially\nparts in the nucleus, have received names. The nucleus\nusually has a thin protoplasmic membrane surrounding it,\nwhich is called the nuclear membrane. There appear to be\nfine threads or rods in the nucleus which are evidently\ndifferent from the rest of the nuclear protoplasm. These\nrods are called chromosomes. The cell is, indeed, not so\nsimple as the words \" structural unit \"' might imply, but\nscience has not yet so well analyzed its parts as to warrant\nthe transfer of the name structural unit to any single part\nof the cell—that is, to any lesser or simpler part of the\nanimal body than the cell as a whole.\nThe protoplasm, which is the essential substance of the\ncell and hence of the whole animal body, is a substance",
+        "metadata": {
+          "chapter": "CHAPTER I",
+          "char_count": 1973,
+          "page_number": 24
+        },
+        "score": 0.032266458495966696,
+        "strategy": "hybrid_rrf",
+        "hit": true
+      },
+      {
+        "id": "animal_life_zoology_strategy_b_p26_idx0_725fd1bc",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 26,
+        "text": "THE LIFE OF THE SIMPLEST ANIMALS 5\n3. What the primitive cell can do.—The body of one of\nthe minute animals in the water-drop is a single cell. The\nbody is not composed of organs of different parts, as in the\nbody of the horse. There is no heart, no stomach ; there\nare no muscles, no nerves. And yet the protozoan is a liv-\ning animal as truly as is the horse, and it breathes and eats\nand moves and feels and produces young as truly as does\nthe horse. It performs all the processes necessary for the\nlife of an animal. The single cell, the single minute speck\nof protoplasm, has the power of doing, in a very simple and\nprimitive way, all those things which are necessary for\nlife, and which are done in the case of other animals by\nthe various organs of the body.\n4. Amoeba.—The simple and primitive life of these\nProtozoa can be best understood by the observation of\nliving individuals. In the slime and sediment at the\nbottom of stagnant pools lives a certain specially interest-\ning kind of protozoan, the Ammba (Fig. 2). Of all the\nsimplest animals this is as simple or primitive as any. The\nminute viscous particle of protoplasm which forms its\nbody is irregular in outline, and its outline or shape slowly\nbut constantly changes. It may contract into a tiny ball\n;\nit may become almost star-shaped ; it may become elongate\nor flattened ; short, blunt, finger-like projections called\npseudopods extend from the central body mass, and these\nprojections are constantly changing, slowly pushing out or\nothers believe that protoplasm exists as a foam work ; that it is a vis-\ncous liquid containing many fine globules (thegranule-appearing spots)\nof a liquid of different density and numerous larger globules ofa liquid\nof still other density. It is a foam in which the bubbles are not filled\nwith air, but with liquids of different density. This last theory of the\nstructure of protoplasm is the one accepted by a majority of modern\nnaturalists, although the other theories have numerous believers. But\njust as with what little we know of the chemical constitution of proto-\nplasm, the little we know of its physical structure throws almost no\nlight on the remarkable properties of this fundamental life substance.",
+        "metadata": {
+          "chapter": "CHAPTER I",
+          "char_count": 2219,
+          "page_number": 26
+        },
+        "score": 0.032266458495966696,
+        "strategy": "hybrid_rrf",
+        "hit": false
+      },
+      {
+        "id": "animal_life_zoology_strategy_b_p23_idx0_66d9c439",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 23,
+        "text": "2 ANIMAL LIFE\non a glass slip or in a watch glass and examined with a\ncompound microscope, there will be seen a number of ex-\ntremely small creatureswhich swim about in the water-drop\nby means of fine hairs, or crawl slowly on the surface of the\nglass. These are among our simplest animals. There are,\nas already said, many kinds of these \" simplest animals,\"\nalthough, perhaps strictly speaking, only one kind can be\ncalled simplest. Some of these kinds are spherical in\nshape, some elliptical or football-shaped, some conical,some\nflattened. Some have many fine, minute hairs projecting\nfrom the surface ; some have a few longer, stronger hairs\nthat lash back and forth in the water, and some have no\nhairs at all. There are many kinds and they differ in size,\nshape, body covering, manner of movement, and habit of\nfood-getting. And some are truly simpler than others.\nBut all agree in one thing—which is a very important\nthing—and that is in being composed in the simplest way\npossible among animals.\n2. The animal cell.—The whole body of any one of the\nsimplest animals or Protozoa is composed for the animal's\nwhole lifetime of but a single cell. The bodies of all other\nanimals are composed of many cells. The cell may be\ncalled the unit of animal (or plant) structure. The body\nof a horse is complexly composed of organs and tissues.\nEach of these organs and tissues is in turn composed of a\nlarge number of these structural units called cells. These\ncells are of great variety in shape and size and general\ncharacter. The cells which compose muscular tissue are\nvery different from the cells which compose the brain.\nAnd both of these kinds of cells are very different from\nthe simple primitive, undifferentiated kind of cell seen in\nthe body of a protozoan, or in the earliest embryonic\nstages of a many-celled animal.\nThe animal cell is rarely typically cellular in character\n—that is, it is rarely in the condition of a tiny sac or box\nof symmetrical shape. Plant cells are often of this char-",
+        "metadata": {
+          "chapter": "CHAPTER I",
+          "char_count": 2005,
+          "page_number": 23
+        },
+        "score": 0.03225806451612903,
+        "strategy": "hybrid_rrf",
+        "hit": false
+      }
+    ],
+    "context": "[animal_life_zoology_strategy_b_p24_idx0_d8ce5433 | animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf | page 24]\nTHE LIFE OF THE SIMPLEST ANIMALS 3\nacter. The primitive animal cell (Fig. 1) consists of a\nsmall mass of a viscid, nearly colorless, substance called\nprotoplasm. This protoplasm is differentiated to form two\nparts or regions of the cell, an inner denser mass called the\nnucleus, and an outer, clearer, inclosing mass called the\ncytoplasm. There may be more than\none nucleus in a cell. Sometimes\nthe cell is inclosed by a cell wall\nwhich may be simply a tougher outer\nlayer of the cytoplasm, or may be a\nthin membrane secreted by the pro-\ntoplasm. In addition to the proto-\nplasm, which is the fundamental and\nessential cell substance, the cell may fig. i.-Biood ceii of a crab\ncontain certain so-called cell prod- (a^ter haeckkl). show-\n, 1, , TiiiTP ingcytoplasmand nucleus\nUCts, substances produced by the life (t^e large, inner, nearly\nprocesses of the protoplasm. The circular spot) and gran-\nn ,1 1 • 1 •^ ules of various substancescell may thus contam water, oils, lyingm the cytoplasm,\nresin, starch grains, pigment gran-\nules, or other substances. These substances are held in\nthe protoplasm as liquid drops or solid particles.\nThe protoplasm itself of the cell shows an obvious\ndivision into parts, so that certain parts of it, especially\nparts in the nucleus, have received names. The nucleus\nusually has a thin protoplasmic membrane surrounding it,\nwhich is called the nuclear membrane. There appear to be\nfine threads or rods in the nucleus which are evidently\ndifferent from the rest of the nuclear protoplasm. These\nrods are called chromosomes. The cell is, indeed, not so\nsimple as the words \" structural unit \"' might imply, but\nscience has not yet so well analyzed its parts as to warrant\nthe transfer of the name structural unit to any single part\nof the cell—that is, to any lesser or simpler part of the\nanimal body than the cell as a whole.\nThe protoplasm, which is the essential substance of the\ncell and hence of the whole animal body, is a substance",
+    "context_ids": [
+      "animal_life_zoology_strategy_b_p24_idx0_d8ce5433"
+    ],
+    "context_chars": 2122,
+    "elapsed_ms": 376.85124995186925,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q04",
+    "split": "dev",
+    "question": "Why is protoplasm difficult for chemists to fully determine?",
+    "strategy": "hybrid_rrf",
+    "top_k": 3,
+    "budget_chars": 2400,
+    "gold": [
+      {
+        "source_id": "animal_life_zoology",
+        "page": 25,
+        "evidence": "chemical structure is so complex that no chemist has yet"
+      }
+    ],
+    "results": [
+      {
+        "id": "animal_life_zoology_strategy_b_p25_idx0_7cd05e9c",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 25,
+        "text": "4 ANIMAL LIFE\nof a very complex chemical and physical constitution. Its\nchemical structure is so complex that no chemist has yet\nbeen able to analyze it, and as the further the attempts at\nanalysis reach the more complex and baffling the substance\nis found to be, it is not improbable that it may never be\nanalyzed. It is a compound of numerous substances, some\nof these composing substances being themselves extremely\ncomplex. The most important thing we know about the\nchemical constitution of protoplasm is that there are al-\nways present in it certain complex albuminous substances\nwhich are never found in inorganic bodies. It is on the\npresence of these albuminous substances that the power of\nperformingthe processes of life depends. Protoplasm is the\nprimitive basic life substance, but it is the presence of these\ncomplexalbuminous compounds that makes protoplasm the\nlife substance. A student of protoplasm and the funda-\nmental life processes, Dr. Davenport, has said, \"Just as\nthe geologist is forced by the facts to assume a vast but\nnot infinite time for earth building, so the biologist has to\nrecognize an almost unlimited complexity in the constitu-\ntion of the protoplasm.\" *\n* The physical structure of protoplasm has been much studied,\nbut even with the improved microscopes and other instruments neces-\nsary for the study of minute structure, naturalists are still very far\nfrom understanding the physical constitution of this substance. While\nthe appearance of protoplasm under tlie microscope is pretty generally\nagreed on among naturalists, the interpretation of the kind of structure\nwhich is indicated by tliis appearance is not at all well agreed on.\nProtoplasm appears as a mesh work composed of fine granules sus-\npended in a clearer substance, the s[)aces of the mesh work being com-\nposed of a third still clearer substance. Some naturalists believe, from\nthis appearance, that protoplasm is composed of a clear viscous sub-\ntance, in which are imbedded many fine granules of denser substance,\nand numerous large globules of a clearer, more liquid substance. Other\nnaturalists believe that the fine spots which appear to be granules are\nsimply cross sections of fine threads of dense protoplasm which lie\ncoiled and tangled in the thinner, clearer protoplasm. And, finally,",
+        "metadata": {
+          "chapter": "CHAPTER I",
+          "char_count": 2304,
+          "page_number": 25
+        },
+        "score": 0.03278688524590164,
+        "strategy": "hybrid_rrf",
+        "hit": true
+      },
+      {
+        "id": "animal_life_zoology_strategy_b_p24_idx0_d8ce5433",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 24,
+        "text": "THE LIFE OF THE SIMPLEST ANIMALS 3\nacter. The primitive animal cell (Fig. 1) consists of a\nsmall mass of a viscid, nearly colorless, substance called\nprotoplasm. This protoplasm is differentiated to form two\nparts or regions of the cell, an inner denser mass called the\nnucleus, and an outer, clearer, inclosing mass called the\ncytoplasm. There may be more than\none nucleus in a cell. Sometimes\nthe cell is inclosed by a cell wall\nwhich may be simply a tougher outer\nlayer of the cytoplasm, or may be a\nthin membrane secreted by the pro-\ntoplasm. In addition to the proto-\nplasm, which is the fundamental and\nessential cell substance, the cell may fig. i.-Biood ceii of a crab\ncontain certain so-called cell prod- (a^ter haeckkl). show-\n, 1, , TiiiTP ingcytoplasmand nucleus\nUCts, substances produced by the life (t^e large, inner, nearly\nprocesses of the protoplasm. The circular spot) and gran-\nn ,1 1 • 1 •^ ules of various substancescell may thus contam water, oils, lyingm the cytoplasm,\nresin, starch grains, pigment gran-\nules, or other substances. These substances are held in\nthe protoplasm as liquid drops or solid particles.\nThe protoplasm itself of the cell shows an obvious\ndivision into parts, so that certain parts of it, especially\nparts in the nucleus, have received names. The nucleus\nusually has a thin protoplasmic membrane surrounding it,\nwhich is called the nuclear membrane. There appear to be\nfine threads or rods in the nucleus which are evidently\ndifferent from the rest of the nuclear protoplasm. These\nrods are called chromosomes. The cell is, indeed, not so\nsimple as the words \" structural unit \"' might imply, but\nscience has not yet so well analyzed its parts as to warrant\nthe transfer of the name structural unit to any single part\nof the cell—that is, to any lesser or simpler part of the\nanimal body than the cell as a whole.\nThe protoplasm, which is the essential substance of the\ncell and hence of the whole animal body, is a substance",
+        "metadata": {
+          "chapter": "CHAPTER I",
+          "char_count": 1973,
+          "page_number": 24
+        },
+        "score": 0.0315136476426799,
+        "strategy": "hybrid_rrf",
+        "hit": false
+      },
+      {
+        "id": "animal_life_zoology_strategy_b_p38_idx0_07ba5faf",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 38,
+        "text": "THE LIFE OF THE SIMPLEST ANIMALS 17\nfine threads interlace when they touch each other, thus\nforming a sort of protoplasmic network outside of the shell.\nIn some cases there is a complete layer of protoplasm\n—\npart of the body protoplasm of the protozoan—surround-\nFiG. 10.—Polystomella strigiUata, one of the Globigerinae.—After Max Schultze.\ning the cell externally. The Radiolaria, whose shells are\nmade of silica, possess also a perforated membranous sac\ncalled the central capsule, which lies imbedded in the\nprotoplasm, dividing it into two portions, one within and\n3",
+        "metadata": {
+          "chapter": "CHAPTER I",
+          "char_count": 572,
+          "page_number": 38
+        },
+        "score": 0.030776515151515152,
+        "strategy": "hybrid_rrf",
+        "hit": false
+      }
+    ],
+    "context": "[animal_life_zoology_strategy_b_p24_idx0_d8ce5433 | animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf | page 24]\nTHE LIFE OF THE SIMPLEST ANIMALS 3\nacter. The primitive animal cell (Fig. 1) consists of a\nsmall mass of a viscid, nearly colorless, substance called\nprotoplasm. This protoplasm is differentiated to form two\nparts or regions of the cell, an inner denser mass called the\nnucleus, and an outer, clearer, inclosing mass called the\ncytoplasm. There may be more than\none nucleus in a cell. Sometimes\nthe cell is inclosed by a cell wall\nwhich may be simply a tougher outer\nlayer of the cytoplasm, or may be a\nthin membrane secreted by the pro-\ntoplasm. In addition to the proto-\nplasm, which is the fundamental and\nessential cell substance, the cell may fig. i.-Biood ceii of a crab\ncontain certain so-called cell prod- (a^ter haeckkl). show-\n, 1, , TiiiTP ingcytoplasmand nucleus\nUCts, substances produced by the life (t^e large, inner, nearly\nprocesses of the protoplasm. The circular spot) and gran-\nn ,1 1 • 1 •^ ules of various substancescell may thus contam water, oils, lyingm the cytoplasm,\nresin, starch grains, pigment gran-\nules, or other substances. These substances are held in\nthe protoplasm as liquid drops or solid particles.\nThe protoplasm itself of the cell shows an obvious\ndivision into parts, so that certain parts of it, especially\nparts in the nucleus, have received names. The nucleus\nusually has a thin protoplasmic membrane surrounding it,\nwhich is called the nuclear membrane. There appear to be\nfine threads or rods in the nucleus which are evidently\ndifferent from the rest of the nuclear protoplasm. These\nrods are called chromosomes. The cell is, indeed, not so\nsimple as the words \" structural unit \"' might imply, but\nscience has not yet so well analyzed its parts as to warrant\nthe transfer of the name structural unit to any single part\nof the cell—that is, to any lesser or simpler part of the\nanimal body than the cell as a whole.\nThe protoplasm, which is the essential substance of the\ncell and hence of the whole animal body, is a substance",
+    "context_ids": [
+      "animal_life_zoology_strategy_b_p24_idx0_d8ce5433"
+    ],
+    "context_chars": 2122,
+    "elapsed_ms": 241.3967913016677,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": false
+  },
+  {
+    "query_id": "q05",
+    "split": "dev",
+    "question": "What can the primitive animal cell do?",
+    "strategy": "hybrid_rrf",
+    "top_k": 3,
+    "budget_chars": 2400,
+    "gold": [
+      {
+        "source_id": "animal_life_zoology",
+        "page": 26,
+        "evidence": "What the primitive cell can do"
+      }
+    ],
+    "results": [
+      {
+        "id": "animal_life_zoology_strategy_b_p26_idx0_725fd1bc",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 26,
+        "text": "THE LIFE OF THE SIMPLEST ANIMALS 5\n3. What the primitive cell can do.—The body of one of\nthe minute animals in the water-drop is a single cell. The\nbody is not composed of organs of different parts, as in the\nbody of the horse. There is no heart, no stomach ; there\nare no muscles, no nerves. And yet the protozoan is a liv-\ning animal as truly as is the horse, and it breathes and eats\nand moves and feels and produces young as truly as does\nthe horse. It performs all the processes necessary for the\nlife of an animal. The single cell, the single minute speck\nof protoplasm, has the power of doing, in a very simple and\nprimitive way, all those things which are necessary for\nlife, and which are done in the case of other animals by\nthe various organs of the body.\n4. Amoeba.—The simple and primitive life of these\nProtozoa can be best understood by the observation of\nliving individuals. In the slime and sediment at the\nbottom of stagnant pools lives a certain specially interest-\ning kind of protozoan, the Ammba (Fig. 2). Of all the\nsimplest animals this is as simple or primitive as any. The\nminute viscous particle of protoplasm which forms its\nbody is irregular in outline, and its outline or shape slowly\nbut constantly changes. It may contract into a tiny ball\n;\nit may become almost star-shaped ; it may become elongate\nor flattened ; short, blunt, finger-like projections called\npseudopods extend from the central body mass, and these\nprojections are constantly changing, slowly pushing out or\nothers believe that protoplasm exists as a foam work ; that it is a vis-\ncous liquid containing many fine globules (thegranule-appearing spots)\nof a liquid of different density and numerous larger globules ofa liquid\nof still other density. It is a foam in which the bubbles are not filled\nwith air, but with liquids of different density. This last theory of the\nstructure of protoplasm is the one accepted by a majority of modern\nnaturalists, although the other theories have numerous believers. But\njust as with what little we know of the chemical constitution of proto-\nplasm, the little we know of its physical structure throws almost no\nlight on the remarkable properties of this fundamental life substance.",
+        "metadata": {
+          "chapter": "CHAPTER I",
+          "char_count": 2219,
+          "page_number": 26
+        },
+        "score": 0.03278688524590164,
+        "strategy": "hybrid_rrf",
+        "hit": true
+      },
+      {
+        "id": "animal_life_zoology_strategy_b_p24_idx0_d8ce5433",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 24,
+        "text": "THE LIFE OF THE SIMPLEST ANIMALS 3\nacter. The primitive animal cell (Fig. 1) consists of a\nsmall mass of a viscid, nearly colorless, substance called\nprotoplasm. This protoplasm is differentiated to form two\nparts or regions of the cell, an inner denser mass called the\nnucleus, and an outer, clearer, inclosing mass called the\ncytoplasm. There may be more than\none nucleus in a cell. Sometimes\nthe cell is inclosed by a cell wall\nwhich may be simply a tougher outer\nlayer of the cytoplasm, or may be a\nthin membrane secreted by the pro-\ntoplasm. In addition to the proto-\nplasm, which is the fundamental and\nessential cell substance, the cell may fig. i.-Biood ceii of a crab\ncontain certain so-called cell prod- (a^ter haeckkl). show-\n, 1, , TiiiTP ingcytoplasmand nucleus\nUCts, substances produced by the life (t^e large, inner, nearly\nprocesses of the protoplasm. The circular spot) and gran-\nn ,1 1 • 1 •^ ules of various substancescell may thus contam water, oils, lyingm the cytoplasm,\nresin, starch grains, pigment gran-\nules, or other substances. These substances are held in\nthe protoplasm as liquid drops or solid particles.\nThe protoplasm itself of the cell shows an obvious\ndivision into parts, so that certain parts of it, especially\nparts in the nucleus, have received names. The nucleus\nusually has a thin protoplasmic membrane surrounding it,\nwhich is called the nuclear membrane. There appear to be\nfine threads or rods in the nucleus which are evidently\ndifferent from the rest of the nuclear protoplasm. These\nrods are called chromosomes. The cell is, indeed, not so\nsimple as the words \" structural unit \"' might imply, but\nscience has not yet so well analyzed its parts as to warrant\nthe transfer of the name structural unit to any single part\nof the cell—that is, to any lesser or simpler part of the\nanimal body than the cell as a whole.\nThe protoplasm, which is the essential substance of the\ncell and hence of the whole animal body, is a substance",
+        "metadata": {
+          "chapter": "CHAPTER I",
+          "char_count": 1973,
+          "page_number": 24
+        },
+        "score": 0.03200204813108039,
+        "strategy": "hybrid_rrf",
+        "hit": false
+      },
+      {
+        "id": "animal_life_zoology_strategy_b_p42_idx0_47be1ef7",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 42,
+        "text": "THE LIFE OP THE SIMPLEST ANIMALS 21\nemphasized. The shape of this one-celled body varies.\nWith the most primitive or simplest of the \" simplest ani-\nmals,\" like Amoeha, for example, there is no \" distinction\nof ends, sides, or surfaces, such as we are familiar with in\nin the higher animals. Anterior and posterior ends, right\nand left sides, dorsal and ventral surfaces are terms which\nhave no meaning in reference to an Amoeba, for any part\nof the animal may go first in locomotion, and when crawl-\ning the animal moves along on whatever part of its\nsurface happens to be in contact with foreign bodies.\"\nThe one shape most often seen among the Protozoa, or\nmost nearly fairly to be called the typical shape, is the\nspherical or subspherical shape. Why this is so is readily\nseen. Most of the Protozoa are aquatic and free swim-\nming. They live in a medium, the water, which supports\nor presses on the body equally on all sides, and the body is\nnot forced to assume any particular form by the environ-\nment. The body rests suspended in the water with any\npart of its surface uppermost or any part undermost. As\nany part of the surface serves equally well in many of the\nProtozoa for breathing or eating or excreting, it is obvious\nthat the spherical form is the simplest and most conven-\nient shape for such a body. It is interesting to note that\nthe spherical form is the common shape of the egg cell of\nthe higher animals. Each one of the higher, multicellular\nanimals begins life (as we shall find it explained in another\nchapter of this book) as a single cell, the egg cell, and\nthese egg cells are usually spherical in shape. The full\nsignificance of this we need not now attempt to under-\nstand, but it is interesting to note that normally the whole\nbody of the simplest animals is a single spherical cell, and\nthat every one of the higher animals, however complex\nit may become by growth and development, begins life as a\nsingle spherical cell.\n12. The primitive but successful life.—Living consists of\nthe performing of certain so-called life processes, such as",
+        "metadata": {
+          "chapter": "CHAPTER I",
+          "char_count": 2071,
+          "page_number": 42
+        },
+        "score": 0.03149801587301587,
+        "strategy": "hybrid_rrf",
+        "hit": false
+      }
+    ],
+    "context": "[animal_life_zoology_strategy_b_p26_idx0_725fd1bc | animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf | page 26]\nTHE LIFE OF THE SIMPLEST ANIMALS 5\n3. What the primitive cell can do.—The body of one of\nthe minute animals in the water-drop is a single cell. The\nbody is not composed of organs of different parts, as in the\nbody of the horse. There is no heart, no stomach ; there\nare no muscles, no nerves. And yet the protozoan is a liv-\ning animal as truly as is the horse, and it breathes and eats\nand moves and feels and produces young as truly as does\nthe horse. It performs all the processes necessary for the\nlife of an animal. The single cell, the single minute speck\nof protoplasm, has the power of doing, in a very simple and\nprimitive way, all those things which are necessary for\nlife, and which are done in the case of other animals by\nthe various organs of the body.\n4. Amoeba.—The simple and primitive life of these\nProtozoa can be best understood by the observation of\nliving individuals. In the slime and sediment at the\nbottom of stagnant pools lives a certain specially interest-\ning kind of protozoan, the Ammba (Fig. 2). Of all the\nsimplest animals this is as simple or primitive as any. The\nminute viscous particle of protoplasm which forms its\nbody is irregular in outline, and its outline or shape slowly\nbut constantly changes. It may contract into a tiny ball\n;\nit may become almost star-shaped ; it may become elongate\nor flattened ; short, blunt, finger-like projections called\npseudopods extend from the central body mass, and these\nprojections are constantly changing, slowly pushing out or\nothers believe that protoplasm exists as a foam work ; that it is a vis-\ncous liquid containing many fine globules (thegranule-appearing spots)\nof a liquid of different density and numerous larger globules ofa liquid\nof still other density. It is a foam in which the bubbles are not filled\nwith air, but with liquids of different density. This last theory of the\nstructure of protoplasm is the one accepted by a majority of modern\nnaturalists, although the other theories have numerous believers. But\njust as with what little we know of the chemical constitution of proto-\nplasm, the little we know of its physical structure throws almost no\nlight on the remarkable properties of this fundamental life substance.",
+    "context_ids": [
+      "animal_life_zoology_strategy_b_p26_idx0_725fd1bc"
+    ],
+    "context_chars": 2368,
+    "elapsed_ms": 232.18454094603658,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q06",
+    "split": "dev",
+    "question": "Does the body of Amoeba have a fixed outline?",
+    "strategy": "hybrid_rrf",
+    "top_k": 3,
+    "budget_chars": 2400,
+    "gold": [
+      {
+        "source_id": "animal_life_zoology",
+        "page": 27,
+        "evidence": "the body of the Amoeba has no fixed outline"
+      }
+    ],
+    "results": [
+      {
+        "id": "animal_life_zoology_strategy_b_p27_idx0_4e8531ab",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 27,
+        "text": "6 ANIMAL LIFE\ndrawing in. The single protoplasmic cell which makes up\nthe body of the Amoeba has no fixed outline ; it is a cell\nwithout a wall. The substance of the cell or body is proto-\nplasm, semiliquid and colorless. The changes m form of\nthe body are the moving of the Ammha. By close watching\nit may be seen that the Amoeba changes its position on the\nglass slip. Although provided with no legs or wings or\nFie. 2.—An Ammba, showing different shapes assumed by it \\vh,n cra>»iu)[^^\n—After Vebworn.\nscales or hooks—that is, with no special organs of locomo-\ntion—the Amoeba moves. There are no muscles in this tiny\nbody; muscles are composed of many contracljQe cells\nmassed together, and the Amoeba is but one cell. B^it it is\na contractile cell ; it can do what the muscles of the com\nplex animals do.\nIf one of the finger-like projections of the Amwba, or\nindeed, if any part of its body comes in contact with some\nother microscopic animal or plant or some small fragment\nof a larger form, the soft body of the Amoeba will be seen\ne >^",
+        "metadata": {
+          "chapter": "CHAPTER I",
+          "char_count": 1044,
+          "page_number": 27
+        },
+        "score": 0.03278688524590164,
+        "strategy": "hybrid_rrf",
+        "hit": true
+      },
+      {
+        "id": "animal_life_zoology_strategy_b_p30_idx0_75b15360",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 30,
+        "text": "THE LIFE OF THE SIMPLEST ANIMALS 9\nAn Amoeba which has grown for some time contracts all\nits finger-like processes, and its body becomes constricted.\nThis constriction or fissure increases inward, so that the\nbody is soon divided fairly in two (Fig. 4). The body,\nbeing an animal cell, possesses a nucleus imbedded in the\nbody protoplasm or cytoplasm. When the body begins to\ndivide, the nucleus begins to divide also, and becomes en-\ntirely divided before the fission of the cytoplasm is com-\nplete. There are now two Amoebce, each half the size of\nthe original one ; each, indeed, being actually one half of\nthe original one. This splitting of the body of the Amceba,\nwhich is called fission, is the process of reproduction. The\noriginal Amoeba is the parent ; the two halves of the parent\nare the young. Each of the young possesses all of the\ncharacteristics and powers of the parent ; each can move,\neat, feel, grow, and reproduce by fission. It is very evident\nthat this is so, for any part of the body or the whole body\nwas used in performing these functions, and the young are\nsimply two parts of the parent's body. But if there be any\ndoubt about the matter, observation of the behavior of the\nyoung or new Amoebm will soon remove it. Each puts out\npseudopods, moves, ingests food particles, avoids sand\ngrains, contracts if the water is heated, grows, and finally\ndivides in two.\n-\\\" 5. Paxam(BciiuiL—Another protozoan which is common\nin stagnant pools and can be readily obtained and observed\nis Paramcecuim (Fig. 5). The body of the Paramcecium is\nmuch largerthan that of the Amoeba^being nearlyone fourth\nof a millimeter in length, and is of fixed shape. It is elon-\ngate, elliptical, and flattened, and when examined under the\nmicroscope seems to be a very complexly formed little mass.\nThe body of the Paramcecium is indeed less primitive than\nthat of the Amoeba, and yet it is still but a single cell.\nThe protoplasm of the body is very soft within and dense\non the outside, and it is covered externally by a thin mem-\nbrane. The body is covered with short fine hairs or cilia,",
+        "metadata": {
+          "chapter": "CHAPTER I",
+          "char_count": 2092,
+          "page_number": 30
+        },
+        "score": 0.03200204813108039,
+        "strategy": "hybrid_rrf",
+        "hit": false
+      },
+      {
+        "id": "animal_life_zoology_strategy_b_p29_idx0_4c840fc0",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 29,
+        "text": "8 ANIMAL LIFE\nAmoeba is irritable; it possesses irritability, which is sensa-\ntion in its simplest degree.\nIf food is abundant the Amoeba soon increases in size.\nThe bulk of its body is bound to increase if new substance\nVtQ. 4.\n—\nAnicBba ix>li/podia in six successive stages of division. The dark, white-\nmargined spot in the interior is the nucleus.—After F. E. Schui-ze.\nis constantly assimilated and added to it. The Amoeba\ngrows. But there seem to be some fixed limits to the\nextent of this increase in size. Xo Amoeba becomes large.\nA remarkable phenomenon always occurs to prevent this.",
+        "metadata": {
+          "chapter": "CHAPTER I",
+          "char_count": 593,
+          "page_number": 29
+        },
+        "score": 0.03149801587301587,
+        "strategy": "hybrid_rrf",
+        "hit": false
+      }
+    ],
+    "context": "[animal_life_zoology_strategy_b_p27_idx0_4e8531ab | animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf | page 27]\n6 ANIMAL LIFE\ndrawing in. The single protoplasmic cell which makes up\nthe body of the Amoeba has no fixed outline ; it is a cell\nwithout a wall. The substance of the cell or body is proto-\nplasm, semiliquid and colorless. The changes m form of\nthe body are the moving of the Ammha. By close watching\nit may be seen that the Amoeba changes its position on the\nglass slip. Although provided with no legs or wings or\nFie. 2.—An Ammba, showing different shapes assumed by it \\vh,n cra>»iu)[^^\n—After Vebworn.\nscales or hooks—that is, with no special organs of locomo-\ntion—the Amoeba moves. There are no muscles in this tiny\nbody; muscles are composed of many contracljQe cells\nmassed together, and the Amoeba is but one cell. B^it it is\na contractile cell ; it can do what the muscles of the com\nplex animals do.\nIf one of the finger-like projections of the Amwba, or\nindeed, if any part of its body comes in contact with some\nother microscopic animal or plant or some small fragment\nof a larger form, the soft body of the Amoeba will be seen\ne >^\n\n[animal_life_zoology_strategy_b_p29_idx0_4c840fc0 | animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf | page 29]\n8 ANIMAL LIFE\nAmoeba is irritable; it possesses irritability, which is sensa-\ntion in its simplest degree.\nIf food is abundant the Amoeba soon increases in size.\nThe bulk of its body is bound to increase if new substance\nVtQ. 4.\n—\nAnicBba ix>li/podia in six successive stages of division. The dark, white-\nmargined spot in the interior is the nucleus.—After F. E. Schui-ze.\nis constantly assimilated and added to it. The Amoeba\ngrows. But there seem to be some fixed limits to the\nextent of this increase in size. Xo Amoeba becomes large.\nA remarkable phenomenon always occurs to prevent this.",
+    "context_ids": [
+      "animal_life_zoology_strategy_b_p27_idx0_4e8531ab",
+      "animal_life_zoology_strategy_b_p29_idx0_4c840fc0"
+    ],
+    "context_chars": 1937,
+    "elapsed_ms": 218.55683298781514,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q07",
+    "split": "dev",
+    "question": "How does Amoeba ingest food particles?",
+    "strategy": "hybrid_rrf",
+    "top_k": 3,
+    "budget_chars": 2400,
+    "gold": [
+      {
+        "source_id": "animal_life_zoology",
+        "page": 28,
+        "evidence": "to press against it, and soon the plant or animal or organic"
+      }
+    ],
+    "results": [
+      {
+        "id": "animal_life_zoology_strategy_b_p28_idx0_89495218",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 28,
+        "text": "THE LIFE OF THE SIMPLEST ANIMALS 7\nto press against it, and soon the plant or animal or organic\nparticle becomes sunken in the protoplasm of the formless\nbody and entirely inclosed in it (Fig. 3). The absorbed\nparticle soon wholly or partly disappears. This is the\nmanner in which the Amceba eats. It has no mouth or\nFig. 3.\n—\nAnuxba eating a microscopic one-celled plant.—After Verworn.\nstomach. Any part of its body mass can take in and digest\nfood. The viscous, membraneless body simply flows about\nthe food and absorbs it. Such of the food particles as can\nnot be digested are thrust out of the body.\nThe Amceia breathes. Though we can not readily ob-\nserve this act of respiration, it is true that the Amoeba takes\ninto its body through any part of its surface oxygen from\nthe air which is mixed with water, and it gives off from any\npart of its body carbonic-acid gas. Although the Amoeba\nhas no lungs or gills or other special organs of respiration,\nit breathes in oxygen and gives out carbonic-acid gas, which\nis just what the horse does with its elaborately developed\norgans of respiration.\nIf the Amoeba, in moving slowly about, comes into con-\ntact with a sand grain or other foreign particle not suitable\nfor food, the soft body slowly recoils and flows—for the\nmovement is really a flowing of the thickly fluid protoplasm\n—so as to leave the sand grain at one side. The Amoeba\nfeels. It shows the effects of stimulation. Its movements\ncan be changed, stopped, or induced by mechanical or\nchemical stimuli or by changes in temperature. The",
+        "metadata": {
+          "chapter": "CHAPTER I",
+          "char_count": 1551,
+          "page_number": 28
+        },
+        "score": 0.03252247488101534,
+        "strategy": "hybrid_rrf",
+        "hit": true
+      },
+      {
+        "id": "animal_life_zoology_strategy_b_p29_idx0_4c840fc0",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 29,
+        "text": "8 ANIMAL LIFE\nAmoeba is irritable; it possesses irritability, which is sensa-\ntion in its simplest degree.\nIf food is abundant the Amoeba soon increases in size.\nThe bulk of its body is bound to increase if new substance\nVtQ. 4.\n—\nAnicBba ix>li/podia in six successive stages of division. The dark, white-\nmargined spot in the interior is the nucleus.—After F. E. Schui-ze.\nis constantly assimilated and added to it. The Amoeba\ngrows. But there seem to be some fixed limits to the\nextent of this increase in size. Xo Amoeba becomes large.\nA remarkable phenomenon always occurs to prevent this.",
+        "metadata": {
+          "chapter": "CHAPTER I",
+          "char_count": 593,
+          "page_number": 29
+        },
+        "score": 0.032266458495966696,
+        "strategy": "hybrid_rrf",
+        "hit": false
+      },
+      {
+        "id": "animal_life_zoology_strategy_b_p31_idx0_f773da95",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 31,
+        "text": "10 ANIMAL LIFE\nwhich are fine processes of the dense protoplasm of the\nsurface. There is on one side an oblique shallow groove\nthat leads to a small, funnel-shaped depression in the body\nwhich serves as a primitive sort ofmouth\nor opening for the ingress of food.\nThe Paramcecium swims about in the\nwater by vibrating the cilia which cov-\ner the body, and brings food to the\nmouth opening by producing tiny cur-\nrents in the water by means of the\ncilia in the oblique groove. The food,\nwhich consists of other living Proto-\nzoa, is taken into the body mass only\nthrough the funnel-shaped opening, and\nthat part of it which is undigested is\nthrust out always through a particular\npart of the body surface. (The taking\nin and ejecting of foreign particles can\nbe seen by putting a little powdered\ncarmine in the water.) Within the\nbody there are two nuclei and two so-\ncalled pulsating vacuoles. These pul-\nsating vacuoles {Amoeba has one) seem\nto aid in discharging waste products\nfrom the body. When the ParamcB-\ncium touches some foreign substance or\nis otherwise irritated it swims away,\nand it shoots out from the surface of its body some fine\nlong threads which when at rest are probably coiled up in\nlittle sacs on the surface of the body. When the Para-\nmcecium has taken in enough food and grown so that it\nhas reached the limit of its size, it divides transversely into\nhalves as the Amoeba does. Both nuclei divide first, and\nthen the cytoplasm constricts and divides (Fig. 6). Thus\ntwo new Paramoecia are formed. One of them has to de-\nvelop a new mouth opening and groove, so that there is in\nFig. 5.\n—\nParamcecium au-\nrelia (after Verworn).\nAt each end there is a\ncontractile vacuole, and\nin the center is one of\nthe nuclei.",
+        "metadata": {
+          "chapter": "CHAPTER I",
+          "char_count": 1736,
+          "page_number": 31
+        },
+        "score": 0.031754032258064516,
+        "strategy": "hybrid_rrf",
+        "hit": false
+      }
+    ],
+    "context": "[animal_life_zoology_strategy_b_p28_idx0_89495218 | animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf | page 28]\nTHE LIFE OF THE SIMPLEST ANIMALS 7\nto press against it, and soon the plant or animal or organic\nparticle becomes sunken in the protoplasm of the formless\nbody and entirely inclosed in it (Fig. 3). The absorbed\nparticle soon wholly or partly disappears. This is the\nmanner in which the Amceba eats. It has no mouth or\nFig. 3.\n—\nAnuxba eating a microscopic one-celled plant.—After Verworn.\nstomach. Any part of its body mass can take in and digest\nfood. The viscous, membraneless body simply flows about\nthe food and absorbs it. Such of the food particles as can\nnot be digested are thrust out of the body.\nThe Amceia breathes. Though we can not readily ob-\nserve this act of respiration, it is true that the Amoeba takes\ninto its body through any part of its surface oxygen from\nthe air which is mixed with water, and it gives off from any\npart of its body carbonic-acid gas. Although the Amoeba\nhas no lungs or gills or other special organs of respiration,\nit breathes in oxygen and gives out carbonic-acid gas, which\nis just what the horse does with its elaborately developed\norgans of respiration.\nIf the Amoeba, in moving slowly about, comes into con-\ntact with a sand grain or other foreign particle not suitable\nfor food, the soft body slowly recoils and flows—for the\nmovement is really a flowing of the thickly fluid protoplasm\n—so as to leave the sand grain at one side. The Amoeba\nfeels. It shows the effects of stimulation. Its movements\ncan be changed, stopped, or induced by mechanical or\nchemical stimuli or by changes in temperature. The",
+    "context_ids": [
+      "animal_life_zoology_strategy_b_p28_idx0_89495218"
+    ],
+    "context_chars": 1700,
+    "elapsed_ms": 844.7970831766725,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q08",
+    "split": "dev",
+    "question": "What happens when food is abundant for the Amoeba?",
+    "strategy": "hybrid_rrf",
+    "top_k": 3,
+    "budget_chars": 2400,
+    "gold": [
+      {
+        "source_id": "animal_life_zoology",
+        "page": 29,
+        "evidence": "If food is abundant the Amoeba soon increases in size"
+      }
+    ],
+    "results": [
+      {
+        "id": "animal_life_zoology_strategy_b_p29_idx0_4c840fc0",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 29,
+        "text": "8 ANIMAL LIFE\nAmoeba is irritable; it possesses irritability, which is sensa-\ntion in its simplest degree.\nIf food is abundant the Amoeba soon increases in size.\nThe bulk of its body is bound to increase if new substance\nVtQ. 4.\n—\nAnicBba ix>li/podia in six successive stages of division. The dark, white-\nmargined spot in the interior is the nucleus.—After F. E. Schui-ze.\nis constantly assimilated and added to it. The Amoeba\ngrows. But there seem to be some fixed limits to the\nextent of this increase in size. Xo Amoeba becomes large.\nA remarkable phenomenon always occurs to prevent this.",
+        "metadata": {
+          "chapter": "CHAPTER I",
+          "char_count": 593,
+          "page_number": 29
+        },
+        "score": 0.03278688524590164,
+        "strategy": "hybrid_rrf",
+        "hit": true
+      },
+      {
+        "id": "animal_life_zoology_strategy_b_p28_idx0_89495218",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 28,
+        "text": "THE LIFE OF THE SIMPLEST ANIMALS 7\nto press against it, and soon the plant or animal or organic\nparticle becomes sunken in the protoplasm of the formless\nbody and entirely inclosed in it (Fig. 3). The absorbed\nparticle soon wholly or partly disappears. This is the\nmanner in which the Amceba eats. It has no mouth or\nFig. 3.\n—\nAnuxba eating a microscopic one-celled plant.—After Verworn.\nstomach. Any part of its body mass can take in and digest\nfood. The viscous, membraneless body simply flows about\nthe food and absorbs it. Such of the food particles as can\nnot be digested are thrust out of the body.\nThe Amceia breathes. Though we can not readily ob-\nserve this act of respiration, it is true that the Amoeba takes\ninto its body through any part of its surface oxygen from\nthe air which is mixed with water, and it gives off from any\npart of its body carbonic-acid gas. Although the Amoeba\nhas no lungs or gills or other special organs of respiration,\nit breathes in oxygen and gives out carbonic-acid gas, which\nis just what the horse does with its elaborately developed\norgans of respiration.\nIf the Amoeba, in moving slowly about, comes into con-\ntact with a sand grain or other foreign particle not suitable\nfor food, the soft body slowly recoils and flows—for the\nmovement is really a flowing of the thickly fluid protoplasm\n—so as to leave the sand grain at one side. The Amoeba\nfeels. It shows the effects of stimulation. Its movements\ncan be changed, stopped, or induced by mechanical or\nchemical stimuli or by changes in temperature. The",
+        "metadata": {
+          "chapter": "CHAPTER I",
+          "char_count": 1551,
+          "page_number": 28
+        },
+        "score": 0.03200204813108039,
+        "strategy": "hybrid_rrf",
+        "hit": false
+      },
+      {
+        "id": "animal_life_zoology_strategy_b_p27_idx0_4e8531ab",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 27,
+        "text": "6 ANIMAL LIFE\ndrawing in. The single protoplasmic cell which makes up\nthe body of the Amoeba has no fixed outline ; it is a cell\nwithout a wall. The substance of the cell or body is proto-\nplasm, semiliquid and colorless. The changes m form of\nthe body are the moving of the Ammha. By close watching\nit may be seen that the Amoeba changes its position on the\nglass slip. Although provided with no legs or wings or\nFie. 2.—An Ammba, showing different shapes assumed by it \\vh,n cra>»iu)[^^\n—After Vebworn.\nscales or hooks—that is, with no special organs of locomo-\ntion—the Amoeba moves. There are no muscles in this tiny\nbody; muscles are composed of many contracljQe cells\nmassed together, and the Amoeba is but one cell. B^it it is\na contractile cell ; it can do what the muscles of the com\nplex animals do.\nIf one of the finger-like projections of the Amwba, or\nindeed, if any part of its body comes in contact with some\nother microscopic animal or plant or some small fragment\nof a larger form, the soft body of the Amoeba will be seen\ne >^",
+        "metadata": {
+          "chapter": "CHAPTER I",
+          "char_count": 1044,
+          "page_number": 27
+        },
+        "score": 0.03128054740957967,
+        "strategy": "hybrid_rrf",
+        "hit": false
+      }
+    ],
+    "context": "[animal_life_zoology_strategy_b_p29_idx0_4c840fc0 | animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf | page 29]\n8 ANIMAL LIFE\nAmoeba is irritable; it possesses irritability, which is sensa-\ntion in its simplest degree.\nIf food is abundant the Amoeba soon increases in size.\nThe bulk of its body is bound to increase if new substance\nVtQ. 4.\n—\nAnicBba ix>li/podia in six successive stages of division. The dark, white-\nmargined spot in the interior is the nucleus.—After F. E. Schui-ze.\nis constantly assimilated and added to it. The Amoeba\ngrows. But there seem to be some fixed limits to the\nextent of this increase in size. Xo Amoeba becomes large.\nA remarkable phenomenon always occurs to prevent this.\n\n[animal_life_zoology_strategy_b_p27_idx0_4e8531ab | animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf | page 27]\n6 ANIMAL LIFE\ndrawing in. The single protoplasmic cell which makes up\nthe body of the Amoeba has no fixed outline ; it is a cell\nwithout a wall. The substance of the cell or body is proto-\nplasm, semiliquid and colorless. The changes m form of\nthe body are the moving of the Ammha. By close watching\nit may be seen that the Amoeba changes its position on the\nglass slip. Although provided with no legs or wings or\nFie. 2.—An Ammba, showing different shapes assumed by it \\vh,n cra>»iu)[^^\n—After Vebworn.\nscales or hooks—that is, with no special organs of locomo-\ntion—the Amoeba moves. There are no muscles in this tiny\nbody; muscles are composed of many contracljQe cells\nmassed together, and the Amoeba is but one cell. B^it it is\na contractile cell ; it can do what the muscles of the com\nplex animals do.\nIf one of the finger-like projections of the Amwba, or\nindeed, if any part of its body comes in contact with some\nother microscopic animal or plant or some small fragment\nof a larger form, the soft body of the Amoeba will be seen\ne >^",
+    "context_ids": [
+      "animal_life_zoology_strategy_b_p29_idx0_4c840fc0",
+      "animal_life_zoology_strategy_b_p27_idx0_4e8531ab"
+    ],
+    "context_chars": 1937,
+    "elapsed_ms": 666.5595001541078,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q09",
+    "split": "dev",
+    "question": "How does an Amoeba reproduce by fission?",
+    "strategy": "hybrid_rrf",
+    "top_k": 3,
+    "budget_chars": 2400,
+    "gold": [
+      {
+        "source_id": "animal_life_zoology",
+        "page": 30,
+        "evidence": "An Amoeba which has grown for some time contracts all"
+      }
+    ],
+    "results": [
+      {
+        "id": "animal_life_zoology_strategy_b_p30_idx0_75b15360",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 30,
+        "text": "THE LIFE OF THE SIMPLEST ANIMALS 9\nAn Amoeba which has grown for some time contracts all\nits finger-like processes, and its body becomes constricted.\nThis constriction or fissure increases inward, so that the\nbody is soon divided fairly in two (Fig. 4). The body,\nbeing an animal cell, possesses a nucleus imbedded in the\nbody protoplasm or cytoplasm. When the body begins to\ndivide, the nucleus begins to divide also, and becomes en-\ntirely divided before the fission of the cytoplasm is com-\nplete. There are now two Amoebce, each half the size of\nthe original one ; each, indeed, being actually one half of\nthe original one. This splitting of the body of the Amceba,\nwhich is called fission, is the process of reproduction. The\noriginal Amoeba is the parent ; the two halves of the parent\nare the young. Each of the young possesses all of the\ncharacteristics and powers of the parent ; each can move,\neat, feel, grow, and reproduce by fission. It is very evident\nthat this is so, for any part of the body or the whole body\nwas used in performing these functions, and the young are\nsimply two parts of the parent's body. But if there be any\ndoubt about the matter, observation of the behavior of the\nyoung or new Amoebm will soon remove it. Each puts out\npseudopods, moves, ingests food particles, avoids sand\ngrains, contracts if the water is heated, grows, and finally\ndivides in two.\n-\\\" 5. Paxam(BciiuiL—Another protozoan which is common\nin stagnant pools and can be readily obtained and observed\nis Paramcecuim (Fig. 5). The body of the Paramcecium is\nmuch largerthan that of the Amoeba^being nearlyone fourth\nof a millimeter in length, and is of fixed shape. It is elon-\ngate, elliptical, and flattened, and when examined under the\nmicroscope seems to be a very complexly formed little mass.\nThe body of the Paramcecium is indeed less primitive than\nthat of the Amoeba, and yet it is still but a single cell.\nThe protoplasm of the body is very soft within and dense\non the outside, and it is covered externally by a thin mem-\nbrane. The body is covered with short fine hairs or cilia,",
+        "metadata": {
+          "chapter": "CHAPTER I",
+          "char_count": 2092,
+          "page_number": 30
+        },
+        "score": 0.03278688524590164,
+        "strategy": "hybrid_rrf",
+        "hit": true
+      },
+      {
+        "id": "animal_life_zoology_strategy_b_p29_idx0_4c840fc0",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 29,
+        "text": "8 ANIMAL LIFE\nAmoeba is irritable; it possesses irritability, which is sensa-\ntion in its simplest degree.\nIf food is abundant the Amoeba soon increases in size.\nThe bulk of its body is bound to increase if new substance\nVtQ. 4.\n—\nAnicBba ix>li/podia in six successive stages of division. The dark, white-\nmargined spot in the interior is the nucleus.—After F. E. Schui-ze.\nis constantly assimilated and added to it. The Amoeba\ngrows. But there seem to be some fixed limits to the\nextent of this increase in size. Xo Amoeba becomes large.\nA remarkable phenomenon always occurs to prevent this.",
+        "metadata": {
+          "chapter": "CHAPTER I",
+          "char_count": 593,
+          "page_number": 29
+        },
+        "score": 0.03225806451612903,
+        "strategy": "hybrid_rrf",
+        "hit": false
+      },
+      {
+        "id": "animal_life_zoology_strategy_b_p31_idx0_f773da95",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 31,
+        "text": "10 ANIMAL LIFE\nwhich are fine processes of the dense protoplasm of the\nsurface. There is on one side an oblique shallow groove\nthat leads to a small, funnel-shaped depression in the body\nwhich serves as a primitive sort ofmouth\nor opening for the ingress of food.\nThe Paramcecium swims about in the\nwater by vibrating the cilia which cov-\ner the body, and brings food to the\nmouth opening by producing tiny cur-\nrents in the water by means of the\ncilia in the oblique groove. The food,\nwhich consists of other living Proto-\nzoa, is taken into the body mass only\nthrough the funnel-shaped opening, and\nthat part of it which is undigested is\nthrust out always through a particular\npart of the body surface. (The taking\nin and ejecting of foreign particles can\nbe seen by putting a little powdered\ncarmine in the water.) Within the\nbody there are two nuclei and two so-\ncalled pulsating vacuoles. These pul-\nsating vacuoles {Amoeba has one) seem\nto aid in discharging waste products\nfrom the body. When the ParamcB-\ncium touches some foreign substance or\nis otherwise irritated it swims away,\nand it shoots out from the surface of its body some fine\nlong threads which when at rest are probably coiled up in\nlittle sacs on the surface of the body. When the Para-\nmcecium has taken in enough food and grown so that it\nhas reached the limit of its size, it divides transversely into\nhalves as the Amoeba does. Both nuclei divide first, and\nthen the cytoplasm constricts and divides (Fig. 6). Thus\ntwo new Paramoecia are formed. One of them has to de-\nvelop a new mouth opening and groove, so that there is in\nFig. 5.\n—\nParamcecium au-\nrelia (after Verworn).\nAt each end there is a\ncontractile vacuole, and\nin the center is one of\nthe nuclei.",
+        "metadata": {
+          "chapter": "CHAPTER I",
+          "char_count": 1736,
+          "page_number": 31
+        },
+        "score": 0.031009615384615385,
+        "strategy": "hybrid_rrf",
+        "hit": false
+      }
+    ],
+    "context": "[animal_life_zoology_strategy_b_p30_idx0_75b15360 | animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf | page 30]\nTHE LIFE OF THE SIMPLEST ANIMALS 9\nAn Amoeba which has grown for some time contracts all\nits finger-like processes, and its body becomes constricted.\nThis constriction or fissure increases inward, so that the\nbody is soon divided fairly in two (Fig. 4). The body,\nbeing an animal cell, possesses a nucleus imbedded in the\nbody protoplasm or cytoplasm. When the body begins to\ndivide, the nucleus begins to divide also, and becomes en-\ntirely divided before the fission of the cytoplasm is com-\nplete. There are now two Amoebce, each half the size of\nthe original one ; each, indeed, being actually one half of\nthe original one. This splitting of the body of the Amceba,\nwhich is called fission, is the process of reproduction. The\noriginal Amoeba is the parent ; the two halves of the parent\nare the young. Each of the young possesses all of the\ncharacteristics and powers of the parent ; each can move,\neat, feel, grow, and reproduce by fission. It is very evident\nthat this is so, for any part of the body or the whole body\nwas used in performing these functions, and the young are\nsimply two parts of the parent's body. But if there be any\ndoubt about the matter, observation of the behavior of the\nyoung or new Amoebm will soon remove it. Each puts out\npseudopods, moves, ingests food particles, avoids sand\ngrains, contracts if the water is heated, grows, and finally\ndivides in two.\n-\\\" 5. Paxam(BciiuiL—Another protozoan which is common\nin stagnant pools and can be readily obtained and observed\nis Paramcecuim (Fig. 5). The body of the Paramcecium is\nmuch largerthan that of the Amoeba^being nearlyone fourth\nof a millimeter in length, and is of fixed shape. It is elon-\ngate, elliptical, and flattened, and when examined under the\nmicroscope seems to be a very complexly formed little mass.\nThe body of the Paramcecium is indeed less primitive than\nthat of the Amoeba, and yet it is still but a single cell.\nThe protoplasm of the body is very soft within and dense\non the outside, and it is covered externally by a thin mem-\nbrane. The body is covered with short fine hairs or cilia,",
+    "context_ids": [
+      "animal_life_zoology_strategy_b_p30_idx0_75b15360"
+    ],
+    "context_chars": 2241,
+    "elapsed_ms": 1512.2227920219302,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q10",
+    "split": "dev",
+    "question": "What structure is found on one side of Paramoecium?",
+    "strategy": "hybrid_rrf",
+    "top_k": 3,
+    "budget_chars": 2400,
+    "gold": [
+      {
+        "source_id": "animal_life_zoology",
+        "page": 31,
+        "evidence": "There is on one side an oblique shallow groove"
+      }
+    ],
+    "results": [
+      {
+        "id": "animal_life_zoology_strategy_b_p32_idx0_c24dd63a",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 32,
+        "text": "THE LIFE OF THE SIMPLEST ANIMALS 11\nthe case of the reproduction of Paramoecium the beginnings\nof developmental changes during the course of the growth\nof the young. The young Ammhm have only to add sub-\nstance to their bodies, to grow larger, in order to be exactly\nlike their parent.\nThe new Paramcecia attain full size and then divide,\neach into two. And so on for many generations. But it\nhas been discovered that this simplest kind of reproduction\ncan not go on indefinitely. After a number of generations\nthe Paramoeciay instead of simply dividing in two, come\ntogether in pairs, and a part of\none of the nuclei of each mem-\nber of a pair passes into the\nbody of and fuses with a part\nFis. 6.\n—\nParamacium putorinutn\ndividing. The two nuclei be-\ncome very elongate before di-\nviding.—After BCtschli.\nFig. ^.—Paramoecium caudatum; two indi-\nviduals separating after conjugation.\nof one of the nuclei of the other member of the pair. In\nthe meantime the second nucleus in each Paramoecium has\nbroken up into small pieces and disappeared. The new\nnucleus composed of parts of the nuclei from two animals\ndivides, giving each animal two nuclei just as it had before\nthis extraordinary process, which is called conjugation,\nbegan (Fig. 7). Each Parammcium, with its nuclei com-\nposed of parts of the nuclei from two distinct individuals,",
+        "metadata": {
+          "chapter": "CHAPTER I",
+          "char_count": 1338,
+          "page_number": 32
+        },
+        "score": 0.03200204813108039,
+        "strategy": "hybrid_rrf",
+        "hit": false
+      },
+      {
+        "id": "animal_life_zoology_strategy_b_p46_idx0_bbf61e65",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 46,
+        "text": "THE LIFE OP THE SLIGHTLY COMPLEX ANIMALS 25\nthere is formed a group of a few or mnny cells, each cell\nhaving the structure of the simpler unicellular forms.\nThese cells are held together in a gelatinous envelope, and\nthe mass is usually spherical in shape. In most of the\ncolonies each of the cells possesses two or three long, pro-\ntoplasmic, whiplash-like hairs, called flagella, and by the\nlashing of these flagella in the water the whole group swims\nabout.\n14. Gonium.—If, when one of the simplest animals di-\nvided to form two daughter cells, these two cells did not\nmove apart, but remained\nside by side and each di-\nvided to form two more,\nand each of these divided\nto form two more, and\nthese eight divided each\ninto two, each cell com-\nplete and independent but\nall remaining together\nin a group— if this pro-\ncess should take place we\nshould have produced a\ngroup or colony of sixteen\ncells, each cell a complete\nanimal capable of living\nindependently like the\nother simplest animals,\nbut all holding together\nto form a tiny, flat, plate-\nlike colony. N^ow, this is\nprecisely what takes place\nin the case of those colonial Protozoa belonging to the genus\nGonium (Fig. 13). AVhen the mother cell of Gonium di-\nvides, the daughter cells do not swim apart, but remain\nside by side, and by repeated fission, until there are sixteen\ncells side by side, the colony is formed. Each cell of the\nFig. \\'i,.—Gonium pectmale (after SteinX A.\ncolony seen from above; B, colony seen\nfrom tlie side.",
+        "metadata": {
+          "chapter": "CHAPTER II",
+          "char_count": 1495,
+          "page_number": 46
+        },
+        "score": 0.03131881575727918,
+        "strategy": "hybrid_rrf",
+        "hit": false
+      },
+      {
+        "id": "animal_life_zoology_strategy_b_p31_idx0_f773da95",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 31,
+        "text": "10 ANIMAL LIFE\nwhich are fine processes of the dense protoplasm of the\nsurface. There is on one side an oblique shallow groove\nthat leads to a small, funnel-shaped depression in the body\nwhich serves as a primitive sort ofmouth\nor opening for the ingress of food.\nThe Paramcecium swims about in the\nwater by vibrating the cilia which cov-\ner the body, and brings food to the\nmouth opening by producing tiny cur-\nrents in the water by means of the\ncilia in the oblique groove. The food,\nwhich consists of other living Proto-\nzoa, is taken into the body mass only\nthrough the funnel-shaped opening, and\nthat part of it which is undigested is\nthrust out always through a particular\npart of the body surface. (The taking\nin and ejecting of foreign particles can\nbe seen by putting a little powdered\ncarmine in the water.) Within the\nbody there are two nuclei and two so-\ncalled pulsating vacuoles. These pul-\nsating vacuoles {Amoeba has one) seem\nto aid in discharging waste products\nfrom the body. When the ParamcB-\ncium touches some foreign substance or\nis otherwise irritated it swims away,\nand it shoots out from the surface of its body some fine\nlong threads which when at rest are probably coiled up in\nlittle sacs on the surface of the body. When the Para-\nmcecium has taken in enough food and grown so that it\nhas reached the limit of its size, it divides transversely into\nhalves as the Amoeba does. Both nuclei divide first, and\nthen the cytoplasm constricts and divides (Fig. 6). Thus\ntwo new Paramoecia are formed. One of them has to de-\nvelop a new mouth opening and groove, so that there is in\nFig. 5.\n—\nParamcecium au-\nrelia (after Verworn).\nAt each end there is a\ncontractile vacuole, and\nin the center is one of\nthe nuclei.",
+        "metadata": {
+          "chapter": "CHAPTER I",
+          "char_count": 1736,
+          "page_number": 31
+        },
+        "score": 0.01639344262295082,
+        "strategy": "hybrid_rrf",
+        "hit": true
+      }
+    ],
+    "context": "[animal_life_zoology_strategy_b_p32_idx0_c24dd63a | animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf | page 32]\nTHE LIFE OF THE SIMPLEST ANIMALS 11\nthe case of the reproduction of Paramoecium the beginnings\nof developmental changes during the course of the growth\nof the young. The young Ammhm have only to add sub-\nstance to their bodies, to grow larger, in order to be exactly\nlike their parent.\nThe new Paramcecia attain full size and then divide,\neach into two. And so on for many generations. But it\nhas been discovered that this simplest kind of reproduction\ncan not go on indefinitely. After a number of generations\nthe Paramoeciay instead of simply dividing in two, come\ntogether in pairs, and a part of\none of the nuclei of each mem-\nber of a pair passes into the\nbody of and fuses with a part\nFis. 6.\n—\nParamacium putorinutn\ndividing. The two nuclei be-\ncome very elongate before di-\nviding.—After BCtschli.\nFig. ^.—Paramoecium caudatum; two indi-\nviduals separating after conjugation.\nof one of the nuclei of the other member of the pair. In\nthe meantime the second nucleus in each Paramoecium has\nbroken up into small pieces and disappeared. The new\nnucleus composed of parts of the nuclei from two animals\ndivides, giving each animal two nuclei just as it had before\nthis extraordinary process, which is called conjugation,\nbegan (Fig. 7). Each Parammcium, with its nuclei com-\nposed of parts of the nuclei from two distinct individuals,",
+    "context_ids": [
+      "animal_life_zoology_strategy_b_p32_idx0_c24dd63a"
+    ],
+    "context_chars": 1487,
+    "elapsed_ms": 278.6594582721591,
+    "hit1": false,
+    "hit3": true,
+    "context_hit": false
+  },
+  {
+    "query_id": "q11",
+    "split": "dev",
+    "question": "How does reproduction occur in Paramoecium?",
+    "strategy": "hybrid_rrf",
+    "top_k": 3,
+    "budget_chars": 2400,
+    "gold": [
+      {
+        "source_id": "animal_life_zoology",
+        "page": 32,
+        "evidence": "the case of the reproduction of Paramoecium the beginnings"
+      }
+    ],
+    "results": [
+      {
+        "id": "animal_life_zoology_strategy_b_p32_idx0_c24dd63a",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 32,
+        "text": "THE LIFE OF THE SIMPLEST ANIMALS 11\nthe case of the reproduction of Paramoecium the beginnings\nof developmental changes during the course of the growth\nof the young. The young Ammhm have only to add sub-\nstance to their bodies, to grow larger, in order to be exactly\nlike their parent.\nThe new Paramcecia attain full size and then divide,\neach into two. And so on for many generations. But it\nhas been discovered that this simplest kind of reproduction\ncan not go on indefinitely. After a number of generations\nthe Paramoeciay instead of simply dividing in two, come\ntogether in pairs, and a part of\none of the nuclei of each mem-\nber of a pair passes into the\nbody of and fuses with a part\nFis. 6.\n—\nParamacium putorinutn\ndividing. The two nuclei be-\ncome very elongate before di-\nviding.—After BCtschli.\nFig. ^.—Paramoecium caudatum; two indi-\nviduals separating after conjugation.\nof one of the nuclei of the other member of the pair. In\nthe meantime the second nucleus in each Paramoecium has\nbroken up into small pieces and disappeared. The new\nnucleus composed of parts of the nuclei from two animals\ndivides, giving each animal two nuclei just as it had before\nthis extraordinary process, which is called conjugation,\nbegan (Fig. 7). Each Parammcium, with its nuclei com-\nposed of parts of the nuclei from two distinct individuals,",
+        "metadata": {
+          "chapter": "CHAPTER I",
+          "char_count": 1338,
+          "page_number": 32
+        },
+        "score": 0.03278688524590164,
+        "strategy": "hybrid_rrf",
+        "hit": true
+      },
+      {
+        "id": "animal_life_zoology_strategy_b_p31_idx0_f773da95",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 31,
+        "text": "10 ANIMAL LIFE\nwhich are fine processes of the dense protoplasm of the\nsurface. There is on one side an oblique shallow groove\nthat leads to a small, funnel-shaped depression in the body\nwhich serves as a primitive sort ofmouth\nor opening for the ingress of food.\nThe Paramcecium swims about in the\nwater by vibrating the cilia which cov-\ner the body, and brings food to the\nmouth opening by producing tiny cur-\nrents in the water by means of the\ncilia in the oblique groove. The food,\nwhich consists of other living Proto-\nzoa, is taken into the body mass only\nthrough the funnel-shaped opening, and\nthat part of it which is undigested is\nthrust out always through a particular\npart of the body surface. (The taking\nin and ejecting of foreign particles can\nbe seen by putting a little powdered\ncarmine in the water.) Within the\nbody there are two nuclei and two so-\ncalled pulsating vacuoles. These pul-\nsating vacuoles {Amoeba has one) seem\nto aid in discharging waste products\nfrom the body. When the ParamcB-\ncium touches some foreign substance or\nis otherwise irritated it swims away,\nand it shoots out from the surface of its body some fine\nlong threads which when at rest are probably coiled up in\nlittle sacs on the surface of the body. When the Para-\nmcecium has taken in enough food and grown so that it\nhas reached the limit of its size, it divides transversely into\nhalves as the Amoeba does. Both nuclei divide first, and\nthen the cytoplasm constricts and divides (Fig. 6). Thus\ntwo new Paramoecia are formed. One of them has to de-\nvelop a new mouth opening and groove, so that there is in\nFig. 5.\n—\nParamcecium au-\nrelia (after Verworn).\nAt each end there is a\ncontractile vacuole, and\nin the center is one of\nthe nuclei.",
+        "metadata": {
+          "chapter": "CHAPTER I",
+          "char_count": 1736,
+          "page_number": 31
+        },
+        "score": 0.031054405392392875,
+        "strategy": "hybrid_rrf",
+        "hit": false
+      },
+      {
+        "id": "animal_life_zoology_strategy_b_p50_idx0_9360278b",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 50,
+        "text": "THE LIFE OP THE SLIGHTLY COMPLEX ANIMALS 29\n(Fig. Ifi) are composed of several thousand cells, arranged\nin a single peripheral layer about the hollow center of\nthe ball. The cells are ovoid, and each is provided with\ntwo long flagella which pro-\nject out into the water. The\nlashing of the thousands of\nthe flagella give the ball-\nlike colony a rotary motion.\nThe cells are held together\nby a Jelly-like intercellular\nsubstance and are connect-\ned with each other by fine\nprotoplasmic threads which\nextend from the body pro-\ntoplasm of one cell to the\ncells surrounding it. When\nthe colony is full grown and\nready to reproduce itself\ncertain cells of the colony\nundergo great changes.\nSome of them increase in\nsize enormously, having re-\nserve food material stored\nin them, and they may be\ncalled the egg cells of the\ncolony. Keproduction may\nnow occur by simple divi-\nsion of one of these great\negg cells into many small\ncells, all held together in a\ncommon envelope. These\nform a daughter colony\nwhich escapes from the\nmother colony and by growth and further division comes to\nbe a new full-sized colony. Or reproduction may occur in\nanother, more complex, way. Certain cells of the colony\nFig. 16.—A, Volrox minor, entire colony\n(from Nature). B, C, and D, reproductive\ncells of Volvox globator.",
+        "metadata": {
+          "chapter": "CHAPTER II",
+          "char_count": 1298,
+          "page_number": 50
+        },
+        "score": 0.030621785881252923,
+        "strategy": "hybrid_rrf",
+        "hit": false
+      }
+    ],
+    "context": "[animal_life_zoology_strategy_b_p32_idx0_c24dd63a | animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf | page 32]\nTHE LIFE OF THE SIMPLEST ANIMALS 11\nthe case of the reproduction of Paramoecium the beginnings\nof developmental changes during the course of the growth\nof the young. The young Ammhm have only to add sub-\nstance to their bodies, to grow larger, in order to be exactly\nlike their parent.\nThe new Paramcecia attain full size and then divide,\neach into two. And so on for many generations. But it\nhas been discovered that this simplest kind of reproduction\ncan not go on indefinitely. After a number of generations\nthe Paramoeciay instead of simply dividing in two, come\ntogether in pairs, and a part of\none of the nuclei of each mem-\nber of a pair passes into the\nbody of and fuses with a part\nFis. 6.\n—\nParamacium putorinutn\ndividing. The two nuclei be-\ncome very elongate before di-\nviding.—After BCtschli.\nFig. ^.—Paramoecium caudatum; two indi-\nviduals separating after conjugation.\nof one of the nuclei of the other member of the pair. In\nthe meantime the second nucleus in each Paramoecium has\nbroken up into small pieces and disappeared. The new\nnucleus composed of parts of the nuclei from two animals\ndivides, giving each animal two nuclei just as it had before\nthis extraordinary process, which is called conjugation,\nbegan (Fig. 7). Each Parammcium, with its nuclei com-\nposed of parts of the nuclei from two distinct individuals,",
+    "context_ids": [
+      "animal_life_zoology_strategy_b_p32_idx0_c24dd63a"
+    ],
+    "context_chars": 1487,
+    "elapsed_ms": 578.7195418961346,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q12",
+    "split": "dev",
+    "question": "What follows the conjugation in Paramoecium?",
+    "strategy": "hybrid_rrf",
+    "top_k": 3,
+    "budget_chars": 2400,
+    "gold": [
+      {
+        "source_id": "animal_life_zoology",
+        "page": 33,
+        "evidence": "tions by simple fission follow"
+      }
+    ],
+    "results": [
+      {
+        "id": "animal_life_zoology_strategy_b_p32_idx0_c24dd63a",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 32,
+        "text": "THE LIFE OF THE SIMPLEST ANIMALS 11\nthe case of the reproduction of Paramoecium the beginnings\nof developmental changes during the course of the growth\nof the young. The young Ammhm have only to add sub-\nstance to their bodies, to grow larger, in order to be exactly\nlike their parent.\nThe new Paramcecia attain full size and then divide,\neach into two. And so on for many generations. But it\nhas been discovered that this simplest kind of reproduction\ncan not go on indefinitely. After a number of generations\nthe Paramoeciay instead of simply dividing in two, come\ntogether in pairs, and a part of\none of the nuclei of each mem-\nber of a pair passes into the\nbody of and fuses with a part\nFis. 6.\n—\nParamacium putorinutn\ndividing. The two nuclei be-\ncome very elongate before di-\nviding.—After BCtschli.\nFig. ^.—Paramoecium caudatum; two indi-\nviduals separating after conjugation.\nof one of the nuclei of the other member of the pair. In\nthe meantime the second nucleus in each Paramoecium has\nbroken up into small pieces and disappeared. The new\nnucleus composed of parts of the nuclei from two animals\ndivides, giving each animal two nuclei just as it had before\nthis extraordinary process, which is called conjugation,\nbegan (Fig. 7). Each Parammcium, with its nuclei com-\nposed of parts of the nuclei from two distinct individuals,",
+        "metadata": {
+          "chapter": "CHAPTER I",
+          "char_count": 1338,
+          "page_number": 32
+        },
+        "score": 0.03278688524590164,
+        "strategy": "hybrid_rrf",
+        "hit": false
+      },
+      {
+        "id": "animal_life_zoology_strategy_b_p48_idx0_5316adee",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 48,
+        "text": "THE LIFE OF THE SLIGHTLY COMPLEX ANIMALS 27\ncolony, the two cells conjugate (Fig. 14)—that is, fuse to\nform a single cell. This new cell formed by the fusion of\ntwo, develops a tough enveloping membrane of cellulose\nand passes into what is called\nthe \" resting stage.\" That is,\nthe cell remains dormant for a\nshorter or longer time. Itmay\nthus tide over a drought or a\nwinter. It may become dry or\nbe frozen, yet when suitable\nconditions of moisture or tem-\nperature are again present the\nouter wall breaks and the pro-\ntoplasm issues as a large free-\nswimming cell, which soon di-\nvides into sixteen daughter\ncells which constitute a new\ncolony.\n16. Eudorina.—Another colo-\nnial protozoan which much re- g\nsembles Pandorina, but differs\nfrom it in one interesting and\nsuggestive thing, is Eudorina.\nIn Eudorina eJegans (Fig. 15)\nthe colony is spherical and is\ncomposed of sixteen or thirty- c\ntwo cells. Each of these cells\ncan become the parent of a new\ncolony by simple repeated divi- fig. i4\nsion. But this simple mode of\nreproduction, just as with Pan-\ndorina, can not persist indefi-\nnitely. There must be conjuga-\ntion. But the process of mul-\ntiplication, which includes conjugation, is different from\nthat process in Pandorina^ in that in Eudorina the conju-\nPandoi-ina morum (after\nGoEBEL). Three stages in the\nconjugation and formation of the\nresting spore. A, two cells just\nfused; B, the two cells completely\nfused, but with flagella still per-\nsisting ; C, the resting spore.",
+        "metadata": {
+          "chapter": "CHAPTER II",
+          "char_count": 1489,
+          "page_number": 48
+        },
+        "score": 0.03149801587301587,
+        "strategy": "hybrid_rrf",
+        "hit": false
+      },
+      {
+        "id": "animal_life_zoology_strategy_b_p56_idx0_c697d739",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 56,
+        "text": "THE LIFE OP THE SLIGHTLY COMPLEX ANIMALS 35\nbecoming inclosed in a common capsular envelope, and by\nrepeated division and consequent increase in number of\ncells becoming a new sponge. This is reproduction by\n\" budding.\" The \" buds,\" or small groups of cells which\nseparate from the parent sponge, are called gemmules.\nReproduction in the more complex way occurs as follows :\nSome of the free amoeboid cells of the mesoderm (the mid-\ndle one of the three layers of the body wall) become en-\nlarged and spherical in form. These are the egg cells.\nOther mesodermic cells divide into many small cells, which\nare oval with a long, tapering, tail-like projection. These\ncells are active, being able to swim by the lashing of the\ntapering tail. These are the fertilizing cells. The two\nkinds of reproductive cells may be formed in one sponge\n;\nif so, they are formed at different times. Or one sponge\nmay produce only egg cells, another only fertilizing or,\nas they are called, sperm cells. Conjugation takes place\nbetween a sperm cell and an egg cell. That is, one of the\nsmall active sperm cells finds one of the large, spherical,\ninactive cells and penetrates into the protoplasm of its\nbody. The two cells fuse and form a single cell, which\nmay be called the fertilized or impregnated egg. This fer-\ntilized egg, remaining in the body mass of the parent\nsponge, divides repeatedly, the new cells formed by this\ndivision remaining together. The young or embryo sponge\nfinally escapes from the body of the parent sponge, and\nlives for a short time as an active free-swimming animal.\nIts body consists of an oval mass of cells, of which those on\none side are provided with cilia or swimming hairs. The\ncells of the body continue to divide and to grow, and the\nbody shape gradually changes. The young sponge finally\nbecomes attached to some rock, the body assumes the typi-\ncal cylindrical shape, an aperture appears at the free end,\nand small perforations appear on the surface. The sponge\nbecomes full grown.\nThose of us who do not live in the vicinity of the sea-",
+        "metadata": {
+          "chapter": "CHAPTER II",
+          "char_count": 2059,
+          "page_number": 56
+        },
+        "score": 0.030621785881252923,
+        "strategy": "hybrid_rrf",
+        "hit": false
+      }
+    ],
+    "context": "[animal_life_zoology_strategy_b_p32_idx0_c24dd63a | animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf | page 32]\nTHE LIFE OF THE SIMPLEST ANIMALS 11\nthe case of the reproduction of Paramoecium the beginnings\nof developmental changes during the course of the growth\nof the young. The young Ammhm have only to add sub-\nstance to their bodies, to grow larger, in order to be exactly\nlike their parent.\nThe new Paramcecia attain full size and then divide,\neach into two. And so on for many generations. But it\nhas been discovered that this simplest kind of reproduction\ncan not go on indefinitely. After a number of generations\nthe Paramoeciay instead of simply dividing in two, come\ntogether in pairs, and a part of\none of the nuclei of each mem-\nber of a pair passes into the\nbody of and fuses with a part\nFis. 6.\n—\nParamacium putorinutn\ndividing. The two nuclei be-\ncome very elongate before di-\nviding.—After BCtschli.\nFig. ^.—Paramoecium caudatum; two indi-\nviduals separating after conjugation.\nof one of the nuclei of the other member of the pair. In\nthe meantime the second nucleus in each Paramoecium has\nbroken up into small pieces and disappeared. The new\nnucleus composed of parts of the nuclei from two animals\ndivides, giving each animal two nuclei just as it had before\nthis extraordinary process, which is called conjugation,\nbegan (Fig. 7). Each Parammcium, with its nuclei com-\nposed of parts of the nuclei from two distinct individuals,",
+    "context_ids": [
+      "animal_life_zoology_strategy_b_p32_idx0_c24dd63a"
+    ],
+    "context_chars": 1487,
+    "elapsed_ms": 281.9334170781076,
+    "hit1": false,
+    "hit3": false,
+    "context_hit": false
+  },
+  {
+    "query_id": "q13",
+    "split": "dev",
+    "question": "What is the shape of the bell animalcule Vorticella?",
+    "strategy": "hybrid_rrf",
+    "top_k": 3,
+    "budget_chars": 2400,
+    "gold": [
+      {
+        "source_id": "animal_life_zoology",
+        "page": 34,
+        "evidence": "The body is pear-shaped or bell-shaped, with a mouth"
+      }
+    ],
+    "results": [
+      {
+        "id": "animal_life_zoology_strategy_b_p34_idx0_ba80f5fd",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 34,
+        "text": "THE LIFE OF THE SIMPLEST ANIMALS 13\nThe body is pear-shaped or bell-shaped, with a mouth\nopening at the broad end, and a delicate stem at the\nnarrow end. This stem is either hard and stiff, or is\nflexible and capable of being suddenly contracted in a\nclose spiral. In the body mass there is one pulsating\nvacuole and one nucleus. Usually many Vorticellw are\nfound together on a common stalk, thus forming a proto-\nzoan colony.\nThe life processes of Vorticella are of the simple kind\nalready observed in Amoeha and Paramcecium. Vorticella\nshows, however, some modifications of the process of repro-\nduction which are interesting. The plane of division of\nVorticella is parallel to the long axis of the pear-shaped\nbody, so that when fission is complete there are two Vorti-\ncellce on a single stalk. One of the two becomes detached,\nand by means of a circle of fine hairs or cilia which appear\naround its basal end leads a free swimming life for a short\ntime. Finally it settles down and develops a stalk. Vorti-\ncella shows two kinds of fission—one the usual division\ninto equal parts, and another division into unequal parts.\nIn this latter kind, called reproduction or multiplication\nby budding, a small part of the parent body separates,\ndevelops a basal circle of cilia, and swims away. The pro-\ncess of conjugation also takes place among the Vorti-\ncella, but they are never two equal forms which conju-\ngate, but always one of the ordinary stalked forms and\none of the small free -swimming forms produced by\nbudding.\nHere, then, in the life of Vorticella, are new modifica-\ntions of the life processes ; but, after all, these life processes\nare very simply performed, and the body is like the body of\nthe Amceha, a single cell. Vorticella is plainly one of \"the\nsimplest animals.\"\n7. Gregarina.—A fourth kind of protozoan to which we\ncan profitably give some special attention is Gregarina\n(Fig. 9), the various species of which live in the alimentary",
+        "metadata": {
+          "chapter": "CHAPTER I",
+          "char_count": 1957,
+          "page_number": 34
+        },
+        "score": 0.03278688524590164,
+        "strategy": "hybrid_rrf",
+        "hit": true
+      },
+      {
+        "id": "animal_life_zoology_strategy_b_p33_idx0_7ebea357",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 33,
+        "text": "12 ANIMAL LIFE\nnow simply divides in two, and a large number of genera-\ntions by simple fission follow.\nParamecium in the character of its body and in the\nmanner of the performance of its life processes is distinctly\nless simple than the Amceha, but its body is composed of a\nsingle structural unit, a single cell, and it is truly one of\nthe \" simplest animals.\"\n6. Vorticella—Another interesting and readily found\nprotozoan is Vorticella (Fig. 8). While theAmceha can crawl\nand Paramcecium swim, Vorticella, except when very young,\nPig. 8.— Vorticella microstoma (after Stein). A, small, free-swimming individuals\nconjugating with a large, stalked individual ; B, a stalked individual dividing\nlongitudinally ; C, after division is completed one part severs itself from the\nother, forms a ring of cilia, and swims away.\nis attached by tiny stems to dead leaves or sticks in the\nwater, and can change its ]io';ition only to a limited extent.",
+        "metadata": {
+          "chapter": "CHAPTER I",
+          "char_count": 941,
+          "page_number": 33
+        },
+        "score": 0.03225806451612903,
+        "strategy": "hybrid_rrf",
+        "hit": false
+      },
+      {
+        "id": "animal_life_zoology_strategy_b_p42_idx0_47be1ef7",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 42,
+        "text": "THE LIFE OP THE SIMPLEST ANIMALS 21\nemphasized. The shape of this one-celled body varies.\nWith the most primitive or simplest of the \" simplest ani-\nmals,\" like Amoeha, for example, there is no \" distinction\nof ends, sides, or surfaces, such as we are familiar with in\nin the higher animals. Anterior and posterior ends, right\nand left sides, dorsal and ventral surfaces are terms which\nhave no meaning in reference to an Amoeba, for any part\nof the animal may go first in locomotion, and when crawl-\ning the animal moves along on whatever part of its\nsurface happens to be in contact with foreign bodies.\"\nThe one shape most often seen among the Protozoa, or\nmost nearly fairly to be called the typical shape, is the\nspherical or subspherical shape. Why this is so is readily\nseen. Most of the Protozoa are aquatic and free swim-\nming. They live in a medium, the water, which supports\nor presses on the body equally on all sides, and the body is\nnot forced to assume any particular form by the environ-\nment. The body rests suspended in the water with any\npart of its surface uppermost or any part undermost. As\nany part of the surface serves equally well in many of the\nProtozoa for breathing or eating or excreting, it is obvious\nthat the spherical form is the simplest and most conven-\nient shape for such a body. It is interesting to note that\nthe spherical form is the common shape of the egg cell of\nthe higher animals. Each one of the higher, multicellular\nanimals begins life (as we shall find it explained in another\nchapter of this book) as a single cell, the egg cell, and\nthese egg cells are usually spherical in shape. The full\nsignificance of this we need not now attempt to under-\nstand, but it is interesting to note that normally the whole\nbody of the simplest animals is a single spherical cell, and\nthat every one of the higher animals, however complex\nit may become by growth and development, begins life as a\nsingle spherical cell.\n12. The primitive but successful life.—Living consists of\nthe performing of certain so-called life processes, such as",
+        "metadata": {
+          "chapter": "CHAPTER I",
+          "char_count": 2071,
+          "page_number": 42
+        },
+        "score": 0.015873015873015872,
+        "strategy": "hybrid_rrf",
+        "hit": false
+      }
+    ],
+    "context": "[animal_life_zoology_strategy_b_p34_idx0_ba80f5fd | animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf | page 34]\nTHE LIFE OF THE SIMPLEST ANIMALS 13\nThe body is pear-shaped or bell-shaped, with a mouth\nopening at the broad end, and a delicate stem at the\nnarrow end. This stem is either hard and stiff, or is\nflexible and capable of being suddenly contracted in a\nclose spiral. In the body mass there is one pulsating\nvacuole and one nucleus. Usually many Vorticellw are\nfound together on a common stalk, thus forming a proto-\nzoan colony.\nThe life processes of Vorticella are of the simple kind\nalready observed in Amoeha and Paramcecium. Vorticella\nshows, however, some modifications of the process of repro-\nduction which are interesting. The plane of division of\nVorticella is parallel to the long axis of the pear-shaped\nbody, so that when fission is complete there are two Vorti-\ncellce on a single stalk. One of the two becomes detached,\nand by means of a circle of fine hairs or cilia which appear\naround its basal end leads a free swimming life for a short\ntime. Finally it settles down and develops a stalk. Vorti-\ncella shows two kinds of fission—one the usual division\ninto equal parts, and another division into unequal parts.\nIn this latter kind, called reproduction or multiplication\nby budding, a small part of the parent body separates,\ndevelops a basal circle of cilia, and swims away. The pro-\ncess of conjugation also takes place among the Vorti-\ncella, but they are never two equal forms which conju-\ngate, but always one of the ordinary stalked forms and\none of the small free -swimming forms produced by\nbudding.\nHere, then, in the life of Vorticella, are new modifica-\ntions of the life processes ; but, after all, these life processes\nare very simply performed, and the body is like the body of\nthe Amceha, a single cell. Vorticella is plainly one of \"the\nsimplest animals.\"\n7. Gregarina.—A fourth kind of protozoan to which we\ncan profitably give some special attention is Gregarina\n(Fig. 9), the various species of which live in the alimentary",
+    "context_ids": [
+      "animal_life_zoology_strategy_b_p34_idx0_ba80f5fd"
+    ],
+    "context_chars": 2106,
+    "elapsed_ms": 429.21849992126226,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q14",
+    "split": "dev",
+    "question": "How does Gregarina live inside its host?",
+    "strategy": "hybrid_rrf",
+    "top_k": 3,
+    "budget_chars": 2400,
+    "gold": [
+      {
+        "source_id": "animal_life_zoology",
+        "page": 35,
+        "evidence": "Gregarina is a parasite, living at the expense of the host"
+      }
+    ],
+    "results": [
+      {
+        "id": "animal_life_zoology_strategy_b_p35_idx0_605a4fd5",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 35,
+        "text": "14 ANIMAL LIFE\ncanal * of crayfishes and centipeds and certain insects.\nGregarina is a parasite, living at the expense of the host\nin whose body it lies. It has no need to swim about quickly,\nFig. 9.—GregarinidaB. A, a Gregarinid (Actinocephalus oligacanthus) from the intes-\ntine of an insect (after Stein) ; B and C, spore forming by a Gregarinid {Coc-\ncidium ovifortne) from tlie liver of a guinea-pig (after Leuckabt) ; D, E, and\nP, successive stages in the conjugation and spore forming of Oregarina poly-\ntrwrpha (after Koklliker).\nand hence has no swimming cilia like Paramcecuim and\nthe young Vorticella. It does need to cling to the inner\nwall of the alimentary canal of its host, and the body of\nsome species is provided with hooks for that purpose. The\n* Specimens of Oregarina can be abundantly found in the alimen-\ntary canal of meal worms, the larvae of the black beetle {Tenehrio moli-\ntor), common in granaries, mills, and brans. \"Snip off with small\nscissors both ends of a larva, seize the protruding (white) intestine with\nforceps, draw it out, and tease a portion in normal salt solution (water\nwill do) on a slide. Cover, find with the low power (minute, oblong,\ntransparent bodies), and study with any higher objective to suit.\"\n—\nMURBACH.",
+        "metadata": {
+          "chapter": "CHAPTER I",
+          "char_count": 1261,
+          "page_number": 35
+        },
+        "score": 0.03278688524590164,
+        "strategy": "hybrid_rrf",
+        "hit": true
+      },
+      {
+        "id": "animal_life_zoology_strategy_b_p36_idx0_4e4e454e",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 36,
+        "text": "THE LIFE OF THE SIMPLEST ANIMALS 15\nfood of Gregarina is the liquid food of the host as it exists\nin the intestine, and which is simply absorbed anywhere\nthrough the surface of the body of the parasite. There is\nno mouth opening nor fixed point of ejection of waste\nmaterial, nor is there any contractile vacuole in the body.\nIn the method of multiplication or reproduction Gre-\ngarina shows an interesting difference from Amoeha and\nParamcecium and Vorticella. When the Gregarina is\nready to multiply, its body, which in most species is rather\nelongate and flattened, contracts into a ball-shaped mass\nand becomes encysted—that is, becomes inclosed in a tough,\nmembranous coat. This may in turn be covered externally\nby a jelly-like substance. The nucleus and the protoplasm\nof the body inside of the coat now divide into many small\nparts called spores, each spore consisting of a bit of the\ncytoplasm inclosing a small part of the original nucleus.\nLater the tough outer wall of the cyst breaks and the\nspores fall out, each to grow and develop into a new Gre-\ngarina. In some species there are fine ducts or canals\nleading from the center of the cyst through the wall to the\noutside, and through these canals the spores issue. Some-\ntimes two Gregarince come together before encystation and\nbecome inclosed in a common wall, the two thus forming a\nsingle cyst. This is a kind of conjugation. In some spe-\ncies each of the young or new Gregarince coming from the\nspores immediately divides by fission to form two indi-\nviduals.\n8. Marine Protozoa.—If called upon to name the char-\nacteristic animals of the ocean, we answer readily with the\nnames of the better-known ocean fishes, like the herring and\ncod, which we know to live there in enormousnumbers ; the\nseals and sea lions, the whales and porpoises, those fish-like\nanimals which are really more like land animals than like\nthe true fishes ; and the jelly-fishes and corals and star-fishes\nwhich abound along the ocean's edge. But in naming only\nthese we should be omitting certain animals which in point",
+        "metadata": {
+          "chapter": "CHAPTER I",
+          "char_count": 2063,
+          "page_number": 36
+        },
+        "score": 0.03225806451612903,
+        "strategy": "hybrid_rrf",
+        "hit": false
+      },
+      {
+        "id": "animal_life_zoology_strategy_b_p34_idx0_ba80f5fd",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 34,
+        "text": "THE LIFE OF THE SIMPLEST ANIMALS 13\nThe body is pear-shaped or bell-shaped, with a mouth\nopening at the broad end, and a delicate stem at the\nnarrow end. This stem is either hard and stiff, or is\nflexible and capable of being suddenly contracted in a\nclose spiral. In the body mass there is one pulsating\nvacuole and one nucleus. Usually many Vorticellw are\nfound together on a common stalk, thus forming a proto-\nzoan colony.\nThe life processes of Vorticella are of the simple kind\nalready observed in Amoeha and Paramcecium. Vorticella\nshows, however, some modifications of the process of repro-\nduction which are interesting. The plane of division of\nVorticella is parallel to the long axis of the pear-shaped\nbody, so that when fission is complete there are two Vorti-\ncellce on a single stalk. One of the two becomes detached,\nand by means of a circle of fine hairs or cilia which appear\naround its basal end leads a free swimming life for a short\ntime. Finally it settles down and develops a stalk. Vorti-\ncella shows two kinds of fission—one the usual division\ninto equal parts, and another division into unequal parts.\nIn this latter kind, called reproduction or multiplication\nby budding, a small part of the parent body separates,\ndevelops a basal circle of cilia, and swims away. The pro-\ncess of conjugation also takes place among the Vorti-\ncella, but they are never two equal forms which conju-\ngate, but always one of the ordinary stalked forms and\none of the small free -swimming forms produced by\nbudding.\nHere, then, in the life of Vorticella, are new modifica-\ntions of the life processes ; but, after all, these life processes\nare very simply performed, and the body is like the body of\nthe Amceha, a single cell. Vorticella is plainly one of \"the\nsimplest animals.\"\n7. Gregarina.—A fourth kind of protozoan to which we\ncan profitably give some special attention is Gregarina\n(Fig. 9), the various species of which live in the alimentary",
+        "metadata": {
+          "chapter": "CHAPTER I",
+          "char_count": 1957,
+          "page_number": 34
+        },
+        "score": 0.031746031746031744,
+        "strategy": "hybrid_rrf",
+        "hit": false
+      }
+    ],
+    "context": "[animal_life_zoology_strategy_b_p35_idx0_605a4fd5 | animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf | page 35]\n14 ANIMAL LIFE\ncanal * of crayfishes and centipeds and certain insects.\nGregarina is a parasite, living at the expense of the host\nin whose body it lies. It has no need to swim about quickly,\nFig. 9.—GregarinidaB. A, a Gregarinid (Actinocephalus oligacanthus) from the intes-\ntine of an insect (after Stein) ; B and C, spore forming by a Gregarinid {Coc-\ncidium ovifortne) from tlie liver of a guinea-pig (after Leuckabt) ; D, E, and\nP, successive stages in the conjugation and spore forming of Oregarina poly-\ntrwrpha (after Koklliker).\nand hence has no swimming cilia like Paramcecuim and\nthe young Vorticella. It does need to cling to the inner\nwall of the alimentary canal of its host, and the body of\nsome species is provided with hooks for that purpose. The\n* Specimens of Oregarina can be abundantly found in the alimen-\ntary canal of meal worms, the larvae of the black beetle {Tenehrio moli-\ntor), common in granaries, mills, and brans. \"Snip off with small\nscissors both ends of a larva, seize the protruding (white) intestine with\nforceps, draw it out, and tease a portion in normal salt solution (water\nwill do) on a slide. Cover, find with the low power (minute, oblong,\ntransparent bodies), and study with any higher objective to suit.\"\n—\nMURBACH.",
+    "context_ids": [
+      "animal_life_zoology_strategy_b_p35_idx0_605a4fd5"
+    ],
+    "context_chars": 1410,
+    "elapsed_ms": 211.72508411109447,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q15",
+    "split": "dev",
+    "question": "What kind of food does Gregarina absorb?",
+    "strategy": "hybrid_rrf",
+    "top_k": 3,
+    "budget_chars": 2400,
+    "gold": [
+      {
+        "source_id": "animal_life_zoology",
+        "page": 36,
+        "evidence": "food of Gregarina is the liquid food of the host as it exists"
+      }
+    ],
+    "results": [
+      {
+        "id": "animal_life_zoology_strategy_b_p34_idx0_ba80f5fd",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 34,
+        "text": "THE LIFE OF THE SIMPLEST ANIMALS 13\nThe body is pear-shaped or bell-shaped, with a mouth\nopening at the broad end, and a delicate stem at the\nnarrow end. This stem is either hard and stiff, or is\nflexible and capable of being suddenly contracted in a\nclose spiral. In the body mass there is one pulsating\nvacuole and one nucleus. Usually many Vorticellw are\nfound together on a common stalk, thus forming a proto-\nzoan colony.\nThe life processes of Vorticella are of the simple kind\nalready observed in Amoeha and Paramcecium. Vorticella\nshows, however, some modifications of the process of repro-\nduction which are interesting. The plane of division of\nVorticella is parallel to the long axis of the pear-shaped\nbody, so that when fission is complete there are two Vorti-\ncellce on a single stalk. One of the two becomes detached,\nand by means of a circle of fine hairs or cilia which appear\naround its basal end leads a free swimming life for a short\ntime. Finally it settles down and develops a stalk. Vorti-\ncella shows two kinds of fission—one the usual division\ninto equal parts, and another division into unequal parts.\nIn this latter kind, called reproduction or multiplication\nby budding, a small part of the parent body separates,\ndevelops a basal circle of cilia, and swims away. The pro-\ncess of conjugation also takes place among the Vorti-\ncella, but they are never two equal forms which conju-\ngate, but always one of the ordinary stalked forms and\none of the small free -swimming forms produced by\nbudding.\nHere, then, in the life of Vorticella, are new modifica-\ntions of the life processes ; but, after all, these life processes\nare very simply performed, and the body is like the body of\nthe Amceha, a single cell. Vorticella is plainly one of \"the\nsimplest animals.\"\n7. Gregarina.—A fourth kind of protozoan to which we\ncan profitably give some special attention is Gregarina\n(Fig. 9), the various species of which live in the alimentary",
+        "metadata": {
+          "chapter": "CHAPTER I",
+          "char_count": 1957,
+          "page_number": 34
+        },
+        "score": 0.032266458495966696,
+        "strategy": "hybrid_rrf",
+        "hit": false
+      },
+      {
+        "id": "animal_life_zoology_strategy_b_p36_idx0_4e4e454e",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 36,
+        "text": "THE LIFE OF THE SIMPLEST ANIMALS 15\nfood of Gregarina is the liquid food of the host as it exists\nin the intestine, and which is simply absorbed anywhere\nthrough the surface of the body of the parasite. There is\nno mouth opening nor fixed point of ejection of waste\nmaterial, nor is there any contractile vacuole in the body.\nIn the method of multiplication or reproduction Gre-\ngarina shows an interesting difference from Amoeha and\nParamcecium and Vorticella. When the Gregarina is\nready to multiply, its body, which in most species is rather\nelongate and flattened, contracts into a ball-shaped mass\nand becomes encysted—that is, becomes inclosed in a tough,\nmembranous coat. This may in turn be covered externally\nby a jelly-like substance. The nucleus and the protoplasm\nof the body inside of the coat now divide into many small\nparts called spores, each spore consisting of a bit of the\ncytoplasm inclosing a small part of the original nucleus.\nLater the tough outer wall of the cyst breaks and the\nspores fall out, each to grow and develop into a new Gre-\ngarina. In some species there are fine ducts or canals\nleading from the center of the cyst through the wall to the\noutside, and through these canals the spores issue. Some-\ntimes two Gregarince come together before encystation and\nbecome inclosed in a common wall, the two thus forming a\nsingle cyst. This is a kind of conjugation. In some spe-\ncies each of the young or new Gregarince coming from the\nspores immediately divides by fission to form two indi-\nviduals.\n8. Marine Protozoa.—If called upon to name the char-\nacteristic animals of the ocean, we answer readily with the\nnames of the better-known ocean fishes, like the herring and\ncod, which we know to live there in enormousnumbers ; the\nseals and sea lions, the whales and porpoises, those fish-like\nanimals which are really more like land animals than like\nthe true fishes ; and the jelly-fishes and corals and star-fishes\nwhich abound along the ocean's edge. But in naming only\nthese we should be omitting certain animals which in point",
+        "metadata": {
+          "chapter": "CHAPTER I",
+          "char_count": 2063,
+          "page_number": 36
+        },
+        "score": 0.032018442622950824,
+        "strategy": "hybrid_rrf",
+        "hit": true
+      },
+      {
+        "id": "animal_life_zoology_strategy_b_p35_idx0_605a4fd5",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 35,
+        "text": "14 ANIMAL LIFE\ncanal * of crayfishes and centipeds and certain insects.\nGregarina is a parasite, living at the expense of the host\nin whose body it lies. It has no need to swim about quickly,\nFig. 9.—GregarinidaB. A, a Gregarinid (Actinocephalus oligacanthus) from the intes-\ntine of an insect (after Stein) ; B and C, spore forming by a Gregarinid {Coc-\ncidium ovifortne) from tlie liver of a guinea-pig (after Leuckabt) ; D, E, and\nP, successive stages in the conjugation and spore forming of Oregarina poly-\ntrwrpha (after Koklliker).\nand hence has no swimming cilia like Paramcecuim and\nthe young Vorticella. It does need to cling to the inner\nwall of the alimentary canal of its host, and the body of\nsome species is provided with hooks for that purpose. The\n* Specimens of Oregarina can be abundantly found in the alimen-\ntary canal of meal worms, the larvae of the black beetle {Tenehrio moli-\ntor), common in granaries, mills, and brans. \"Snip off with small\nscissors both ends of a larva, seize the protruding (white) intestine with\nforceps, draw it out, and tease a portion in normal salt solution (water\nwill do) on a slide. Cover, find with the low power (minute, oblong,\ntransparent bodies), and study with any higher objective to suit.\"\n—\nMURBACH.",
+        "metadata": {
+          "chapter": "CHAPTER I",
+          "char_count": 1261,
+          "page_number": 35
+        },
+        "score": 0.03128054740957967,
+        "strategy": "hybrid_rrf",
+        "hit": false
+      }
+    ],
+    "context": "[animal_life_zoology_strategy_b_p34_idx0_ba80f5fd | animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf | page 34]\nTHE LIFE OF THE SIMPLEST ANIMALS 13\nThe body is pear-shaped or bell-shaped, with a mouth\nopening at the broad end, and a delicate stem at the\nnarrow end. This stem is either hard and stiff, or is\nflexible and capable of being suddenly contracted in a\nclose spiral. In the body mass there is one pulsating\nvacuole and one nucleus. Usually many Vorticellw are\nfound together on a common stalk, thus forming a proto-\nzoan colony.\nThe life processes of Vorticella are of the simple kind\nalready observed in Amoeha and Paramcecium. Vorticella\nshows, however, some modifications of the process of repro-\nduction which are interesting. The plane of division of\nVorticella is parallel to the long axis of the pear-shaped\nbody, so that when fission is complete there are two Vorti-\ncellce on a single stalk. One of the two becomes detached,\nand by means of a circle of fine hairs or cilia which appear\naround its basal end leads a free swimming life for a short\ntime. Finally it settles down and develops a stalk. Vorti-\ncella shows two kinds of fission—one the usual division\ninto equal parts, and another division into unequal parts.\nIn this latter kind, called reproduction or multiplication\nby budding, a small part of the parent body separates,\ndevelops a basal circle of cilia, and swims away. The pro-\ncess of conjugation also takes place among the Vorti-\ncella, but they are never two equal forms which conju-\ngate, but always one of the ordinary stalked forms and\none of the small free -swimming forms produced by\nbudding.\nHere, then, in the life of Vorticella, are new modifica-\ntions of the life processes ; but, after all, these life processes\nare very simply performed, and the body is like the body of\nthe Amceha, a single cell. Vorticella is plainly one of \"the\nsimplest animals.\"\n7. Gregarina.—A fourth kind of protozoan to which we\ncan profitably give some special attention is Gregarina\n(Fig. 9), the various species of which live in the alimentary",
+    "context_ids": [
+      "animal_life_zoology_strategy_b_p34_idx0_ba80f5fd"
+    ],
+    "context_chars": 2106,
+    "elapsed_ms": 550.4034999758005,
+    "hit1": false,
+    "hit3": true,
+    "context_hit": false
+  }
+]

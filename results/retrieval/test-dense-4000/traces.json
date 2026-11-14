@@ -1,0 +1,363 @@
+[
+  {
+    "query_id": "q16",
+    "split": "test",
+    "question": "How do pseudopodia of certain rhizopods touch and interlace?",
+    "strategy": "dense",
+    "top_k": 3,
+    "budget_chars": 4000,
+    "gold": [
+      {
+        "source_id": "animal_life_zoology",
+        "page": 38,
+        "evidence": "fine threads interlace when they touch each other, thus"
+      }
+    ],
+    "results": [
+      {
+        "id": "animal_life_zoology_strategy_b_p38_idx0_07ba5faf",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 38,
+        "text": "THE LIFE OF THE SIMPLEST ANIMALS 17\nfine threads interlace when they touch each other, thus\nforming a sort of protoplasmic network outside of the shell.\nIn some cases there is a complete layer of protoplasm\n—\npart of the body protoplasm of the protozoan—surround-\nFiG. 10.—Polystomella strigiUata, one of the Globigerinae.—After Max Schultze.\ning the cell externally. The Radiolaria, whose shells are\nmade of silica, possess also a perforated membranous sac\ncalled the central capsule, which lies imbedded in the\nprotoplasm, dividing it into two portions, one within and\n3",
+        "metadata": {
+          "chapter": "CHAPTER I",
+          "char_count": 572,
+          "page_number": 38
+        },
+        "score": 0.44148879734489765,
+        "strategy": "dense",
+        "hit": true
+      },
+      {
+        "id": "animal_life_zoology_strategy_b_p59_idx0_b3cfc943",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 59,
+        "text": "38 ANIMAL LIFE\ntentacles. The wall of the cylinder is composed of an\nouter and an inner layer of cells and a thin non-cellular\nmembranous layer between them. The tentacles are hol-\nlow and are simple extensions of the body wall. The cells\nof the outer layer, or ectoderm, are not all alike. Some\nare smaller than the others and appear to be crowded in\nFig. 19.—The fresh-water polyp, Hydra ridgaris. A, in expanded condition, and\nin contracted condition; B. cross section of body, showing the two layers of\ncells which make up the body wall.\nbetween the bases or inner ends of the larger ones. The\ninner ends of the large cells are extended as narrow-pointed\nprolongations directed at right angles with the rest of the\ncell. These processes are very contractile and are called\nmuscle processes. Each one is simply a continuation of\nthe protoplasm of the cell body, which is especially con-\ntractile. Some of the smnllcr ectoderm cells are very",
+        "metadata": {
+          "chapter": "CHAPTER II",
+          "char_count": 943,
+          "page_number": 59
+        },
+        "score": 0.39502802738294673,
+        "strategy": "dense",
+        "hit": false
+      },
+      {
+        "id": "animal_life_zoology_strategy_b_p48_idx0_5316adee",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 48,
+        "text": "THE LIFE OF THE SLIGHTLY COMPLEX ANIMALS 27\ncolony, the two cells conjugate (Fig. 14)—that is, fuse to\nform a single cell. This new cell formed by the fusion of\ntwo, develops a tough enveloping membrane of cellulose\nand passes into what is called\nthe \" resting stage.\" That is,\nthe cell remains dormant for a\nshorter or longer time. Itmay\nthus tide over a drought or a\nwinter. It may become dry or\nbe frozen, yet when suitable\nconditions of moisture or tem-\nperature are again present the\nouter wall breaks and the pro-\ntoplasm issues as a large free-\nswimming cell, which soon di-\nvides into sixteen daughter\ncells which constitute a new\ncolony.\n16. Eudorina.—Another colo-\nnial protozoan which much re- g\nsembles Pandorina, but differs\nfrom it in one interesting and\nsuggestive thing, is Eudorina.\nIn Eudorina eJegans (Fig. 15)\nthe colony is spherical and is\ncomposed of sixteen or thirty- c\ntwo cells. Each of these cells\ncan become the parent of a new\ncolony by simple repeated divi- fig. i4\nsion. But this simple mode of\nreproduction, just as with Pan-\ndorina, can not persist indefi-\nnitely. There must be conjuga-\ntion. But the process of mul-\ntiplication, which includes conjugation, is different from\nthat process in Pandorina^ in that in Eudorina the conju-\nPandoi-ina morum (after\nGoEBEL). Three stages in the\nconjugation and formation of the\nresting spore. A, two cells just\nfused; B, the two cells completely\nfused, but with flagella still per-\nsisting ; C, the resting spore.",
+        "metadata": {
+          "chapter": "CHAPTER II",
+          "char_count": 1489,
+          "page_number": 48
+        },
+        "score": 0.3870903081789807,
+        "strategy": "dense",
+        "hit": false
+      }
+    ],
+    "context": "[animal_life_zoology_strategy_b_p38_idx0_07ba5faf | animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf | page 38]\nTHE LIFE OF THE SIMPLEST ANIMALS 17\nfine threads interlace when they touch each other, thus\nforming a sort of protoplasmic network outside of the shell.\nIn some cases there is a complete layer of protoplasm\n—\npart of the body protoplasm of the protozoan—surround-\nFiG. 10.—Polystomella strigiUata, one of the Globigerinae.—After Max Schultze.\ning the cell externally. The Radiolaria, whose shells are\nmade of silica, possess also a perforated membranous sac\ncalled the central capsule, which lies imbedded in the\nprotoplasm, dividing it into two portions, one within and\n3\n\n[animal_life_zoology_strategy_b_p59_idx0_b3cfc943 | animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf | page 59]\n38 ANIMAL LIFE\ntentacles. The wall of the cylinder is composed of an\nouter and an inner layer of cells and a thin non-cellular\nmembranous layer between them. The tentacles are hol-\nlow and are simple extensions of the body wall. The cells\nof the outer layer, or ectoderm, are not all alike. Some\nare smaller than the others and appear to be crowded in\nFig. 19.—The fresh-water polyp, Hydra ridgaris. A, in expanded condition, and\nin contracted condition; B. cross section of body, showing the two layers of\ncells which make up the body wall.\nbetween the bases or inner ends of the larger ones. The\ninner ends of the large cells are extended as narrow-pointed\nprolongations directed at right angles with the rest of the\ncell. These processes are very contractile and are called\nmuscle processes. Each one is simply a continuation of\nthe protoplasm of the cell body, which is especially con-\ntractile. Some of the smnllcr ectoderm cells are very\n\n[animal_life_zoology_strategy_b_p48_idx0_5316adee | animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf | page 48]\nTHE LIFE OF THE SLIGHTLY COMPLEX ANIMALS 27\ncolony, the two cells conjugate (Fig. 14)—that is, fuse to\nform a single cell. This new cell formed by the fusion of\ntwo, develops a tough enveloping membrane of cellulose\nand passes into what is called\nthe \" resting stage.\" That is,\nthe cell remains dormant for a\nshorter or longer time. Itmay\nthus tide over a drought or a\nwinter. It may become dry or\nbe frozen, yet when suitable\nconditions of moisture or tem-\nperature are again present the\nouter wall breaks and the pro-\ntoplasm issues as a large free-\nswimming cell, which soon di-\nvides into sixteen daughter\ncells which constitute a new\ncolony.\n16. Eudorina.—Another colo-\nnial protozoan which much re- g\nsembles Pandorina, but differs\nfrom it in one interesting and\nsuggestive thing, is Eudorina.\nIn Eudorina eJegans (Fig. 15)\nthe colony is spherical and is\ncomposed of sixteen or thirty- c\ntwo cells. Each of these cells\ncan become the parent of a new\ncolony by simple repeated divi- fig. i4\nsion. But this simple mode of\nreproduction, just as with Pan-\ndorina, can not persist indefi-\nnitely. There must be conjuga-\ntion. But the process of mul-\ntiplication, which includes conjugation, is different from\nthat process in Pandorina^ in that in Eudorina the conju-\nPandoi-ina morum (after\nGoEBEL). Three stages in the\nconjugation and formation of the\nresting spore. A, two cells just\nfused; B, the two cells completely\nfused, but with flagella still per-\nsisting ; C, the resting spore.",
+    "context_ids": [
+      "animal_life_zoology_strategy_b_p38_idx0_07ba5faf",
+      "animal_life_zoology_strategy_b_p59_idx0_b3cfc943",
+      "animal_life_zoology_strategy_b_p48_idx0_5316adee"
+    ],
+    "context_chars": 3455,
+    "elapsed_ms": 17912.124416790903,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q17",
+    "split": "test",
+    "question": "Where does the nucleus lie inside the capsule of radiolarians?",
+    "strategy": "dense",
+    "top_k": 3,
+    "budget_chars": 4000,
+    "gold": [
+      {
+        "source_id": "animal_life_zoology",
+        "page": 39,
+        "evidence": "the capsule lies the nucleus or nuclei ; and from the proto-"
+      }
+    ],
+    "results": [
+      {
+        "id": "animal_life_zoology_strategy_b_p38_idx0_07ba5faf",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 38,
+        "text": "THE LIFE OF THE SIMPLEST ANIMALS 17\nfine threads interlace when they touch each other, thus\nforming a sort of protoplasmic network outside of the shell.\nIn some cases there is a complete layer of protoplasm\n—\npart of the body protoplasm of the protozoan—surround-\nFiG. 10.—Polystomella strigiUata, one of the Globigerinae.—After Max Schultze.\ning the cell externally. The Radiolaria, whose shells are\nmade of silica, possess also a perforated membranous sac\ncalled the central capsule, which lies imbedded in the\nprotoplasm, dividing it into two portions, one within and\n3",
+        "metadata": {
+          "chapter": "CHAPTER I",
+          "char_count": 572,
+          "page_number": 38
+        },
+        "score": 0.4752341699268403,
+        "strategy": "dense",
+        "hit": false
+      },
+      {
+        "id": "animal_life_zoology_strategy_b_p40_idx0_1421c032",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 40,
+        "text": "THE LIFE OF THE SIMPLEST ANIMALS 19\ntraced far back in the geologic history of the world. It is\nan ancient type of animal structure.\nThe Radiolaria, too, which live abundantly in the pres-\nent oceans, especially in the marine waters of the tropical\nand temperate zones, are found as fossils in the rocks from\nthe time of the coal age on. The siliceous shells of the\nC^^?^^^^-^;^^-''\n^-^i^\nFig. 11.—Heliosphara actinota (after Haeckel) ; a radiolarian with symmetrical\nshell.\nRadiolaria sinking to the sea bottom and accumulating\nthere in great masses form a radiolaria-ooze similar to the\nglobigerinse-ooze ; and just as with the Globigerinae, the\nremains of the ancient Radiolaria formed thick layers on\nthe floor of the ancient oceans, which have since been up-\nlifted and now form certain rock strata. That kind of\nrock called Tripoli, found in Sicily, and the Barbados\nearth from the island of Barbados, both of which are used",
+        "metadata": {
+          "chapter": "CHAPTER I",
+          "char_count": 930,
+          "page_number": 40
+        },
+        "score": 0.4049456924477557,
+        "strategy": "dense",
+        "hit": false
+      },
+      {
+        "id": "animal_life_zoology_strategy_b_p39_idx0_3ecf3e36",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 39,
+        "text": "18 ANIMAL LIFE\none outside of the capsule. In the protoplasm inside of\nthe capsule lies the nucleus or nuclei ; and from the proto-\nplasm outside of the capsule rise the numerous fine, thread-\nlike pseudopods which project through the apertures in the\nshell, and enable the animal to swim and to get food.\nMost of the myriads of the simplest animals which\nswarm in the surface waters of the ocean belong to a few\nkinds of these shell-bearing Globigerinee and Eadiolaria.\nLarge areas of the bottom of the Atlantic Ocean are cov-\nered with a slimy gray mud, often of great thickness, which\nis called globigerina-ooze, because it is made up chiefly of\nthe microscopic shells of Globigerinae. As death comes to\nthe minute protoplasmic animals their hard shells sink\nslowly to the bottom, and accumulate in such vast quanti-\nties as to form a thick layer on the ocean floor. Xor is it\nonly in present times and in the oceans we know that the\nGlobigerinas have flourished. All over the world there are\nthick rock strata which are composed chiefly of the fos-\nsilized shells of these simplest animals. Where the strata\nare made up exclusively of these shells the rock is chalk.\nThus are composed the great chalk cliffs of Kent, which\ngave to England the early name of Albion, and the chalk\nbeds of France and Spain and Greece. The existence of\nthese chalk strata means that where now is land, in earlier\ngeologic times were oceans, and that in the oceans Globi-\ngerinas lived in countless numbers. Dying, their shells\naccumulated to form thick layers on the sea bottom. In\nlater geologic ages this sea bottom has been uplifted and\nis now land, far perhaps from any ocean. The chalk strata\nof the plains of the United States, like those in Kansas, are\nmore than a thousand miles from the sea, and yet they are\nmainly composed of the fossilized shells of marine Pro-\ntozoa. Indeed, we are acquainted with more than twice as\nmany fossil species of Globigerinas as species living at the\npresent time. The ancestors of these Globigerinas, from\nwhich the present Globigerinas differ but little, can be",
+        "metadata": {
+          "chapter": "CHAPTER I",
+          "char_count": 2088,
+          "page_number": 39
+        },
+        "score": 0.3767666950476254,
+        "strategy": "dense",
+        "hit": true
+      }
+    ],
+    "context": "[animal_life_zoology_strategy_b_p38_idx0_07ba5faf | animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf | page 38]\nTHE LIFE OF THE SIMPLEST ANIMALS 17\nfine threads interlace when they touch each other, thus\nforming a sort of protoplasmic network outside of the shell.\nIn some cases there is a complete layer of protoplasm\n—\npart of the body protoplasm of the protozoan—surround-\nFiG. 10.—Polystomella strigiUata, one of the Globigerinae.—After Max Schultze.\ning the cell externally. The Radiolaria, whose shells are\nmade of silica, possess also a perforated membranous sac\ncalled the central capsule, which lies imbedded in the\nprotoplasm, dividing it into two portions, one within and\n3\n\n[animal_life_zoology_strategy_b_p40_idx0_1421c032 | animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf | page 40]\nTHE LIFE OF THE SIMPLEST ANIMALS 19\ntraced far back in the geologic history of the world. It is\nan ancient type of animal structure.\nThe Radiolaria, too, which live abundantly in the pres-\nent oceans, especially in the marine waters of the tropical\nand temperate zones, are found as fossils in the rocks from\nthe time of the coal age on. The siliceous shells of the\nC^^?^^^^-^;^^-''\n^-^i^\nFig. 11.—Heliosphara actinota (after Haeckel) ; a radiolarian with symmetrical\nshell.\nRadiolaria sinking to the sea bottom and accumulating\nthere in great masses form a radiolaria-ooze similar to the\nglobigerinse-ooze ; and just as with the Globigerinae, the\nremains of the ancient Radiolaria formed thick layers on\nthe floor of the ancient oceans, which have since been up-\nlifted and now form certain rock strata. That kind of\nrock called Tripoli, found in Sicily, and the Barbados\nearth from the island of Barbados, both of which are used",
+    "context_ids": [
+      "animal_life_zoology_strategy_b_p38_idx0_07ba5faf",
+      "animal_life_zoology_strategy_b_p40_idx0_1421c032"
+    ],
+    "context_chars": 1802,
+    "elapsed_ms": 9951.10383303836,
+    "hit1": false,
+    "hit3": true,
+    "context_hit": false
+  },
+  {
+    "query_id": "q18",
+    "split": "test",
+    "question": "Can the fossil shells of Foraminifera be traced in geologic history?",
+    "strategy": "dense",
+    "top_k": 3,
+    "budget_chars": 4000,
+    "gold": [
+      {
+        "source_id": "animal_life_zoology",
+        "page": 40,
+        "evidence": "traced far back in the geologic history of the world"
+      }
+    ],
+    "results": [
+      {
+        "id": "animal_life_zoology_strategy_b_p40_idx0_1421c032",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 40,
+        "text": "THE LIFE OF THE SIMPLEST ANIMALS 19\ntraced far back in the geologic history of the world. It is\nan ancient type of animal structure.\nThe Radiolaria, too, which live abundantly in the pres-\nent oceans, especially in the marine waters of the tropical\nand temperate zones, are found as fossils in the rocks from\nthe time of the coal age on. The siliceous shells of the\nC^^?^^^^-^;^^-''\n^-^i^\nFig. 11.—Heliosphara actinota (after Haeckel) ; a radiolarian with symmetrical\nshell.\nRadiolaria sinking to the sea bottom and accumulating\nthere in great masses form a radiolaria-ooze similar to the\nglobigerinse-ooze ; and just as with the Globigerinae, the\nremains of the ancient Radiolaria formed thick layers on\nthe floor of the ancient oceans, which have since been up-\nlifted and now form certain rock strata. That kind of\nrock called Tripoli, found in Sicily, and the Barbados\nearth from the island of Barbados, both of which are used",
+        "metadata": {
+          "chapter": "CHAPTER I",
+          "char_count": 930,
+          "page_number": 40
+        },
+        "score": 0.559890085891318,
+        "strategy": "dense",
+        "hit": true
+      },
+      {
+        "id": "animal_life_zoology_strategy_b_p39_idx0_3ecf3e36",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 39,
+        "text": "18 ANIMAL LIFE\none outside of the capsule. In the protoplasm inside of\nthe capsule lies the nucleus or nuclei ; and from the proto-\nplasm outside of the capsule rise the numerous fine, thread-\nlike pseudopods which project through the apertures in the\nshell, and enable the animal to swim and to get food.\nMost of the myriads of the simplest animals which\nswarm in the surface waters of the ocean belong to a few\nkinds of these shell-bearing Globigerinee and Eadiolaria.\nLarge areas of the bottom of the Atlantic Ocean are cov-\nered with a slimy gray mud, often of great thickness, which\nis called globigerina-ooze, because it is made up chiefly of\nthe microscopic shells of Globigerinae. As death comes to\nthe minute protoplasmic animals their hard shells sink\nslowly to the bottom, and accumulate in such vast quanti-\nties as to form a thick layer on the ocean floor. Xor is it\nonly in present times and in the oceans we know that the\nGlobigerinas have flourished. All over the world there are\nthick rock strata which are composed chiefly of the fos-\nsilized shells of these simplest animals. Where the strata\nare made up exclusively of these shells the rock is chalk.\nThus are composed the great chalk cliffs of Kent, which\ngave to England the early name of Albion, and the chalk\nbeds of France and Spain and Greece. The existence of\nthese chalk strata means that where now is land, in earlier\ngeologic times were oceans, and that in the oceans Globi-\ngerinas lived in countless numbers. Dying, their shells\naccumulated to form thick layers on the sea bottom. In\nlater geologic ages this sea bottom has been uplifted and\nis now land, far perhaps from any ocean. The chalk strata\nof the plains of the United States, like those in Kansas, are\nmore than a thousand miles from the sea, and yet they are\nmainly composed of the fossilized shells of marine Pro-\ntozoa. Indeed, we are acquainted with more than twice as\nmany fossil species of Globigerinas as species living at the\npresent time. The ancestors of these Globigerinas, from\nwhich the present Globigerinas differ but little, can be",
+        "metadata": {
+          "chapter": "CHAPTER I",
+          "char_count": 2088,
+          "page_number": 39
+        },
+        "score": 0.48933175954697283,
+        "strategy": "dense",
+        "hit": false
+      },
+      {
+        "id": "animal_life_zoology_strategy_b_p41_idx0_9e19782b",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 41,
+        "text": "20 ANIMAL LIFE\nas polishing powder, are composed almost exclusively of\nthe siliceous shells of ancient and long-extinct Eadiolaria.\n10. Antiquity of the Protozoa,—All the animals of the\nocean depend upon the marine Protozoa (and the marine\nProtophyta, or one-celled plants) for food. Either they\nprey upon these one-celled organisms directly, or they prey\nupon animals which do prey on these simplest animals.\nThe great zoologist already quoted says : \" The food sup-\nply of marine animals consists of a few species of micro-\nscopic organisms which are inexhaustible and the only\nsource of food for all the inhabitants of the ocean. The\nsupply is primeval as well as inexhaustible, and all the life\nof the ocean has gradually taken shape in direct depend-\nence upon it.\" That is, the marine simplest animals are\nthe only marine animals which live independently ; they\nalone can live or could have lived in earlier ages without\ndepending on other animals. They must therefore be the\noldest of marine animals. By oldest we mean that their\nkind appeared earliest in the history of the world. As it\nis certain that marine life is older than terrestrial life—that\nis, that the first animals lived in the ocean—it is obvious\nthat the marine Protozoa are the most ancient of animals.\nThis is an important and interesting fact. Zoologists try\nto find out the relationships and the degrees of antiquity\nor modernness of the various kinds of animals. We have\nseen that the Protozoa, those animals which have the sim-\nplest body structure and perform the necessary life pro-\ncesses in the simplest way, are the oldest, the first animals.\nThis is just what we would expect.\n11. The primitive fonn.—We find among the simplest\nanimals a considerable variety of shape and some manifest\nvariation in habit. But the points of resemblance are far\nmore pronounced than the points of difference, and are of\nfundamental importance. The composition of the body of\none cell, as opposed to the many-celled structure of ih6\nbodies of all other animals, is the fact to be most distinctly",
+        "metadata": {
+          "chapter": "CHAPTER I",
+          "char_count": 2061,
+          "page_number": 41
+        },
+        "score": 0.3952145798458755,
+        "strategy": "dense",
+        "hit": false
+      }
+    ],
+    "context": "[animal_life_zoology_strategy_b_p40_idx0_1421c032 | animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf | page 40]\nTHE LIFE OF THE SIMPLEST ANIMALS 19\ntraced far back in the geologic history of the world. It is\nan ancient type of animal structure.\nThe Radiolaria, too, which live abundantly in the pres-\nent oceans, especially in the marine waters of the tropical\nand temperate zones, are found as fossils in the rocks from\nthe time of the coal age on. The siliceous shells of the\nC^^?^^^^-^;^^-''\n^-^i^\nFig. 11.—Heliosphara actinota (after Haeckel) ; a radiolarian with symmetrical\nshell.\nRadiolaria sinking to the sea bottom and accumulating\nthere in great masses form a radiolaria-ooze similar to the\nglobigerinse-ooze ; and just as with the Globigerinae, the\nremains of the ancient Radiolaria formed thick layers on\nthe floor of the ancient oceans, which have since been up-\nlifted and now form certain rock strata. That kind of\nrock called Tripoli, found in Sicily, and the Barbados\nearth from the island of Barbados, both of which are used\n\n[animal_life_zoology_strategy_b_p39_idx0_3ecf3e36 | animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf | page 39]\n18 ANIMAL LIFE\none outside of the capsule. In the protoplasm inside of\nthe capsule lies the nucleus or nuclei ; and from the proto-\nplasm outside of the capsule rise the numerous fine, thread-\nlike pseudopods which project through the apertures in the\nshell, and enable the animal to swim and to get food.\nMost of the myriads of the simplest animals which\nswarm in the surface waters of the ocean belong to a few\nkinds of these shell-bearing Globigerinee and Eadiolaria.\nLarge areas of the bottom of the Atlantic Ocean are cov-\nered with a slimy gray mud, often of great thickness, which\nis called globigerina-ooze, because it is made up chiefly of\nthe microscopic shells of Globigerinae. As death comes to\nthe minute protoplasmic animals their hard shells sink\nslowly to the bottom, and accumulate in such vast quanti-\nties as to form a thick layer on the ocean floor. Xor is it\nonly in present times and in the oceans we know that the\nGlobigerinas have flourished. All over the world there are\nthick rock strata which are composed chiefly of the fos-\nsilized shells of these simplest animals. Where the strata\nare made up exclusively of these shells the rock is chalk.\nThus are composed the great chalk cliffs of Kent, which\ngave to England the early name of Albion, and the chalk\nbeds of France and Spain and Greece. The existence of\nthese chalk strata means that where now is land, in earlier\ngeologic times were oceans, and that in the oceans Globi-\ngerinas lived in countless numbers. Dying, their shells\naccumulated to form thick layers on the sea bottom. In\nlater geologic ages this sea bottom has been uplifted and\nis now land, far perhaps from any ocean. The chalk strata\nof the plains of the United States, like those in Kansas, are\nmore than a thousand miles from the sea, and yet they are\nmainly composed of the fossilized shells of marine Pro-\ntozoa. Indeed, we are acquainted with more than twice as\nmany fossil species of Globigerinas as species living at the\npresent time. The ancestors of these Globigerinas, from\nwhich the present Globigerinas differ but little, can be",
+    "context_ids": [
+      "animal_life_zoology_strategy_b_p40_idx0_1421c032",
+      "animal_life_zoology_strategy_b_p39_idx0_3ecf3e36"
+    ],
+    "context_chars": 3318,
+    "elapsed_ms": 1584.264500066638,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  },
+  {
+    "query_id": "q19",
+    "split": "test",
+    "question": "What happens when one of the simplest animals forms a colony?",
+    "strategy": "dense",
+    "top_k": 3,
+    "budget_chars": 4000,
+    "gold": [
+      {
+        "source_id": "animal_life_zoology",
+        "page": 45,
+        "evidence": "13. Colonial Protozoa.—When one of the simplest animals"
+      }
+    ],
+    "results": [
+      {
+        "id": "animal_life_zoology_strategy_b_p51_idx0_c2af4c7f",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 51,
+        "text": "30 ANIMAL LIFE\ndivide into bundles of very small, slender cells, each of\nwhich is provided with flagella. The remaining cells of\nthe colony (that is, those which have not swollen into egg\ncells or divided into many—sixty-four to one hundred and\ntwenty-eight—minute, flagellate cells) remainunchanged for\na while and finally die. They take absolutely no part in\nreproducing the colony. One of the minute free-swim-\nming cells fuses with one of the enormous egg cells, the\nnew cell thus formed being a resting spore. From this\nresting spore a new colony develops by repeated division.\n18. Steps toward complexity.—Within the group of Vol-\nvocinm there are plainly several steps on the way from\nsimplicity of structure to complexity of structure. Gonium,\nPandorina, Eudorina, and Volvox form a series proceeding\nfrom the simplest animals toward the complex animals.\nIn Gonium the cells composing the colony are all alike in\nstructure, and each one is capable of performing all the\nprocesses or functions of life. In Pandorina and Eudorina\nthe cells are at first alike, but there is, as the time for\nreproduction approaches, a differentiation of structure\n;\nthe cells of the colony, all of which take part in the process\nof reproduction, come to be in certain generations of two\nkinds—an inactive large kind which may be called the egg\ncells, and a small, active, free-swimming kind which seeks\nout and conjugates with, or, we may say, fertilizes the egg\ncells. In Volvox there is a new differentiation. Only cer-\ntain particular and relatively few cells take part in repro-\nducing the colony; most of the cells have given up the\npower or function of reproduction. These cells, when the\ntime of multiplication comes, simply support the special\nreproductive cells. They continue to waft the great colony\nthrough the water by lashing their flagella ; they continue\nto take in food from the outside. The reproductive cells\ndevote themselves wholly to the business of producing new\ncolonies, of perpetuating the species. And this matter of\nreproduction is less simple than in the other Volvocince.",
+        "metadata": {
+          "chapter": "CHAPTER II",
+          "char_count": 2089,
+          "page_number": 51
+        },
+        "score": 0.6176993567085882,
+        "strategy": "dense",
+        "hit": false
+      },
+      {
+        "id": "animal_life_zoology_strategy_b_p46_idx0_bbf61e65",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 46,
+        "text": "THE LIFE OP THE SLIGHTLY COMPLEX ANIMALS 25\nthere is formed a group of a few or mnny cells, each cell\nhaving the structure of the simpler unicellular forms.\nThese cells are held together in a gelatinous envelope, and\nthe mass is usually spherical in shape. In most of the\ncolonies each of the cells possesses two or three long, pro-\ntoplasmic, whiplash-like hairs, called flagella, and by the\nlashing of these flagella in the water the whole group swims\nabout.\n14. Gonium.—If, when one of the simplest animals di-\nvided to form two daughter cells, these two cells did not\nmove apart, but remained\nside by side and each di-\nvided to form two more,\nand each of these divided\nto form two more, and\nthese eight divided each\ninto two, each cell com-\nplete and independent but\nall remaining together\nin a group— if this pro-\ncess should take place we\nshould have produced a\ngroup or colony of sixteen\ncells, each cell a complete\nanimal capable of living\nindependently like the\nother simplest animals,\nbut all holding together\nto form a tiny, flat, plate-\nlike colony. N^ow, this is\nprecisely what takes place\nin the case of those colonial Protozoa belonging to the genus\nGonium (Fig. 13). AVhen the mother cell of Gonium di-\nvides, the daughter cells do not swim apart, but remain\nside by side, and by repeated fission, until there are sixteen\ncells side by side, the colony is formed. Each cell of the\nFig. \\'i,.—Gonium pectmale (after SteinX A.\ncolony seen from above; B, colony seen\nfrom tlie side.",
+        "metadata": {
+          "chapter": "CHAPTER II",
+          "char_count": 1495,
+          "page_number": 46
+        },
+        "score": 0.6136852693162909,
+        "strategy": "dense",
+        "hit": false
+      },
+      {
+        "id": "animal_life_zoology_strategy_b_p52_idx0_924fffff",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 52,
+        "text": "THE LIFE OF THE SLIGHTLY COMPLEX ANIMALS 31\nAt least there is much more difference between the two\nkinds of reproductive cells. The egg cells are compara-\ntively enormous, and they are stored with a mass of food\nmaterial. The fertilizing cells are very small, but very\nactive and very different from the egg cells. We have in\nVolvox the beginnings of a distinct division of labor and\nan accompanying differentiation of structure. Certain\ncells of the colony do certain things, and are modified in\nstructure to fit them specially for their particular duties.\nThe steps from the simplest structure toward a complex\nstructure are plainly visible.\n19. Individual or colony.—Is the Gonium colony, the\nPandorina colony, or the Volvox colony a group of several or\nmany distinct organisms, or is it to be considered as a sin-\ngle organism ? With Gonium, which we may call the sim-\nplest of these colonial organisms, the colony is composed\nof a few wholly similar cells or one-celled animals, each\nfully capable of performing all the life processes, each\nwholly competent to lead an independent life. In fact,\neach does, for part of its life, live independently, as we\nhave already described. In the case of Pandorina and Eu-\ndorina, while all the cells are for most of the lifetime of the\ncolony alike and each is capable of living independently,\nat the time of reproduction the cells become of two kinds.\nA difference of structure is apparent, and for the perpetua-\ntion of the species the co-operation of these different kinds\nof cells is necessary. That is, it is impossible for a single\none of the members of the colony to reproduce the colony,\nexcept for a limited number of generations. With Volvox\nthis giving up ofindependence on the part of the individual\nmembers of the colony is more marked. There is a real in-\nterdependence among the thousands of cells of the colony.\nThe function of reproduction rests with a few particular\ncells,and for the perpetuation of the species there is demand-\ned a co-operation of two distinct kinds of reproductive cells.\nThe great majority of the cells take no part in reproduc-",
+        "metadata": {
+          "chapter": "CHAPTER II",
+          "char_count": 2113,
+          "page_number": 52
+        },
+        "score": 0.612402323992402,
+        "strategy": "dense",
+        "hit": false
+      }
+    ],
+    "context": "[animal_life_zoology_strategy_b_p51_idx0_c2af4c7f | animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf | page 51]\n30 ANIMAL LIFE\ndivide into bundles of very small, slender cells, each of\nwhich is provided with flagella. The remaining cells of\nthe colony (that is, those which have not swollen into egg\ncells or divided into many—sixty-four to one hundred and\ntwenty-eight—minute, flagellate cells) remainunchanged for\na while and finally die. They take absolutely no part in\nreproducing the colony. One of the minute free-swim-\nming cells fuses with one of the enormous egg cells, the\nnew cell thus formed being a resting spore. From this\nresting spore a new colony develops by repeated division.\n18. Steps toward complexity.—Within the group of Vol-\nvocinm there are plainly several steps on the way from\nsimplicity of structure to complexity of structure. Gonium,\nPandorina, Eudorina, and Volvox form a series proceeding\nfrom the simplest animals toward the complex animals.\nIn Gonium the cells composing the colony are all alike in\nstructure, and each one is capable of performing all the\nprocesses or functions of life. In Pandorina and Eudorina\nthe cells are at first alike, but there is, as the time for\nreproduction approaches, a differentiation of structure\n;\nthe cells of the colony, all of which take part in the process\nof reproduction, come to be in certain generations of two\nkinds—an inactive large kind which may be called the egg\ncells, and a small, active, free-swimming kind which seeks\nout and conjugates with, or, we may say, fertilizes the egg\ncells. In Volvox there is a new differentiation. Only cer-\ntain particular and relatively few cells take part in repro-\nducing the colony; most of the cells have given up the\npower or function of reproduction. These cells, when the\ntime of multiplication comes, simply support the special\nreproductive cells. They continue to waft the great colony\nthrough the water by lashing their flagella ; they continue\nto take in food from the outside. The reproductive cells\ndevote themselves wholly to the business of producing new\ncolonies, of perpetuating the species. And this matter of\nreproduction is less simple than in the other Volvocince.\n\n[animal_life_zoology_strategy_b_p46_idx0_bbf61e65 | animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf | page 46]\nTHE LIFE OP THE SLIGHTLY COMPLEX ANIMALS 25\nthere is formed a group of a few or mnny cells, each cell\nhaving the structure of the simpler unicellular forms.\nThese cells are held together in a gelatinous envelope, and\nthe mass is usually spherical in shape. In most of the\ncolonies each of the cells possesses two or three long, pro-\ntoplasmic, whiplash-like hairs, called flagella, and by the\nlashing of these flagella in the water the whole group swims\nabout.\n14. Gonium.—If, when one of the simplest animals di-\nvided to form two daughter cells, these two cells did not\nmove apart, but remained\nside by side and each di-\nvided to form two more,\nand each of these divided\nto form two more, and\nthese eight divided each\ninto two, each cell com-\nplete and independent but\nall remaining together\nin a group— if this pro-\ncess should take place we\nshould have produced a\ngroup or colony of sixteen\ncells, each cell a complete\nanimal capable of living\nindependently like the\nother simplest animals,\nbut all holding together\nto form a tiny, flat, plate-\nlike colony. N^ow, this is\nprecisely what takes place\nin the case of those colonial Protozoa belonging to the genus\nGonium (Fig. 13). AVhen the mother cell of Gonium di-\nvides, the daughter cells do not swim apart, but remain\nside by side, and by repeated fission, until there are sixteen\ncells side by side, the colony is formed. Each cell of the\nFig. \\'i,.—Gonium pectmale (after SteinX A.\ncolony seen from above; B, colony seen\nfrom tlie side.",
+    "context_ids": [
+      "animal_life_zoology_strategy_b_p51_idx0_c2af4c7f",
+      "animal_life_zoology_strategy_b_p46_idx0_bbf61e65"
+    ],
+    "context_chars": 3884,
+    "elapsed_ms": 4282.514832913876,
+    "hit1": false,
+    "hit3": false,
+    "context_hit": false
+  },
+  {
+    "query_id": "q20",
+    "split": "test",
+    "question": "What occurs when two cells conjugate in colonial protozoa?",
+    "strategy": "dense",
+    "top_k": 3,
+    "budget_chars": 4000,
+    "gold": [
+      {
+        "source_id": "animal_life_zoology",
+        "page": 48,
+        "evidence": "colony, the two cells conjugate (Fig. 14)—that is, fuse to"
+      }
+    ],
+    "results": [
+      {
+        "id": "animal_life_zoology_strategy_b_p48_idx0_5316adee",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 48,
+        "text": "THE LIFE OF THE SLIGHTLY COMPLEX ANIMALS 27\ncolony, the two cells conjugate (Fig. 14)—that is, fuse to\nform a single cell. This new cell formed by the fusion of\ntwo, develops a tough enveloping membrane of cellulose\nand passes into what is called\nthe \" resting stage.\" That is,\nthe cell remains dormant for a\nshorter or longer time. Itmay\nthus tide over a drought or a\nwinter. It may become dry or\nbe frozen, yet when suitable\nconditions of moisture or tem-\nperature are again present the\nouter wall breaks and the pro-\ntoplasm issues as a large free-\nswimming cell, which soon di-\nvides into sixteen daughter\ncells which constitute a new\ncolony.\n16. Eudorina.—Another colo-\nnial protozoan which much re- g\nsembles Pandorina, but differs\nfrom it in one interesting and\nsuggestive thing, is Eudorina.\nIn Eudorina eJegans (Fig. 15)\nthe colony is spherical and is\ncomposed of sixteen or thirty- c\ntwo cells. Each of these cells\ncan become the parent of a new\ncolony by simple repeated divi- fig. i4\nsion. But this simple mode of\nreproduction, just as with Pan-\ndorina, can not persist indefi-\nnitely. There must be conjuga-\ntion. But the process of mul-\ntiplication, which includes conjugation, is different from\nthat process in Pandorina^ in that in Eudorina the conju-\nPandoi-ina morum (after\nGoEBEL). Three stages in the\nconjugation and formation of the\nresting spore. A, two cells just\nfused; B, the two cells completely\nfused, but with flagella still per-\nsisting ; C, the resting spore.",
+        "metadata": {
+          "chapter": "CHAPTER II",
+          "char_count": 1489,
+          "page_number": 48
+        },
+        "score": 0.630050081607654,
+        "strategy": "dense",
+        "hit": true
+      },
+      {
+        "id": "animal_life_zoology_strategy_b_p49_idx0_50eda738",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 49,
+        "text": "28 ANIMAL LIFE\ngating cells are of two distinctly different kinds. When\nthis kind of multiplication is to take place in the case of\nEudorina elegans, to choose a common species, some of\nthe cells of a colony divide into sixteen or thirty-two\nminute elongated cells, each\nprovided with two flagella.\nThese small cells escape\nVia. \\t>.—Eudorina degans. A, a mature colony (from Nature); B, formation of\nthe two kinds of reproductive cells.\nfrom the envelope of the parent cell, remaining for some\ntime united in small bundles. Other cells of the colony\ndo not divide, but increase slightly in size and become\nspherical in shape. When a bundle of the small cells\ncomes into contact with some of these large spherical\ncells the bundle breaks up, and conjugation takes place\nbetween the small flagellated free-swimming cells and the\nlarge non-flagellate spherical cells. Each new cell formed\nby the fusion of one of the small and one of the large cells\ndevelops a cellulose wall and assumes a resting stage.\nAfter a time from each of these resting spores a new colony\nof sixteen or thirty-two cells is formed by direct, repeated\ndivision.\n17. Volvox.—Another interesting colonial protozoan is\nVolvox. The large spherical colonies of Volvox glohator",
+        "metadata": {
+          "chapter": "CHAPTER II",
+          "char_count": 1243,
+          "page_number": 49
+        },
+        "score": 0.6015945307728685,
+        "strategy": "dense",
+        "hit": false
+      },
+      {
+        "id": "animal_life_zoology_strategy_b_p46_idx0_bbf61e65",
+        "source_id": "animal_life_zoology",
+        "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+        "page": 46,
+        "text": "THE LIFE OP THE SLIGHTLY COMPLEX ANIMALS 25\nthere is formed a group of a few or mnny cells, each cell\nhaving the structure of the simpler unicellular forms.\nThese cells are held together in a gelatinous envelope, and\nthe mass is usually spherical in shape. In most of the\ncolonies each of the cells possesses two or three long, pro-\ntoplasmic, whiplash-like hairs, called flagella, and by the\nlashing of these flagella in the water the whole group swims\nabout.\n14. Gonium.—If, when one of the simplest animals di-\nvided to form two daughter cells, these two cells did not\nmove apart, but remained\nside by side and each di-\nvided to form two more,\nand each of these divided\nto form two more, and\nthese eight divided each\ninto two, each cell com-\nplete and independent but\nall remaining together\nin a group— if this pro-\ncess should take place we\nshould have produced a\ngroup or colony of sixteen\ncells, each cell a complete\nanimal capable of living\nindependently like the\nother simplest animals,\nbut all holding together\nto form a tiny, flat, plate-\nlike colony. N^ow, this is\nprecisely what takes place\nin the case of those colonial Protozoa belonging to the genus\nGonium (Fig. 13). AVhen the mother cell of Gonium di-\nvides, the daughter cells do not swim apart, but remain\nside by side, and by repeated fission, until there are sixteen\ncells side by side, the colony is formed. Each cell of the\nFig. \\'i,.—Gonium pectmale (after SteinX A.\ncolony seen from above; B, colony seen\nfrom tlie side.",
+        "metadata": {
+          "chapter": "CHAPTER II",
+          "char_count": 1495,
+          "page_number": 46
+        },
+        "score": 0.543877015595289,
+        "strategy": "dense",
+        "hit": false
+      }
+    ],
+    "context": "[animal_life_zoology_strategy_b_p48_idx0_5316adee | animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf | page 48]\nTHE LIFE OF THE SLIGHTLY COMPLEX ANIMALS 27\ncolony, the two cells conjugate (Fig. 14)—that is, fuse to\nform a single cell. This new cell formed by the fusion of\ntwo, develops a tough enveloping membrane of cellulose\nand passes into what is called\nthe \" resting stage.\" That is,\nthe cell remains dormant for a\nshorter or longer time. Itmay\nthus tide over a drought or a\nwinter. It may become dry or\nbe frozen, yet when suitable\nconditions of moisture or tem-\nperature are again present the\nouter wall breaks and the pro-\ntoplasm issues as a large free-\nswimming cell, which soon di-\nvides into sixteen daughter\ncells which constitute a new\ncolony.\n16. Eudorina.—Another colo-\nnial protozoan which much re- g\nsembles Pandorina, but differs\nfrom it in one interesting and\nsuggestive thing, is Eudorina.\nIn Eudorina eJegans (Fig. 15)\nthe colony is spherical and is\ncomposed of sixteen or thirty- c\ntwo cells. Each of these cells\ncan become the parent of a new\ncolony by simple repeated divi- fig. i4\nsion. But this simple mode of\nreproduction, just as with Pan-\ndorina, can not persist indefi-\nnitely. There must be conjuga-\ntion. But the process of mul-\ntiplication, which includes conjugation, is different from\nthat process in Pandorina^ in that in Eudorina the conju-\nPandoi-ina morum (after\nGoEBEL). Three stages in the\nconjugation and formation of the\nresting spore. A, two cells just\nfused; B, the two cells completely\nfused, but with flagella still per-\nsisting ; C, the resting spore.\n\n[animal_life_zoology_strategy_b_p49_idx0_50eda738 | animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf | page 49]\n28 ANIMAL LIFE\ngating cells are of two distinctly different kinds. When\nthis kind of multiplication is to take place in the case of\nEudorina elegans, to choose a common species, some of\nthe cells of a colony divide into sixteen or thirty-two\nminute elongated cells, each\nprovided with two flagella.\nThese small cells escape\nVia. \\t>.—Eudorina degans. A, a mature colony (from Nature); B, formation of\nthe two kinds of reproductive cells.\nfrom the envelope of the parent cell, remaining for some\ntime united in small bundles. Other cells of the colony\ndo not divide, but increase slightly in size and become\nspherical in shape. When a bundle of the small cells\ncomes into contact with some of these large spherical\ncells the bundle breaks up, and conjugation takes place\nbetween the small flagellated free-swimming cells and the\nlarge non-flagellate spherical cells. Each new cell formed\nby the fusion of one of the small and one of the large cells\ndevelops a cellulose wall and assumes a resting stage.\nAfter a time from each of these resting spores a new colony\nof sixteen or thirty-two cells is formed by direct, repeated\ndivision.\n17. Volvox.—Another interesting colonial protozoan is\nVolvox. The large spherical colonies of Volvox glohator",
+    "context_ids": [
+      "animal_life_zoology_strategy_b_p48_idx0_5316adee",
+      "animal_life_zoology_strategy_b_p49_idx0_50eda738"
+    ],
+    "context_chars": 3032,
+    "elapsed_ms": 4224.442292004824,
+    "hit1": true,
+    "hit3": true,
+    "context_hit": true
+  }
+]

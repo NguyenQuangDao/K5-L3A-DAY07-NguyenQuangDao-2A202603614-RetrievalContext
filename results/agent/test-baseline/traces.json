@@ -1,0 +1,481 @@
+[
+  {
+    "query_id": "q16",
+    "status": "answered",
+    "answer": "Pseudopodia of certain rhizopods touch and interlace by forming fine threads that interlace when they come into contact, creating a sort of protoplasmic network outside of the shell [animal_life_zoology_strategy_b_p38_idx0_07ba5faf].",
+    "citations": [
+      "animal_life_zoology_strategy_b_p38_idx0_07ba5faf"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "pseudopodia rhizopods touch interlace",
+        "filter": null,
+        "results": [
+          {
+            "id": "animal_life_zoology_strategy_b_p38_idx0_07ba5faf",
+            "source_id": "animal_life_zoology",
+            "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+            "page": 38,
+            "text": "THE LIFE OF THE SIMPLEST ANIMALS 17\nfine threads interlace when they touch each other, thus\nforming a sort of protoplasmic network outside of the shell.\nIn some cases there is a complete layer of protoplasm\n—\npart of the body protoplasm of the protozoan—surround-\nFiG. 10.—Polystomella strigiUata, one of the Globigerinae.—After Max Schultze.\ning the cell externally. The Radiolaria, whose shells are\nmade of silica, possess also a perforated membranous sac\ncalled the central capsule, which lies imbedded in the\nprotoplasm, dividing it into two portions, one within and\n3",
+            "metadata": {
+              "chapter": "CHAPTER I",
+              "char_count": 572,
+              "page_number": 38
+            },
+            "score": 0.46199507139020657,
+            "strategy": "dense"
+          },
+          {
+            "id": "animal_life_zoology_strategy_b_p59_idx0_b3cfc943",
+            "source_id": "animal_life_zoology",
+            "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+            "page": 59,
+            "text": "38 ANIMAL LIFE\ntentacles. The wall of the cylinder is composed of an\nouter and an inner layer of cells and a thin non-cellular\nmembranous layer between them. The tentacles are hol-\nlow and are simple extensions of the body wall. The cells\nof the outer layer, or ectoderm, are not all alike. Some\nare smaller than the others and appear to be crowded in\nFig. 19.—The fresh-water polyp, Hydra ridgaris. A, in expanded condition, and\nin contracted condition; B. cross section of body, showing the two layers of\ncells which make up the body wall.\nbetween the bases or inner ends of the larger ones. The\ninner ends of the large cells are extended as narrow-pointed\nprolongations directed at right angles with the rest of the\ncell. These processes are very contractile and are called\nmuscle processes. Each one is simply a continuation of\nthe protoplasm of the cell body, which is especially con-\ntractile. Some of the smnllcr ectoderm cells are very",
+            "metadata": {
+              "chapter": "CHAPTER II",
+              "char_count": 943,
+              "page_number": 59
+            },
+            "score": 0.39245063758040644,
+            "strategy": "dense"
+          },
+          {
+            "id": "animal_life_zoology_strategy_b_p31_idx0_f773da95",
+            "source_id": "animal_life_zoology",
+            "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+            "page": 31,
+            "text": "10 ANIMAL LIFE\nwhich are fine processes of the dense protoplasm of the\nsurface. There is on one side an oblique shallow groove\nthat leads to a small, funnel-shaped depression in the body\nwhich serves as a primitive sort ofmouth\nor opening for the ingress of food.\nThe Paramcecium swims about in the\nwater by vibrating the cilia which cov-\ner the body, and brings food to the\nmouth opening by producing tiny cur-\nrents in the water by means of the\ncilia in the oblique groove. The food,\nwhich consists of other living Proto-\nzoa, is taken into the body mass only\nthrough the funnel-shaped opening, and\nthat part of it which is undigested is\nthrust out always through a particular\npart of the body surface. (The taking\nin and ejecting of foreign particles can\nbe seen by putting a little powdered\ncarmine in the water.) Within the\nbody there are two nuclei and two so-\ncalled pulsating vacuoles. These pul-\nsating vacuoles {Amoeba has one) seem\nto aid in discharging waste products\nfrom the body. When the ParamcB-\ncium touches some foreign substance or\nis otherwise irritated it swims away,\nand it shoots out from the surface of its body some fine\nlong threads which when at rest are probably coiled up in\nlittle sacs on the surface of the body. When the Para-\nmcecium has taken in enough food and grown so that it\nhas reached the limit of its size, it divides transversely into\nhalves as the Amoeba does. Both nuclei divide first, and\nthen the cytoplasm constricts and divides (Fig. 6). Thus\ntwo new Paramoecia are formed. One of them has to de-\nvelop a new mouth opening and groove, so that there is in\nFig. 5.\n—\nParamcecium au-\nrelia (after Verworn).\nAt each end there is a\ncontractile vacuole, and\nin the center is one of\nthe nuclei.",
+            "metadata": {
+              "chapter": "CHAPTER I",
+              "char_count": 1736,
+              "page_number": 31
+            },
+            "score": 0.3825325579521892,
+            "strategy": "dense"
+          }
+        ],
+        "context": "[animal_life_zoology_strategy_b_p38_idx0_07ba5faf | animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf | page 38]\nTHE LIFE OF THE SIMPLEST ANIMALS 17\nfine threads interlace when they touch each other, thus\nforming a sort of protoplasmic network outside of the shell.\nIn some cases there is a complete layer of protoplasm\n—\npart of the body protoplasm of the protozoan—surround-\nFiG. 10.—Polystomella strigiUata, one of the Globigerinae.—After Max Schultze.\ning the cell externally. The Radiolaria, whose shells are\nmade of silica, possess also a perforated membranous sac\ncalled the central capsule, which lies imbedded in the\nprotoplasm, dividing it into two portions, one within and\n3",
+        "context_ids": [
+          "animal_life_zoology_strategy_b_p38_idx0_07ba5faf"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "prompt_tokens": 718,
+    "completion_tokens": 116,
+    "embed_tokens": 11,
+    "cost_usd": 0.00017752,
+    "elapsed_ms": 49183.902208227664
+  },
+  {
+    "query_id": "q17",
+    "status": "answered",
+    "answer": "The nucleus lies inside the central capsule of radiolarians, which is imbedded in the protoplasm, dividing it into two portions, one within and one outside the capsule [animal_life_zoology_strategy_b_p38_idx0_07ba5faf].",
+    "citations": [
+      "animal_life_zoology_strategy_b_p38_idx0_07ba5faf"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "nucleus location inside capsule of radiolarians",
+        "filter": null,
+        "results": [
+          {
+            "id": "animal_life_zoology_strategy_b_p38_idx0_07ba5faf",
+            "source_id": "animal_life_zoology",
+            "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+            "page": 38,
+            "text": "THE LIFE OF THE SIMPLEST ANIMALS 17\nfine threads interlace when they touch each other, thus\nforming a sort of protoplasmic network outside of the shell.\nIn some cases there is a complete layer of protoplasm\n—\npart of the body protoplasm of the protozoan—surround-\nFiG. 10.—Polystomella strigiUata, one of the Globigerinae.—After Max Schultze.\ning the cell externally. The Radiolaria, whose shells are\nmade of silica, possess also a perforated membranous sac\ncalled the central capsule, which lies imbedded in the\nprotoplasm, dividing it into two portions, one within and\n3",
+            "metadata": {
+              "chapter": "CHAPTER I",
+              "char_count": 572,
+              "page_number": 38
+            },
+            "score": 0.5097345329531467,
+            "strategy": "dense"
+          },
+          {
+            "id": "animal_life_zoology_strategy_b_p40_idx0_1421c032",
+            "source_id": "animal_life_zoology",
+            "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+            "page": 40,
+            "text": "THE LIFE OF THE SIMPLEST ANIMALS 19\ntraced far back in the geologic history of the world. It is\nan ancient type of animal structure.\nThe Radiolaria, too, which live abundantly in the pres-\nent oceans, especially in the marine waters of the tropical\nand temperate zones, are found as fossils in the rocks from\nthe time of the coal age on. The siliceous shells of the\nC^^?^^^^-^;^^-''\n^-^i^\nFig. 11.—Heliosphara actinota (after Haeckel) ; a radiolarian with symmetrical\nshell.\nRadiolaria sinking to the sea bottom and accumulating\nthere in great masses form a radiolaria-ooze similar to the\nglobigerinse-ooze ; and just as with the Globigerinae, the\nremains of the ancient Radiolaria formed thick layers on\nthe floor of the ancient oceans, which have since been up-\nlifted and now form certain rock strata. That kind of\nrock called Tripoli, found in Sicily, and the Barbados\nearth from the island of Barbados, both of which are used",
+            "metadata": {
+              "chapter": "CHAPTER I",
+              "char_count": 930,
+              "page_number": 40
+            },
+            "score": 0.43446607736065046,
+            "strategy": "dense"
+          },
+          {
+            "id": "animal_life_zoology_strategy_b_p39_idx0_3ecf3e36",
+            "source_id": "animal_life_zoology",
+            "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+            "page": 39,
+            "text": "18 ANIMAL LIFE\none outside of the capsule. In the protoplasm inside of\nthe capsule lies the nucleus or nuclei ; and from the proto-\nplasm outside of the capsule rise the numerous fine, thread-\nlike pseudopods which project through the apertures in the\nshell, and enable the animal to swim and to get food.\nMost of the myriads of the simplest animals which\nswarm in the surface waters of the ocean belong to a few\nkinds of these shell-bearing Globigerinee and Eadiolaria.\nLarge areas of the bottom of the Atlantic Ocean are cov-\nered with a slimy gray mud, often of great thickness, which\nis called globigerina-ooze, because it is made up chiefly of\nthe microscopic shells of Globigerinae. As death comes to\nthe minute protoplasmic animals their hard shells sink\nslowly to the bottom, and accumulate in such vast quanti-\nties as to form a thick layer on the ocean floor. Xor is it\nonly in present times and in the oceans we know that the\nGlobigerinas have flourished. All over the world there are\nthick rock strata which are composed chiefly of the fos-\nsilized shells of these simplest animals. Where the strata\nare made up exclusively of these shells the rock is chalk.\nThus are composed the great chalk cliffs of Kent, which\ngave to England the early name of Albion, and the chalk\nbeds of France and Spain and Greece. The existence of\nthese chalk strata means that where now is land, in earlier\ngeologic times were oceans, and that in the oceans Globi-\ngerinas lived in countless numbers. Dying, their shells\naccumulated to form thick layers on the sea bottom. In\nlater geologic ages this sea bottom has been uplifted and\nis now land, far perhaps from any ocean. The chalk strata\nof the plains of the United States, like those in Kansas, are\nmore than a thousand miles from the sea, and yet they are\nmainly composed of the fossilized shells of marine Pro-\ntozoa. Indeed, we are acquainted with more than twice as\nmany fossil species of Globigerinas as species living at the\npresent time. The ancestors of these Globigerinas, from\nwhich the present Globigerinas differ but little, can be",
+            "metadata": {
+              "chapter": "CHAPTER I",
+              "char_count": 2088,
+              "page_number": 39
+            },
+            "score": 0.39963176050760874,
+            "strategy": "dense"
+          }
+        ],
+        "context": "[animal_life_zoology_strategy_b_p38_idx0_07ba5faf | animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf | page 38]\nTHE LIFE OF THE SIMPLEST ANIMALS 17\nfine threads interlace when they touch each other, thus\nforming a sort of protoplasmic network outside of the shell.\nIn some cases there is a complete layer of protoplasm\n—\npart of the body protoplasm of the protozoan—surround-\nFiG. 10.—Polystomella strigiUata, one of the Globigerinae.—After Max Schultze.\ning the cell externally. The Radiolaria, whose shells are\nmade of silica, possess also a perforated membranous sac\ncalled the central capsule, which lies imbedded in the\nprotoplasm, dividing it into two portions, one within and\n3",
+        "context_ids": [
+          "animal_life_zoology_strategy_b_p38_idx0_07ba5faf"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "prompt_tokens": 710,
+    "completion_tokens": 110,
+    "embed_tokens": 10,
+    "cost_usd": 0.0001727,
+    "elapsed_ms": 3544.3808338604867
+  },
+  {
+    "query_id": "q18",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "Foraminifera fossil shells geologic history",
+        "filter": null,
+        "results": [
+          {
+            "id": "animal_life_zoology_strategy_b_p40_idx0_1421c032",
+            "source_id": "animal_life_zoology",
+            "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+            "page": 40,
+            "text": "THE LIFE OF THE SIMPLEST ANIMALS 19\ntraced far back in the geologic history of the world. It is\nan ancient type of animal structure.\nThe Radiolaria, too, which live abundantly in the pres-\nent oceans, especially in the marine waters of the tropical\nand temperate zones, are found as fossils in the rocks from\nthe time of the coal age on. The siliceous shells of the\nC^^?^^^^-^;^^-''\n^-^i^\nFig. 11.—Heliosphara actinota (after Haeckel) ; a radiolarian with symmetrical\nshell.\nRadiolaria sinking to the sea bottom and accumulating\nthere in great masses form a radiolaria-ooze similar to the\nglobigerinse-ooze ; and just as with the Globigerinae, the\nremains of the ancient Radiolaria formed thick layers on\nthe floor of the ancient oceans, which have since been up-\nlifted and now form certain rock strata. That kind of\nrock called Tripoli, found in Sicily, and the Barbados\nearth from the island of Barbados, both of which are used",
+            "metadata": {
+              "chapter": "CHAPTER I",
+              "char_count": 930,
+              "page_number": 40
+            },
+            "score": 0.5617815526505424,
+            "strategy": "dense"
+          },
+          {
+            "id": "animal_life_zoology_strategy_b_p39_idx0_3ecf3e36",
+            "source_id": "animal_life_zoology",
+            "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+            "page": 39,
+            "text": "18 ANIMAL LIFE\none outside of the capsule. In the protoplasm inside of\nthe capsule lies the nucleus or nuclei ; and from the proto-\nplasm outside of the capsule rise the numerous fine, thread-\nlike pseudopods which project through the apertures in the\nshell, and enable the animal to swim and to get food.\nMost of the myriads of the simplest animals which\nswarm in the surface waters of the ocean belong to a few\nkinds of these shell-bearing Globigerinee and Eadiolaria.\nLarge areas of the bottom of the Atlantic Ocean are cov-\nered with a slimy gray mud, often of great thickness, which\nis called globigerina-ooze, because it is made up chiefly of\nthe microscopic shells of Globigerinae. As death comes to\nthe minute protoplasmic animals their hard shells sink\nslowly to the bottom, and accumulate in such vast quanti-\nties as to form a thick layer on the ocean floor. Xor is it\nonly in present times and in the oceans we know that the\nGlobigerinas have flourished. All over the world there are\nthick rock strata which are composed chiefly of the fos-\nsilized shells of these simplest animals. Where the strata\nare made up exclusively of these shells the rock is chalk.\nThus are composed the great chalk cliffs of Kent, which\ngave to England the early name of Albion, and the chalk\nbeds of France and Spain and Greece. The existence of\nthese chalk strata means that where now is land, in earlier\ngeologic times were oceans, and that in the oceans Globi-\ngerinas lived in countless numbers. Dying, their shells\naccumulated to form thick layers on the sea bottom. In\nlater geologic ages this sea bottom has been uplifted and\nis now land, far perhaps from any ocean. The chalk strata\nof the plains of the United States, like those in Kansas, are\nmore than a thousand miles from the sea, and yet they are\nmainly composed of the fossilized shells of marine Pro-\ntozoa. Indeed, we are acquainted with more than twice as\nmany fossil species of Globigerinas as species living at the\npresent time. The ancestors of these Globigerinas, from\nwhich the present Globigerinas differ but little, can be",
+            "metadata": {
+              "chapter": "CHAPTER I",
+              "char_count": 2088,
+              "page_number": 39
+            },
+            "score": 0.5104775663243617,
+            "strategy": "dense"
+          },
+          {
+            "id": "animal_life_zoology_strategy_b_p41_idx0_9e19782b",
+            "source_id": "animal_life_zoology",
+            "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+            "page": 41,
+            "text": "20 ANIMAL LIFE\nas polishing powder, are composed almost exclusively of\nthe siliceous shells of ancient and long-extinct Eadiolaria.\n10. Antiquity of the Protozoa,—All the animals of the\nocean depend upon the marine Protozoa (and the marine\nProtophyta, or one-celled plants) for food. Either they\nprey upon these one-celled organisms directly, or they prey\nupon animals which do prey on these simplest animals.\nThe great zoologist already quoted says : \" The food sup-\nply of marine animals consists of a few species of micro-\nscopic organisms which are inexhaustible and the only\nsource of food for all the inhabitants of the ocean. The\nsupply is primeval as well as inexhaustible, and all the life\nof the ocean has gradually taken shape in direct depend-\nence upon it.\" That is, the marine simplest animals are\nthe only marine animals which live independently ; they\nalone can live or could have lived in earlier ages without\ndepending on other animals. They must therefore be the\noldest of marine animals. By oldest we mean that their\nkind appeared earliest in the history of the world. As it\nis certain that marine life is older than terrestrial life—that\nis, that the first animals lived in the ocean—it is obvious\nthat the marine Protozoa are the most ancient of animals.\nThis is an important and interesting fact. Zoologists try\nto find out the relationships and the degrees of antiquity\nor modernness of the various kinds of animals. We have\nseen that the Protozoa, those animals which have the sim-\nplest body structure and perform the necessary life pro-\ncesses in the simplest way, are the oldest, the first animals.\nThis is just what we would expect.\n11. The primitive fonn.—We find among the simplest\nanimals a considerable variety of shape and some manifest\nvariation in habit. But the points of resemblance are far\nmore pronounced than the points of difference, and are of\nfundamental importance. The composition of the body of\none cell, as opposed to the many-celled structure of ih6\nbodies of all other animals, is the fact to be most distinctly",
+            "metadata": {
+              "chapter": "CHAPTER I",
+              "char_count": 2061,
+              "page_number": 41
+            },
+            "score": 0.39225221034644353,
+            "strategy": "dense"
+          }
+        ],
+        "context": "",
+        "context_ids": []
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "prompt_tokens": 510,
+    "completion_tokens": 41,
+    "embed_tokens": 9,
+    "cost_usd": 0.00010128,
+    "elapsed_ms": 2802.070041652769
+  },
+  {
+    "query_id": "q19",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "simplest animals form a colony",
+        "filter": null,
+        "results": [
+          {
+            "id": "animal_life_zoology_strategy_b_p46_idx0_bbf61e65",
+            "source_id": "animal_life_zoology",
+            "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+            "page": 46,
+            "text": "THE LIFE OP THE SLIGHTLY COMPLEX ANIMALS 25\nthere is formed a group of a few or mnny cells, each cell\nhaving the structure of the simpler unicellular forms.\nThese cells are held together in a gelatinous envelope, and\nthe mass is usually spherical in shape. In most of the\ncolonies each of the cells possesses two or three long, pro-\ntoplasmic, whiplash-like hairs, called flagella, and by the\nlashing of these flagella in the water the whole group swims\nabout.\n14. Gonium.—If, when one of the simplest animals di-\nvided to form two daughter cells, these two cells did not\nmove apart, but remained\nside by side and each di-\nvided to form two more,\nand each of these divided\nto form two more, and\nthese eight divided each\ninto two, each cell com-\nplete and independent but\nall remaining together\nin a group— if this pro-\ncess should take place we\nshould have produced a\ngroup or colony of sixteen\ncells, each cell a complete\nanimal capable of living\nindependently like the\nother simplest animals,\nbut all holding together\nto form a tiny, flat, plate-\nlike colony. N^ow, this is\nprecisely what takes place\nin the case of those colonial Protozoa belonging to the genus\nGonium (Fig. 13). AVhen the mother cell of Gonium di-\nvides, the daughter cells do not swim apart, but remain\nside by side, and by repeated fission, until there are sixteen\ncells side by side, the colony is formed. Each cell of the\nFig. \\'i,.—Gonium pectmale (after SteinX A.\ncolony seen from above; B, colony seen\nfrom tlie side.",
+            "metadata": {
+              "chapter": "CHAPTER II",
+              "char_count": 1495,
+              "page_number": 46
+            },
+            "score": 0.5947533252021062,
+            "strategy": "dense"
+          },
+          {
+            "id": "animal_life_zoology_strategy_b_p22_idx0_94ba25a7",
+            "source_id": "animal_life_zoology",
+            "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+            "page": 22,
+            "text": "ANIMAL LIFE\nCHAPTER I\nTHE LIFE OP THE SIMPLEST ANIMAIiS\n1. The simplest animals, or Protozoa.\n—\nThe simplest ani-\nmals are those whose bodies are simplest in structure and\nwhich do the things done by all living animals, such as\neating, breathing, moving, feeling, and reproducing in the\nmost primitive way. The body of a horse, made up of\nvarious organs and tissues, is complexly formed, and the\nvarious organs of the body perform the various kinds of\nwork for which they are fitted in a complex way. The\nsimplest animals are all very small, and almost all live in\nthe water ; some kinds in fresh water and many kinds in\nthe ocean. Some live in damp sand or moss, and still others\nare parasites in the bodies of other animals. They are not\nfamiliarly known to us; we can not see them with the\nunaided eye, and yet there are thousands of different kinds\nof them, and they may be found wherever there is water.\nIn a glass of water taken from a stagnant pool there\nis a host of animals. There may be a few water beetles\nor water bugs swimming violently about, animals half an\ninch long, with head and eyes and oar-like legs ; or there\nmay be a little fish, or some tadpoles and wrigglers. These\nare evidently not the simplest animals. There will be\nmany very small active animals barely visible to the un-\naided eyes. These, too, are animals of considerable com-\nplexity. But if a single drop of the water be placed\n3 1",
+            "metadata": {
+              "chapter": "CHAPTER I",
+              "char_count": 1416,
+              "page_number": 22
+            },
+            "score": 0.5671448628292596,
+            "strategy": "dense"
+          },
+          {
+            "id": "animal_life_zoology_strategy_b_p53_idx0_e1c4d86a",
+            "source_id": "animal_life_zoology",
+            "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+            "page": 53,
+            "text": "32 ANIMAL LIFE\ntion. They can perform all the other life processes ; they\nmove the colony by lashing the water with their flagella\n;\nthey take in food and assimilate it ; they can feel. All the\ncells of the great colony, too, are intimately connected by\nmeans of protoplasmic threads. The protoplasm of one\ncell can mingle with that of another cell; food can go\nfrom cell to cell. The question whether the Volvox colony\nis a group of distinct organisms or is a single organism\nmade up of cells among which there is a simple but obvi-\nous difference in structure and function ; in other words,\nwhether Volvox is a colony of one-celled animals, of Pro-\ntozoa, or is a multicellular animal, one of the Metazoa (for\nso all the many-celled animals are called), is a difficult one\nto decide. Most zoologists class the Volvocinse with the\nProtozoa—that is, they incline to consider Gonium, Pan-\ndorina^ Volvox, and the other Volvocinse as groups or col-\nonies of one-celled animals.\n20. Sponges.—If the Volvocinm be considered to belong\nto the Protozoa, the sponges are the simplest of all the\nmany-celled animals. Sponges are not free-swimming ani-\nmals, except for a short time in their young stage, but are\nfixed, like plants. They live attached to some solid sub-\nstance on the sea bottom. They resemble plants, too, in\nthe way in which the body is modified during growth by\nthe environment. If the rock to which the young sponge\nis attached is rough and uneven, the body of the sponge\nwill grow so as to fit the unevenness ; if the rock surface is\nsmooth, the body of the sponge will be more regular. Thus\na sponge may be said to have no fixed shape of body ; indi-\nviduals of the same species of sponge differ much in form.\nThe typical form of the sponges is that of a short cylinder\nor vase attached by one end and with the upper free end\nopen (Fig. 17). Many individuals of one kind usually live\ntogether in a close group or colony, and they may be so\nattached to each other as to appear like a branching plant.\nThis branching may be very diffuse, and the branches",
+            "metadata": {
+              "chapter": "CHAPTER II",
+              "char_count": 2065,
+              "page_number": 53
+            },
+            "score": 0.5650654223146915,
+            "strategy": "dense"
+          }
+        ],
+        "context": "",
+        "context_ids": []
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "prompt_tokens": 499,
+    "completion_tokens": 36,
+    "embed_tokens": 6,
+    "cost_usd": 9.657e-05,
+    "elapsed_ms": 2624.8165839351714
+  },
+  {
+    "query_id": "q20",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "conjugation in colonial protozoa",
+        "filter": null,
+        "results": [
+          {
+            "id": "animal_life_zoology_strategy_b_p48_idx0_5316adee",
+            "source_id": "animal_life_zoology",
+            "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+            "page": 48,
+            "text": "THE LIFE OF THE SLIGHTLY COMPLEX ANIMALS 27\ncolony, the two cells conjugate (Fig. 14)—that is, fuse to\nform a single cell. This new cell formed by the fusion of\ntwo, develops a tough enveloping membrane of cellulose\nand passes into what is called\nthe \" resting stage.\" That is,\nthe cell remains dormant for a\nshorter or longer time. Itmay\nthus tide over a drought or a\nwinter. It may become dry or\nbe frozen, yet when suitable\nconditions of moisture or tem-\nperature are again present the\nouter wall breaks and the pro-\ntoplasm issues as a large free-\nswimming cell, which soon di-\nvides into sixteen daughter\ncells which constitute a new\ncolony.\n16. Eudorina.—Another colo-\nnial protozoan which much re- g\nsembles Pandorina, but differs\nfrom it in one interesting and\nsuggestive thing, is Eudorina.\nIn Eudorina eJegans (Fig. 15)\nthe colony is spherical and is\ncomposed of sixteen or thirty- c\ntwo cells. Each of these cells\ncan become the parent of a new\ncolony by simple repeated divi- fig. i4\nsion. But this simple mode of\nreproduction, just as with Pan-\ndorina, can not persist indefi-\nnitely. There must be conjuga-\ntion. But the process of mul-\ntiplication, which includes conjugation, is different from\nthat process in Pandorina^ in that in Eudorina the conju-\nPandoi-ina morum (after\nGoEBEL). Three stages in the\nconjugation and formation of the\nresting spore. A, two cells just\nfused; B, the two cells completely\nfused, but with flagella still per-\nsisting ; C, the resting spore.",
+            "metadata": {
+              "chapter": "CHAPTER II",
+              "char_count": 1489,
+              "page_number": 48
+            },
+            "score": 0.572406040384479,
+            "strategy": "dense"
+          },
+          {
+            "id": "animal_life_zoology_strategy_b_p49_idx0_50eda738",
+            "source_id": "animal_life_zoology",
+            "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+            "page": 49,
+            "text": "28 ANIMAL LIFE\ngating cells are of two distinctly different kinds. When\nthis kind of multiplication is to take place in the case of\nEudorina elegans, to choose a common species, some of\nthe cells of a colony divide into sixteen or thirty-two\nminute elongated cells, each\nprovided with two flagella.\nThese small cells escape\nVia. \\t>.—Eudorina degans. A, a mature colony (from Nature); B, formation of\nthe two kinds of reproductive cells.\nfrom the envelope of the parent cell, remaining for some\ntime united in small bundles. Other cells of the colony\ndo not divide, but increase slightly in size and become\nspherical in shape. When a bundle of the small cells\ncomes into contact with some of these large spherical\ncells the bundle breaks up, and conjugation takes place\nbetween the small flagellated free-swimming cells and the\nlarge non-flagellate spherical cells. Each new cell formed\nby the fusion of one of the small and one of the large cells\ndevelops a cellulose wall and assumes a resting stage.\nAfter a time from each of these resting spores a new colony\nof sixteen or thirty-two cells is formed by direct, repeated\ndivision.\n17. Volvox.—Another interesting colonial protozoan is\nVolvox. The large spherical colonies of Volvox glohator",
+            "metadata": {
+              "chapter": "CHAPTER II",
+              "char_count": 1243,
+              "page_number": 49
+            },
+            "score": 0.5110068743361564,
+            "strategy": "dense"
+          },
+          {
+            "id": "animal_life_zoology_strategy_b_p45_idx0_d7bbbe24",
+            "source_id": "animal_life_zoology",
+            "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+            "page": 45,
+            "text": "CHAPTER II\nTHE LIFE OP THE SLIGHTLY COMPLEX ANIMALS\n13. Colonial Protozoa.—When one of the simplest animals\nmultiplies by fission, the halves of the one-celled body sepa-\nrate wholly from each other, move apart, and pursue their\nlives independently. . The original parent cell divides to\nform two cells, which exist thereafter wholly apart from\neach other. There are, however, certain simple animjils\nwhich are classed with the Protozoa, which show an inter-\nesting and important difference from the great majority of\nthe simplest animals. These are the so-called colony-form-\ning or colonial Protozoa.\nThese colonial Protozoa belong to a group of organisms\ncalled the * Volvocinae. The simplest of the Volvocinae are\nsingle cells, which live wholly independently and are in\nstructure and habit essentially like the other Protozoa we\nhave studied. They have, however, imbedded in the one-\ncelled body a bit of chlorophyll, the green substance which\ngives the color to green plants and is so important in their\nphysiology. In this respect they differ from the other\nProtozoa. Among the other Volvocinae, however, a few or\nmany cells live together, forming a small colony—that is,\n• These colonial organisms, the Volvocinae, are the objects of some\ncontention between botanists and zoologists. The botanists call them\nplants because they possess a cellulose membrane and green chroma-\ntophores, and exhibit the metabolism characteristic of most plants ; but\nmost zoologists consider them to be animals belonging to the order\nFlagellata of the Protozoa. In the latest authoritative text-book of\nzoology, that of Parker and Haswell (1897), they are so classed.\n24",
+            "metadata": {
+              "chapter": "CHAPTER II",
+              "char_count": 1659,
+              "page_number": 45
+            },
+            "score": 0.4878383633676766,
+            "strategy": "dense"
+          }
+        ],
+        "context": "",
+        "context_ids": []
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "prompt_tokens": 503,
+    "completion_tokens": 40,
+    "embed_tokens": 8,
+    "cost_usd": 9.961e-05,
+    "elapsed_ms": 2357.556125149131
+  },
+  {
+    "query_id": "u_test_1",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "IUCN Red List conservation status Bengal tiger",
+        "filter": null,
+        "results": [
+          {
+            "id": "animal_life_zoology_strategy_b_p35_idx0_605a4fd5",
+            "source_id": "animal_life_zoology",
+            "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+            "page": 35,
+            "text": "14 ANIMAL LIFE\ncanal * of crayfishes and centipeds and certain insects.\nGregarina is a parasite, living at the expense of the host\nin whose body it lies. It has no need to swim about quickly,\nFig. 9.—GregarinidaB. A, a Gregarinid (Actinocephalus oligacanthus) from the intes-\ntine of an insect (after Stein) ; B and C, spore forming by a Gregarinid {Coc-\ncidium ovifortne) from tlie liver of a guinea-pig (after Leuckabt) ; D, E, and\nP, successive stages in the conjugation and spore forming of Oregarina poly-\ntrwrpha (after Koklliker).\nand hence has no swimming cilia like Paramcecuim and\nthe young Vorticella. It does need to cling to the inner\nwall of the alimentary canal of its host, and the body of\nsome species is provided with hooks for that purpose. The\n* Specimens of Oregarina can be abundantly found in the alimen-\ntary canal of meal worms, the larvae of the black beetle {Tenehrio moli-\ntor), common in granaries, mills, and brans. \"Snip off with small\nscissors both ends of a larva, seize the protruding (white) intestine with\nforceps, draw it out, and tease a portion in normal salt solution (water\nwill do) on a slide. Cover, find with the low power (minute, oblong,\ntransparent bodies), and study with any higher objective to suit.\"\n—\nMURBACH.",
+            "metadata": {
+              "chapter": "CHAPTER I",
+              "char_count": 1261,
+              "page_number": 35
+            },
+            "score": 0.16411687820705456,
+            "strategy": "dense"
+          },
+          {
+            "id": "animal_life_zoology_strategy_b_p39_idx0_3ecf3e36",
+            "source_id": "animal_life_zoology",
+            "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+            "page": 39,
+            "text": "18 ANIMAL LIFE\none outside of the capsule. In the protoplasm inside of\nthe capsule lies the nucleus or nuclei ; and from the proto-\nplasm outside of the capsule rise the numerous fine, thread-\nlike pseudopods which project through the apertures in the\nshell, and enable the animal to swim and to get food.\nMost of the myriads of the simplest animals which\nswarm in the surface waters of the ocean belong to a few\nkinds of these shell-bearing Globigerinee and Eadiolaria.\nLarge areas of the bottom of the Atlantic Ocean are cov-\nered with a slimy gray mud, often of great thickness, which\nis called globigerina-ooze, because it is made up chiefly of\nthe microscopic shells of Globigerinae. As death comes to\nthe minute protoplasmic animals their hard shells sink\nslowly to the bottom, and accumulate in such vast quanti-\nties as to form a thick layer on the ocean floor. Xor is it\nonly in present times and in the oceans we know that the\nGlobigerinas have flourished. All over the world there are\nthick rock strata which are composed chiefly of the fos-\nsilized shells of these simplest animals. Where the strata\nare made up exclusively of these shells the rock is chalk.\nThus are composed the great chalk cliffs of Kent, which\ngave to England the early name of Albion, and the chalk\nbeds of France and Spain and Greece. The existence of\nthese chalk strata means that where now is land, in earlier\ngeologic times were oceans, and that in the oceans Globi-\ngerinas lived in countless numbers. Dying, their shells\naccumulated to form thick layers on the sea bottom. In\nlater geologic ages this sea bottom has been uplifted and\nis now land, far perhaps from any ocean. The chalk strata\nof the plains of the United States, like those in Kansas, are\nmore than a thousand miles from the sea, and yet they are\nmainly composed of the fossilized shells of marine Pro-\ntozoa. Indeed, we are acquainted with more than twice as\nmany fossil species of Globigerinas as species living at the\npresent time. The ancestors of these Globigerinas, from\nwhich the present Globigerinas differ but little, can be",
+            "metadata": {
+              "chapter": "CHAPTER I",
+              "char_count": 2088,
+              "page_number": 39
+            },
+            "score": 0.15733432387592516,
+            "strategy": "dense"
+          },
+          {
+            "id": "animal_life_zoology_strategy_b_p45_idx0_d7bbbe24",
+            "source_id": "animal_life_zoology",
+            "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+            "page": 45,
+            "text": "CHAPTER II\nTHE LIFE OP THE SLIGHTLY COMPLEX ANIMALS\n13. Colonial Protozoa.—When one of the simplest animals\nmultiplies by fission, the halves of the one-celled body sepa-\nrate wholly from each other, move apart, and pursue their\nlives independently. . The original parent cell divides to\nform two cells, which exist thereafter wholly apart from\neach other. There are, however, certain simple animjils\nwhich are classed with the Protozoa, which show an inter-\nesting and important difference from the great majority of\nthe simplest animals. These are the so-called colony-form-\ning or colonial Protozoa.\nThese colonial Protozoa belong to a group of organisms\ncalled the * Volvocinae. The simplest of the Volvocinae are\nsingle cells, which live wholly independently and are in\nstructure and habit essentially like the other Protozoa we\nhave studied. They have, however, imbedded in the one-\ncelled body a bit of chlorophyll, the green substance which\ngives the color to green plants and is so important in their\nphysiology. In this respect they differ from the other\nProtozoa. Among the other Volvocinae, however, a few or\nmany cells live together, forming a small colony—that is,\n• These colonial organisms, the Volvocinae, are the objects of some\ncontention between botanists and zoologists. The botanists call them\nplants because they possess a cellulose membrane and green chroma-\ntophores, and exhibit the metabolism characteristic of most plants ; but\nmost zoologists consider them to be animals belonging to the order\nFlagellata of the Protozoa. In the latest authoritative text-book of\nzoology, that of Parker and Haswell (1897), they are so classed.\n24",
+            "metadata": {
+              "chapter": "CHAPTER II",
+              "char_count": 1659,
+              "page_number": 45
+            },
+            "score": 0.1465729705315696,
+            "strategy": "dense"
+          }
+        ],
+        "context": "",
+        "context_ids": []
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "prompt_tokens": 508,
+    "completion_tokens": 43,
+    "embed_tokens": 9,
+    "cost_usd": 0.00010218,
+    "elapsed_ms": 2394.9694582261145
+  },
+  {
+    "query_id": "u_test_2",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "electron microscope magnification required to view mitochondria in Amoeba",
+        "filter": null,
+        "results": [
+          {
+            "id": "animal_life_zoology_strategy_b_p30_idx0_75b15360",
+            "source_id": "animal_life_zoology",
+            "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+            "page": 30,
+            "text": "THE LIFE OF THE SIMPLEST ANIMALS 9\nAn Amoeba which has grown for some time contracts all\nits finger-like processes, and its body becomes constricted.\nThis constriction or fissure increases inward, so that the\nbody is soon divided fairly in two (Fig. 4). The body,\nbeing an animal cell, possesses a nucleus imbedded in the\nbody protoplasm or cytoplasm. When the body begins to\ndivide, the nucleus begins to divide also, and becomes en-\ntirely divided before the fission of the cytoplasm is com-\nplete. There are now two Amoebce, each half the size of\nthe original one ; each, indeed, being actually one half of\nthe original one. This splitting of the body of the Amceba,\nwhich is called fission, is the process of reproduction. The\noriginal Amoeba is the parent ; the two halves of the parent\nare the young. Each of the young possesses all of the\ncharacteristics and powers of the parent ; each can move,\neat, feel, grow, and reproduce by fission. It is very evident\nthat this is so, for any part of the body or the whole body\nwas used in performing these functions, and the young are\nsimply two parts of the parent's body. But if there be any\ndoubt about the matter, observation of the behavior of the\nyoung or new Amoebm will soon remove it. Each puts out\npseudopods, moves, ingests food particles, avoids sand\ngrains, contracts if the water is heated, grows, and finally\ndivides in two.\n-\\\" 5. Paxam(BciiuiL—Another protozoan which is common\nin stagnant pools and can be readily obtained and observed\nis Paramcecuim (Fig. 5). The body of the Paramcecium is\nmuch largerthan that of the Amoeba^being nearlyone fourth\nof a millimeter in length, and is of fixed shape. It is elon-\ngate, elliptical, and flattened, and when examined under the\nmicroscope seems to be a very complexly formed little mass.\nThe body of the Paramcecium is indeed less primitive than\nthat of the Amoeba, and yet it is still but a single cell.\nThe protoplasm of the body is very soft within and dense\non the outside, and it is covered externally by a thin mem-\nbrane. The body is covered with short fine hairs or cilia,",
+            "metadata": {
+              "chapter": "CHAPTER I",
+              "char_count": 2092,
+              "page_number": 30
+            },
+            "score": 0.44735295543294484,
+            "strategy": "dense"
+          },
+          {
+            "id": "animal_life_zoology_strategy_b_p31_idx0_f773da95",
+            "source_id": "animal_life_zoology",
+            "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+            "page": 31,
+            "text": "10 ANIMAL LIFE\nwhich are fine processes of the dense protoplasm of the\nsurface. There is on one side an oblique shallow groove\nthat leads to a small, funnel-shaped depression in the body\nwhich serves as a primitive sort ofmouth\nor opening for the ingress of food.\nThe Paramcecium swims about in the\nwater by vibrating the cilia which cov-\ner the body, and brings food to the\nmouth opening by producing tiny cur-\nrents in the water by means of the\ncilia in the oblique groove. The food,\nwhich consists of other living Proto-\nzoa, is taken into the body mass only\nthrough the funnel-shaped opening, and\nthat part of it which is undigested is\nthrust out always through a particular\npart of the body surface. (The taking\nin and ejecting of foreign particles can\nbe seen by putting a little powdered\ncarmine in the water.) Within the\nbody there are two nuclei and two so-\ncalled pulsating vacuoles. These pul-\nsating vacuoles {Amoeba has one) seem\nto aid in discharging waste products\nfrom the body. When the ParamcB-\ncium touches some foreign substance or\nis otherwise irritated it swims away,\nand it shoots out from the surface of its body some fine\nlong threads which when at rest are probably coiled up in\nlittle sacs on the surface of the body. When the Para-\nmcecium has taken in enough food and grown so that it\nhas reached the limit of its size, it divides transversely into\nhalves as the Amoeba does. Both nuclei divide first, and\nthen the cytoplasm constricts and divides (Fig. 6). Thus\ntwo new Paramoecia are formed. One of them has to de-\nvelop a new mouth opening and groove, so that there is in\nFig. 5.\n—\nParamcecium au-\nrelia (after Verworn).\nAt each end there is a\ncontractile vacuole, and\nin the center is one of\nthe nuclei.",
+            "metadata": {
+              "chapter": "CHAPTER I",
+              "char_count": 1736,
+              "page_number": 31
+            },
+            "score": 0.44210784536862824,
+            "strategy": "dense"
+          },
+          {
+            "id": "animal_life_zoology_strategy_b_p29_idx0_4c840fc0",
+            "source_id": "animal_life_zoology",
+            "source": "animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf",
+            "page": 29,
+            "text": "8 ANIMAL LIFE\nAmoeba is irritable; it possesses irritability, which is sensa-\ntion in its simplest degree.\nIf food is abundant the Amoeba soon increases in size.\nThe bulk of its body is bound to increase if new substance\nVtQ. 4.\n—\nAnicBba ix>li/podia in six successive stages of division. The dark, white-\nmargined spot in the interior is the nucleus.—After F. E. Schui-ze.\nis constantly assimilated and added to it. The Amoeba\ngrows. But there seem to be some fixed limits to the\nextent of this increase in size. Xo Amoeba becomes large.\nA remarkable phenomenon always occurs to prevent this.",
+            "metadata": {
+              "chapter": "CHAPTER I",
+              "char_count": 593,
+              "page_number": 29
+            },
+            "score": 0.4407970694531874,
+            "strategy": "dense"
+          }
+        ],
+        "context": "[animal_life_zoology_strategy_b_p29_idx0_4c840fc0 | animal-life-a-first-book-of-zoology-david-starr-jordan-and-vernon-l-kellogg-13256.pdf | page 29]\n8 ANIMAL LIFE\nAmoeba is irritable; it possesses irritability, which is sensa-\ntion in its simplest degree.\nIf food is abundant the Amoeba soon increases in size.\nThe bulk of its body is bound to increase if new substance\nVtQ. 4.\n—\nAnicBba ix>li/podia in six successive stages of division. The dark, white-\nmargined spot in the interior is the nucleus.—After F. E. Schui-ze.\nis constantly assimilated and added to it. The Amoeba\ngrows. But there seem to be some fixed limits to the\nextent of this increase in size. Xo Amoeba becomes large.\nA remarkable phenomenon always occurs to prevent this.",
+        "context_ids": [
+          "animal_life_zoology_strategy_b_p29_idx0_4c840fc0"
+        ]
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "prompt_tokens": 714,
+    "completion_tokens": 42,
+    "embed_tokens": 13,
+    "cost_usd": 0.00013256,
+    "elapsed_ms": 2669.5830831304193
+  }
+]

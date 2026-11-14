@@ -1,0 +1,16 @@
+{
+  "strategy": "hybrid_rrf",
+  "split": "dev",
+  "top_k": 3,
+  "budget_chars": 800,
+  "sort_by_score": false,
+  "use_filter": false,
+  "n": 15,
+  "hit1": 11,
+  "hit3": 13,
+  "context_hit": 1,
+  "avg_context_chars": 245.93333333333334,
+  "median_ms": 289.0975000336766,
+  "embed_tokens": 164,
+  "service_cost_usd": 3.28e-06
+}

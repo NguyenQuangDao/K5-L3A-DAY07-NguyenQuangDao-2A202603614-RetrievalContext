@@ -1,0 +1,16 @@
+{
+  "strategy": "dense",
+  "split": "dev",
+  "top_k": 3,
+  "budget_chars": 800,
+  "sort_by_score": false,
+  "use_filter": false,
+  "n": 15,
+  "hit1": 13,
+  "hit3": 13,
+  "context_hit": 1,
+  "avg_context_chars": 197.86666666666667,
+  "median_ms": 328.14562506973743,
+  "embed_tokens": 164,
+  "service_cost_usd": 3.28e-06
+}

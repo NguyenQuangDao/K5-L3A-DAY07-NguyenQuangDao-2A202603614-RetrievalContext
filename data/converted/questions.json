@@ -1,0 +1,322 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "question": "What are the simplest animals called in zoology?",
+    "gold": [
+      {
+        "source_id": "animal_life_zoology",
+        "page": 22,
+        "evidence": "The simplest animals, or Protozoa"
+      }
+    ],
+    "expected_answer": "The simplest animals, or Protozoa",
+    "filter": {
+      "chapter": "CHAPTER I"
+    }
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "question": "What is required to see the microscopic animals in stagnant water?",
+    "gold": [
+      {
+        "source_id": "animal_life_zoology",
+        "page": 23,
+        "evidence": "compound microscope"
+      }
+    ],
+    "expected_answer": "compound microscope",
+    "filter": {
+      "chapter": "CHAPTER I"
+    }
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "question": "What does a primitive animal cell consist of?",
+    "gold": [
+      {
+        "source_id": "animal_life_zoology",
+        "page": 24,
+        "evidence": "The primitive animal cell (Fig. 1) consists of a"
+      }
+    ],
+    "expected_answer": "The primitive animal cell (Fig. 1) consists of a",
+    "filter": {
+      "chapter": "CHAPTER I"
+    }
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "question": "Why is protoplasm difficult for chemists to fully determine?",
+    "gold": [
+      {
+        "source_id": "animal_life_zoology",
+        "page": 25,
+        "evidence": "chemical structure is so complex that no chemist has yet"
+      }
+    ],
+    "expected_answer": "chemical structure is so complex that no chemist has yet",
+    "filter": {
+      "chapter": "CHAPTER I"
+    }
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "question": "What can the primitive animal cell do?",
+    "gold": [
+      {
+        "source_id": "animal_life_zoology",
+        "page": 26,
+        "evidence": "What the primitive cell can do"
+      }
+    ],
+    "expected_answer": "What the primitive cell can do",
+    "filter": {
+      "chapter": "CHAPTER I"
+    }
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "question": "Does the body of Amoeba have a fixed outline?",
+    "gold": [
+      {
+        "source_id": "animal_life_zoology",
+        "page": 27,
+        "evidence": "the body of the Amoeba has no fixed outline"
+      }
+    ],
+    "expected_answer": "the body of the Amoeba has no fixed outline",
+    "filter": {
+      "chapter": "CHAPTER I"
+    }
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "question": "How does Amoeba ingest food particles?",
+    "gold": [
+      {
+        "source_id": "animal_life_zoology",
+        "page": 28,
+        "evidence": "to press against it, and soon the plant or animal or organic"
+      }
+    ],
+    "expected_answer": "to press against it, and soon the plant or animal or organic",
+    "filter": {
+      "chapter": "CHAPTER I"
+    }
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "question": "What happens when food is abundant for the Amoeba?",
+    "gold": [
+      {
+        "source_id": "animal_life_zoology",
+        "page": 29,
+        "evidence": "If food is abundant the Amoeba soon increases in size"
+      }
+    ],
+    "expected_answer": "If food is abundant the Amoeba soon increases in size",
+    "filter": {
+      "chapter": "CHAPTER I"
+    }
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "question": "How does an Amoeba reproduce by fission?",
+    "gold": [
+      {
+        "source_id": "animal_life_zoology",
+        "page": 30,
+        "evidence": "An Amoeba which has grown for some time contracts all"
+      }
+    ],
+    "expected_answer": "An Amoeba which has grown for some time contracts all",
+    "filter": {
+      "chapter": "CHAPTER I"
+    }
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "question": "What structure is found on one side of Paramoecium?",
+    "gold": [
+      {
+        "source_id": "animal_life_zoology",
+        "page": 31,
+        "evidence": "There is on one side an oblique shallow groove"
+      }
+    ],
+    "expected_answer": "There is on one side an oblique shallow groove",
+    "filter": {
+      "chapter": "CHAPTER I"
+    }
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "question": "How does reproduction occur in Paramoecium?",
+    "gold": [
+      {
+        "source_id": "animal_life_zoology",
+        "page": 32,
+        "evidence": "the case of the reproduction of Paramoecium the beginnings"
+      }
+    ],
+    "expected_answer": "the case of the reproduction of Paramoecium the beginnings",
+    "filter": {
+      "chapter": "CHAPTER I"
+    }
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "question": "What follows the conjugation in Paramoecium?",
+    "gold": [
+      {
+        "source_id": "animal_life_zoology",
+        "page": 33,
+        "evidence": "tions by simple fission follow"
+      }
+    ],
+    "expected_answer": "tions by simple fission follow",
+    "filter": {
+      "chapter": "CHAPTER I"
+    }
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "question": "What is the shape of the bell animalcule Vorticella?",
+    "gold": [
+      {
+        "source_id": "animal_life_zoology",
+        "page": 34,
+        "evidence": "The body is pear-shaped or bell-shaped, with a mouth"
+      }
+    ],
+    "expected_answer": "The body is pear-shaped or bell-shaped, with a mouth",
+    "filter": {
+      "chapter": "CHAPTER I"
+    }
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "question": "How does Gregarina live inside its host?",
+    "gold": [
+      {
+        "source_id": "animal_life_zoology",
+        "page": 35,
+        "evidence": "Gregarina is a parasite, living at the expense of the host"
+      }
+    ],
+    "expected_answer": "Gregarina is a parasite, living at the expense of the host",
+    "filter": {
+      "chapter": "CHAPTER I"
+    }
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "question": "What kind of food does Gregarina absorb?",
+    "gold": [
+      {
+        "source_id": "animal_life_zoology",
+        "page": 36,
+        "evidence": "food of Gregarina is the liquid food of the host as it exists"
+      }
+    ],
+    "expected_answer": "food of Gregarina is the liquid food of the host as it exists",
+    "filter": {
+      "chapter": "CHAPTER I"
+    }
+  },
+  {
+    "id": "q16",
+    "split": "test",
+    "question": "How do pseudopodia of certain rhizopods touch and interlace?",
+    "gold": [
+      {
+        "source_id": "animal_life_zoology",
+        "page": 38,
+        "evidence": "fine threads interlace when they touch each other, thus"
+      }
+    ],
+    "expected_answer": "fine threads interlace when they touch each other, thus",
+    "filter": {
+      "chapter": "CHAPTER I"
+    }
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "question": "Where does the nucleus lie inside the capsule of radiolarians?",
+    "gold": [
+      {
+        "source_id": "animal_life_zoology",
+        "page": 39,
+        "evidence": "the capsule lies the nucleus or nuclei ; and from the proto-"
+      }
+    ],
+    "expected_answer": "the capsule lies the nucleus or nuclei ; and from the proto-",
+    "filter": {
+      "chapter": "CHAPTER I"
+    }
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "question": "Can the fossil shells of Foraminifera be traced in geologic history?",
+    "gold": [
+      {
+        "source_id": "animal_life_zoology",
+        "page": 40,
+        "evidence": "traced far back in the geologic history of the world"
+      }
+    ],
+    "expected_answer": "traced far back in the geologic history of the world",
+    "filter": {
+      "chapter": "CHAPTER I"
+    }
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "question": "What happens when one of the simplest animals forms a colony?",
+    "gold": [
+      {
+        "source_id": "animal_life_zoology",
+        "page": 45,
+        "evidence": "13. Colonial Protozoa.—When one of the simplest animals"
+      }
+    ],
+    "expected_answer": "13. Colonial Protozoa.—When one of the simplest animals",
+    "filter": {
+      "chapter": "CHAPTER II"
+    }
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "question": "What occurs when two cells conjugate in colonial protozoa?",
+    "gold": [
+      {
+        "source_id": "animal_life_zoology",
+        "page": 48,
+        "evidence": "colony, the two cells conjugate (Fig. 14)—that is, fuse to"
+      }
+    ],
+    "expected_answer": "colony, the two cells conjugate (Fig. 14)—that is, fuse to",
+    "filter": {
+      "chapter": "CHAPTER II"
+    }
+  }
+]

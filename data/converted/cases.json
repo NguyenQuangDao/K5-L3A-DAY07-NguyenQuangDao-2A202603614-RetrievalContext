@@ -1,0 +1,174 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "question": "What are the simplest animals called in zoology?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "question": "What is required to see the microscopic animals in stagnant water?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "question": "What does a primitive animal cell consist of?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "question": "Why is protoplasm difficult for chemists to fully determine?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "question": "What can the primitive animal cell do?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "question": "Does the body of Amoeba have a fixed outline?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "question": "How does Amoeba ingest food particles?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "question": "What happens when food is abundant for the Amoeba?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "question": "How does an Amoeba reproduce by fission?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "question": "What structure is found on one side of Paramoecium?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "question": "How does reproduction occur in Paramoecium?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "question": "What follows the conjugation in Paramoecium?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "question": "What is the shape of the bell animalcule Vorticella?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "question": "How does Gregarina live inside its host?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "question": "What kind of food does Gregarina absorb?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q16",
+    "split": "test",
+    "question": "How do pseudopodia of certain rhizopods touch and interlace?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "question": "Where does the nucleus lie inside the capsule of radiolarians?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "question": "Can the fossil shells of Foraminifera be traced in geologic history?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "question": "What happens when one of the simplest animals forms a colony?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "question": "What occurs when two cells conjugate in colonial protozoa?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer"
+  },
+  {
+    "id": "u_dev_1",
+    "split": "dev",
+    "question": "What is the exact genome size in base pairs of Amoeba proteus?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Sách Animal Life (1900) không đề cập đến kích thước bộ gen hay base pairs."
+  },
+  {
+    "id": "u_dev_2",
+    "split": "dev",
+    "question": "How is CRISPR-Cas9 used to edit genes in Protozoa according to the book?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Công nghệ CRISPR-Cas9 không tồn tại trong tài liệu."
+  },
+  {
+    "id": "u_test_1",
+    "split": "test",
+    "question": "What is the IUCN Red List conservation status of the Bengal tiger?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Tài liệu không chứa thông tin phân loại bảo tồn IUCN Red List."
+  },
+  {
+    "id": "u_test_2",
+    "split": "test",
+    "question": "Which electron microscope magnification is required to view mitochondria in Amoeba?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Tài liệu chỉ nhắc kính hiển vi quang học (compound microscope), không có kính hiển vi điện tử hay ty thể."
+  }
+]

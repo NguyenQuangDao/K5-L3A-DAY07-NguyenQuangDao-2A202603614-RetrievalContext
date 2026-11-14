@@ -1,0 +1,50 @@
+[
+  {
+    "query_id": "q16",
+    "answer_grade": 2,
+    "citation_support": [true],
+    "context_grade": 2,
+    "notes": "Context chứa chunk p38_idx0 đúng evidence; trả lời đúng và đủ."
+  },
+  {
+    "query_id": "q17",
+    "answer_grade": 0,
+    "citation_support": [false],
+    "context_grade": 0,
+    "notes": "Chunk p38_idx0 không chứa thông tin về vị trí của nucleus (nằm ở trang 39); model tự suy đoán dựa trên kiến thức sẵn có."
+  },
+  {
+    "query_id": "q18",
+    "answer_grade": 2,
+    "citation_support": [true],
+    "context_grade": 2,
+    "notes": "Context chứa chunk p40_idx0 đúng evidence về hóa thạch Foraminifera; trả lời và citation chính xác."
+  },
+  {
+    "query_id": "q19",
+    "answer_grade": 0,
+    "citation_support": [],
+    "context_grade": 0,
+    "notes": "Từ chối nhầm (false abstention) vì retriever không đưa được chunk trang 45 vào top-3."
+  },
+  {
+    "query_id": "q20",
+    "answer_grade": 2,
+    "citation_support": [true],
+    "context_grade": 2,
+    "notes": "Context chứa chunk p48_idx0 đúng evidence về conjugation và resting stage; trả lời đầy đủ và chính xác."
+  },
+  {
+    "query_id": "u_test_1",
+    "citation_support": [],
+    "abstention_correct": true,
+    "notes": "Tìm kiếm 3 lượt với query mở rộng và từ chối chính xác."
+  },
+  {
+    "query_id": "u_test_2",
+    "citation_support": [],
+    "abstention_correct": true,
+    "notes": "Tìm kiếm 1 lượt và từ chối chính xác."
+  }
+]
+
